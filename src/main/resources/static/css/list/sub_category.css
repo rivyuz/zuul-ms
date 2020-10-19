@@ -1,0 +1,16 @@
+.sub_category {
+	background-color: white;
+	border-radius: 3px;
+	width: auto;
+	height: auto;
+	min-height: 3vh;
+	margin-top: 1vh;
+	margin-right: 1vh;
+	margin-bottom: 1vh;
+	margin-left: 1vh;
+	padding: 5px;
+	cursor: pointer;
+}
+.sub_category:hover {
+	background-color: #f4f4f4;
+}

@@ -1,0 +1,2384 @@
+.Audi { background-image: url('../../images/list/car/audi_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.A3-35TDIATTRACTION { background-position: 0px 0px; }
+.A3-35TDIPREMIUM { background-position: 0px -60px; }
+.A3-35TDIPREMIUMPLUS { background-position: 0px -120px; }
+.A3-35TDITECHNOLOGY { background-position: 0px -180px; }
+.A3-40TFSIPREMIUMPLUS_SED { background-position: 0px -240px; }
+.A3-Cabriolet { background-position: 0px -300px; }
+.A4-35TDIPREMIUM { background-position: 0px -360px; }
+.A4-35TDIPREMIUMSPORT { background-position: 0px -420px; }
+.A4-35TDITECHNOLOGYEDITION { background-position: 0px -480px; }
+.A4-35TFSI { background-position: 0px -540px; }
+.A6-35TDIPREMIUM { background-position: 0px -600px; }
+.A6-35TDIPREMIUMPLUS { background-position: 0px -660px; }
+.A6-35TDITECHNOLOGY { background-position: 0px -720px; }
+.A6-40TFSIPREMIUMPLUS { background-position: 0px -780px; }
+.A8-L50TDIQUATTRO { background-position: 0px -840px; }
+.A8-L60TDIQUATTRO { background-position: 0px -900px; }
+.A8-L60TFSIQUATTRO { background-position: 0px -960px; }
+.A8-LW126_3FSIQUATTRO { background-position: 0px -1020px; }
+.Q3-30TDISEDITION { background-position: 0px -1080px; }
+.Q3-35TDIQUATTRO { background-position: 0px -1140px; }
+.Q5-30TDIQUATTRO { background-position: 0px -1200px; }
+.Q5-45TDIQUATTRO { background-position: 0px -1260px; }
+.Q7-35TDIqPremium { background-position: 0px -1320px; }
+.Q7-35TDIqPREMIUMPLUS { background-position: 0px -1380px; }
+.Q7-35TDIqTECHNOLOGY { background-position: 0px -1440px; }
+.R8-V10COUPE { background-position: 0px -1500px; }
+.R8-V10PLUS { background-position: 0px -1560px; }
+.R8-V10SPYDER { background-position: 0px -1620px; }
+.R8-V8Coupe { background-position: 0px -1680px; }
+.RS5-COUPE { background-position: 0px -1740px; }
+.RS6-Avant { background-position: 0px -1800px; }
+.RS7-SPORTBACK { background-position: 0px -1860px; }
+.S6Saloon-4_0TFSIq { background-position: 0px -1920px; }
+.TT-2_0TFSIquattro { background-position: 0px -1980px; }
+
+.BMW { background-image: url('../../images/list/car/bmw_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.1Series-118dSportLine { background-position: 0px 0px; }
+.3Series-320dLuxuryLine { background-position: 0px -60px; }
+.3Series-320dLuxuryLineEdition2 { background-position: 0px -120px; }
+.3Series-320dPrestige { background-position: 0px -180px; }
+.3Series-320dPrestigeEdition2 { background-position: 0px -240px; }
+.3Series-320dSportLine { background-position: 0px -300px; }
+.3Series-320dSportLineEdition2 { background-position: 0px -360px; }
+.5Series-520dLuxuryLineEdition { background-position: 0px -420px; }
+.5Series-520dLuxuryLineEdition2 { background-position: 0px -480px; }
+.5Series-520dPrestigePlusEdition { background-position: 0px -540px; }
+.5Series-520dPrestigePlusEdition2 { background-position: 0px -600px; }
+.5Series-530dMSportEdition { background-position: 0px -660px; }
+.5Series-530dPrestigeEdition { background-position: 0px -720px; }
+.5Series-530dPrestigeEdition2 { background-position: 0px -780px; }
+.6Series-GranCoupeDesignPureExperience { background-position: 0px -840px; }
+.6Series-GranCoupeEminence { background-position: 0px -900px; }
+.7Series-730LdEminence { background-position: 0px -960px; }
+.7Series-730LdPrestige { background-position: 0px -1020px; }
+.7Series-730LdSignature { background-position: 0px -1080px; }
+.7Series-750LiEminence { background-position: 0px -1140px; }
+.7Series-760LiEminence { background-position: 0px -1200px; }
+.7Series-ActiveHybrid7L { background-position: 0px -1260px; }
+.GranTurismo-luxuryline { background-position: 0px -1320px; }
+.GranTurismo-SportLine { background-position: 0px -1380px; }
+.I8-Hybrid { background-position: 0px -1440px; }
+.MSeries-M3Sedan { background-position: 0px -1500px; }
+.MSeries-M4Coupe { background-position: 0px -1560px; }
+.MSeries-M5Sedan { background-position: 0px -1620px; }
+.MSeries-M6GranCoupe { background-position: 0px -1680px; }
+.X1-sDrive20dxLine { background-position: 0px -1740px; }
+.X3-xDrive20dExpedition { background-position: 0px -1800px; }
+.X3-xDrive20dxLine { background-position: 0px -1860px; }
+.X3-xDrive30dMSport { background-position: 0px -1920px; }
+.X5-xDrive30dDesignPureExperience5Seater { background-position: 0px -1980px; }
+.X5-xDrive30dDesignPureExperience7Seater { background-position: 0px -2040px; }
+.X5-xDrive30dExpedition { background-position: 0px -2100px; }
+.X6-MSport { background-position: 0px -2160px; }
+.Z4-sDrive35iDPT { background-position: 0px -2220px; }
+.Z4-sDrive35iPrestige { background-position: 0px -2280px; }
+
+.Chevrolet { background-image: url('../../images/list/car/chevrolet_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Beat-1_0LSTCDiMY15 { background-position: 0px 0px; }
+.Beat-1_0LTOptionMY15 { background-position: 0px -60px; }
+.Beat-1_0LTTCDiMY15 { background-position: 0px -120px; }
+.Beat-1_0TCDiMY15 { background-position: 0px -180px; }
+.Beat-1_2LSMY15 { background-position: 0px -240px; }
+.Beat-1_2LTMY15 { background-position: 0px -300px; }
+.Beat-1_2LTOptionMY15 { background-position: 0px -360px; }
+.Beat-1_2MY15 { background-position: 0px -420px; }
+.Captiva-2_2LT { background-position: 0px -480px; }
+.Captiva-2_2LTZ { background-position: 0px -540px; }
+.Cruze-LT { background-position: 0px -600px; }
+.Cruze-LTZAT { background-position: 0px -660px; }
+.Cruze-LTZMT { background-position: 0px -720px; }
+.Enjoy-1_3TCDiLS7Seater { background-position: 0px -780px; }
+.Enjoy-1_3TCDiLS8Seater { background-position: 0px -840px; }
+.Enjoy-1_3TCDiLT7Seater { background-position: 0px -900px; }
+.Enjoy-1_3TCDiLT8Seater { background-position: 0px -960px; }
+.Enjoy-1_3TCDiLTZ8Seater { background-position: 0px -1020px; }
+.Enjoy-1_4LS7Seater { background-position: 0px -1080px; }
+.Enjoy-1_4LS8Seater { background-position: 0px -1140px; }
+.Enjoy-1_4LT7Seater { background-position: 0px -1200px; }
+.Enjoy-1_4LT8Seater { background-position: 0px -1260px; }
+.Enjoy-1_4LTZ7Seater { background-position: 0px -1320px; }
+.Enjoy-1_4LTZ8Seater { background-position: 0px -1380px; }
+.Sail-1_2Base { background-position: 0px -1440px; }
+.Sail-1_2LS { background-position: 0px -1500px; }
+.Sail-1_2LSABS { background-position: 0px -1560px; }
+.Sail-1_2LTABS { background-position: 0px -1620px; }
+.Sail-1_3Base { background-position: 0px -1680px; }
+.Sail-1_3LS { background-position: 0px -1740px; }
+.Sail-1_3LSABS { background-position: 0px -1800px; }
+.Sail-1_3LTABS { background-position: 0px -1860px; }
+.SailHatchback-1_2 { background-position: 0px -1920px; }
+.SailHatchback-1_2LS { background-position: 0px -1980px; }
+.SailHatchback-1_2LSABS { background-position: 0px -2040px; }
+.SailHatchback-1_2LTABS { background-position: 0px -2100px; }
+.SailHatchback-1_3TCDi { background-position: 0px -2160px; }
+.SailHatchback-1_3TCDiLS { background-position: 0px -2220px; }
+.SailHatchback-1_3TCDiLSABS { background-position: 0px -2280px; }
+.SailHatchback-1_3TCDiLTABS { background-position: 0px -2340px; }
+.Spark-1_0BS4OBDII { background-position: 0px -2400px; }
+.Spark-1_0LSBS4OBDII { background-position: 0px -2460px; }
+.Spark-1_0LTBS4OBDII { background-position: 0px -2520px; }
+.Tavera-Neo3-10-BS3 { background-position: 0px -2580px; }
+.Tavera-Neo3AmbulanceBS3 { background-position: 0px -2640px; }
+.Tavera-Neo3LS-10-BS3 { background-position: 0px -2700px; }
+.Tavera-Neo3LS-7-BS3 { background-position: 0px -2760px; }
+.Tavera-Neo3LS-7_C-BS3 { background-position: 0px -2820px; }
+.Tavera-Neo3LT-8-BS3 { background-position: 0px -2880px; }
+.Tavera-Neo3LT-9-BS3 { background-position: 0px -2940px; }
+.Tavera-Neo3Max-10-BS3 { background-position: 0px -3000px; }
+.Tavera-Neo3Max-7-BS3 { background-position: 0px -3060px; }
+.Tavera-Neo3MaxAmbulanceBS3 { background-position: 0px -3120px; }
+.Tavera-Neo_3LT-7_C-BS3 { background-position: 0px -3180px; }
+
+.Fiat { background-image: url('../../images/list/car/fiat_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Avventura-1_3LMULTIJETACTIVE { background-position: 0px 0px; }
+.Avventura-1_3LMULTIJETDYNAMIC { background-position: 0px -60px; }
+.Avventura-1_3LMULTIJETEMOTION { background-position: 0px -120px; }
+.Avventura-1_4LFIREACTIVE { background-position: 0px -180px; }
+.Avventura-1_4LFIREDYNAMIC { background-position: 0px -240px; }
+.Linea-1_3LMULTIJETACTIVE { background-position: 0px -300px; }
+.Linea-1_3LMULTIJETDYNAMIC { background-position: 0px -360px; }
+.Linea-1_3LMULTIJETEMOTION { background-position: 0px -420px; }
+.Linea-1_4LFIREACTIVE { background-position: 0px -480px; }
+.Linea-1_4LTJETACTIVE { background-position: 0px -540px; }
+.Linea-1_4LTJETDYNAMIC { background-position: 0px -600px; }
+.Linea-1_4LTJETEMOTION { background-position: 0px -660px; }
+.LineaClassic-1_3MULTIJET { background-position: 0px -720px; }
+.LineaClassic-1_4PETROL { background-position: 0px -780px; }
+.LineaClassic-PLUS1_3MULTIJET { background-position: 0px -840px; }
+.PuntoEVO-1_2ACTIVE { background-position: 0px -900px; }
+.PuntoEVO-1_2DYNAMIC { background-position: 0px -960px; }
+.PuntoEVO-1_3ACTIVE { background-position: 0px -1020px; }
+.PuntoEVO-1_3DYNAMIC { background-position: 0px -1080px; }
+.PuntoEVO-1_3EMOTION { background-position: 0px -1140px; }
+.PuntoEVO-1_3SPORT93PS { background-position: 0px -1200px; }
+.PuntoEVO-1_4EMOTION { background-position: 0px -1260px; }
+
+.Ford { background-image: url('../../images/list/car/ford_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Classic-1_4TDCiCLXI { background-position: 0px 0px; }
+.Classic-1_4TDCiLXI { background-position: 0px -60px; }
+.Classic-1_4TDCiTITANIUM { background-position: 0px -120px; }
+.Classic-1_6DURATECCLXI { background-position: 0px -180px; }
+.Classic-1_6DURATECLXI { background-position: 0px -240px; }
+.Classic-1_6DURATECTITANIUM { background-position: 0px -300px; }
+.Ecosport-1_0ECOBOOSTTITANIUM_O_MT { background-position: 0px -360px; }
+.Ecosport-1_0PECOBOOSTTITANIUMMT { background-position: 0px -420px; }
+.Ecosport-1_5DMTAMBIENTE { background-position: 0px -480px; }
+.Ecosport-1_5DMTTITANIUM { background-position: 0px -540px; }
+.Ecosport-1_5DMTTITANIUMOPTIONAL { background-position: 0px -600px; }
+.Ecosport-1_5DMTTREND { background-position: 0px -660px; }
+.Ecosport-1_5PATTITANIUM { background-position: 0px -720px; }
+.Ecosport-1_5PMTAMBIENTE { background-position: 0px -780px; }
+.Ecosport-1_5PMTTITANIUM { background-position: 0px -840px; }
+.Ecosport-1_5PMTTREND { background-position: 0px -900px; }
+.Endeavour-2_5L4X2MT { background-position: 0px -960px; }
+.Endeavour-3_0L4X4AT { background-position: 0px -1020px; }
+.Endeavour-3_0LAT4X2 { background-position: 0px -1080px; }
+.Fiesta-1_5DAMBIENTE { background-position: 0px -1140px; }
+.Fiesta-1_5DTITANIUM { background-position: 0px -1200px; }
+.Fiesta-1_5DTREND { background-position: 0px -1260px; }
+.FIGO-1_2DuratecPETROLEXI { background-position: 0px -1320px; }
+.FIGO-1_2DuratecPETROLLXI { background-position: 0px -1380px; }
+.FIGO-1_2DuratecPETROLTITANIUM { background-position: 0px -1440px; }
+.FIGO-1_2DuratecPETROLZXI { background-position: 0px -1500px; }
+.FIGO-1_4DuratorqDIESELEXI { background-position: 0px -1560px; }
+.FIGO-1_4DuratorqDIESELLXI { background-position: 0px -1620px; }
+.FIGO-1_4DuratorqDIESELTITANIUM { background-position: 0px -1680px; }
+.FIGO-1_4DuratorqDIESELZXI { background-position: 0px -1740px; }
+
+.Honda { background-image: url('../../images/list/car/honda_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Amaze-1_2EMT_i-VTEC { background-position: 0px 0px; }
+.Amaze-1_2EXMT_i-VTEC { background-position: 0px -60px; }
+.Amaze-1_2SAT_i-VTEC { background-position: 0px -120px; }
+.Amaze-1_2SMTPlus_i-VTEC { background-position: 0px -180px; }
+.Amaze-1_2SMT_i-VTEC { background-position: 0px -240px; }
+.Amaze-1_2SXMT_i-VTEC { background-position: 0px -300px; }
+.Amaze-1_2VXAT_i-VTEC { background-position: 0px -360px; }
+.Amaze-1_2VXMT_i-VTEC { background-position: 0px -420px; }
+.Amaze-1_2VX_O_MT_i-VTEC { background-position: 0px -480px; }
+.Amaze-1_5EMT_i-DTEC { background-position: 0px -540px; }
+.Amaze-1_5EXMT_i-DTEC { background-position: 0px -600px; }
+.Amaze-1_5SMT_i-DTEC { background-position: 0px -660px; }
+.Amaze-1_5SXMT_i-DTEC { background-position: 0px -720px; }
+.Amaze-1_5VXMT_i-DTEC { background-position: 0px -780px; }
+.Amaze-1_5VXMT_O_i-DTEC { background-position: 0px -840px; }
+.Brio-EMT { background-position: 0px -900px; }
+.Brio-EXMT { background-position: 0px -960px; }
+.Brio-SMT { background-position: 0px -1020px; }
+.Brio-VMT { background-position: 0px -1080px; }
+.Brio-VXAT { background-position: 0px -1140px; }
+.Brio-VXBLATAVN { background-position: 0px -1200px; }
+.Brio-VXBLMTAVN { background-position: 0px -1260px; }
+.Brio-VXMT { background-position: 0px -1320px; }
+.City-EMT { background-position: 0px -1380px; }
+.City-SMT { background-position: 0px -1440px; }
+.City-SVCVT { background-position: 0px -1500px; }
+.City-SVMT { background-position: 0px -1560px; }
+.City-VMT { background-position: 0px -1620px; }
+.City-VXCVT { background-position: 0px -1680px; }
+.City-VXMT { background-position: 0px -1740px; }
+.City-VX_O_MT { background-position: 0px -1800px; }
+.CRV-2_0L2WDAT { background-position: 0px -1860px; }
+.CRV-2_0L2WDMT { background-position: 0px -1920px; }
+.CRV-2_4L4WDAT { background-position: 0px -1980px; }
+.Jazz-EMT { background-position: 0px -2040px; }
+.Jazz-SCVT { background-position: 0px -2100px; }
+.Jazz-SMT { background-position: 0px -2160px; }
+.Jazz-SVMT { background-position: 0px -2220px; }
+.Jazz-VCVT { background-position: 0px -2280px; }
+.Jazz-VMT { background-position: 0px -2340px; }
+.Jazz-VXMT { background-position: 0px -2400px; }
+.Mobilio-EIDTEC { background-position: 0px -2460px; }
+.Mobilio-EIVTEC { background-position: 0px -2520px; }
+.Mobilio-RSIDTEC { background-position: 0px -2580px; }
+.Mobilio-RSOPTIONIDTEC { background-position: 0px -2640px; }
+.Mobilio-SIDTEC { background-position: 0px -2700px; }
+.Mobilio-SIVTEC { background-position: 0px -2760px; }
+.Mobilio-VIDTEC { background-position: 0px -2820px; }
+.Mobilio-VIVTEC { background-position: 0px -2880px; }
+.Mobilio-VOPTIONIDTEC { background-position: 0px -2940px; }
+.Mobilio-VOPTIONIVTEC { background-position: 0px -3000px; }
+
+.Hyundai { background-image: url('../../images/list/car/hyundai_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.4SFluidicVerna-1_4CRDIBase { background-position: 0px 0px; }
+.4SFluidicVerna-1_4VTVTBase { background-position: 0px -60px; }
+.4SFluidicVerna-1_4VTVTBase_2 { background-position: 0px -120px; }
+.4SFluidicVerna-1_6CRDIATSX { background-position: 0px -180px; }
+.4SFluidicVerna-1_6CRDIS { background-position: 0px -240px; }
+.4SFluidicVerna-1_6CRDISOPTION { background-position: 0px -300px; }
+.4SFluidicVerna-1_6CRDISOPTION_2 { background-position: 0px -360px; }
+.4SFluidicVerna-1_6CRDISX { background-position: 0px -420px; }
+.4SFluidicVerna-1_6SXVTVT { background-position: 0px -480px; }
+.4SFluidicVerna-1_6VTVTATSOPTION { background-position: 0px -540px; }
+.4SFluidicVerna-1_6VTVTATSOPTION_2 { background-position: 0px -600px; }
+.4SFluidicVerna-1_6VTVTS { background-position: 0px -660px; }
+.4SFluidicVerna-1_6VTVTSOPTION { background-position: 0px -720px; }
+.Creta-1_4CRDiBase { background-position: 0px -780px; }
+.Creta-1_4CRDiS { background-position: 0px -840px; }
+.Creta-1_4CRDiS_Plus { background-position: 0px -900px; }
+.Creta-1_4CRDiVGTATSX_Plus { background-position: 0px -960px; }
+.Creta-1_4CRDiVGTSX { background-position: 0px -1020px; }
+.Creta-1_4CRDiVGTSX_O { background-position: 0px -1080px; }
+.Creta-1_4CRDiVGTSX_Plus { background-position: 0px -1140px; }
+.Creta-1_6VTVTBase { background-position: 0px -1200px; }
+.Creta-1_6VTVTS { background-position: 0px -1260px; }
+.Creta-1_6VTVTSX_Plus { background-position: 0px -1320px; }
+.ELITEI20-ASTA1_2 { background-position: 0px -1380px; }
+.ELITEI20-ASTA1_4CRDI { background-position: 0px -1440px; }
+.ELITEI20-ERA1_2 { background-position: 0px -1500px; }
+.ELITEI20-ERA1_4CRDI { background-position: 0px -1560px; }
+.ELITEI20-MAGNA1_2 { background-position: 0px -1620px; }
+.ELITEI20-MAGNA1_4CRDI { background-position: 0px -1680px; }
+.ELITEI20-SPORTZ1_2 { background-position: 0px -1740px; }
+.ELITEI20-SPORTZ1_4CRDI { background-position: 0px -1800px; }
+.ELITEI20-SPORTZOPTION1_2 { background-position: 0px -1860px; }
+.ELITEI20-SPORTZOPTION1_4CRDI { background-position: 0px -1920px; }
+.EON-0_8LiRDEDLITE { background-position: 0px -1980px; }
+.EON-0_8LiRDEDLITE_Plus { background-position: 0px -2040px; }
+.EON-0_8LiRDEERA_Plus { background-position: 0px -2100px; }
+.EON-0_8LiRDEMAGNA_Plus { background-position: 0px -2160px; }
+.EON-0_8LiRDESPORTZ { background-position: 0px -2220px; }
+.EON-1_0KAPPAMAGNA_Plus_O { background-position: 0px -2280px; }
+.EON-LPGERAPLUS { background-position: 0px -2340px; }
+.EON-LPGMAGNAPLUS { background-position: 0px -2400px; }
+.FluidicElantra-CRDIBASE { background-position: 0px -2460px; }
+.FluidicElantra-CRDIS { background-position: 0px -2520px; }
+.FluidicElantra-CRDISX { background-position: 0px -2580px; }
+.FluidicElantra-CRDISXAT { background-position: 0px -2640px; }
+.FluidicElantra-S { background-position: 0px -2700px; }
+.FluidicElantra-SX { background-position: 0px -2760px; }
+.FluidicElantra-SXAT { background-position: 0px -2820px; }
+.GRANDI10-1_0KAPPALPGMAGNA { background-position: 0px -2880px; }
+.GRANDI10-ASTA { background-position: 0px -2940px; }
+.GRANDI10-CRDIASTA { background-position: 0px -3000px; }
+.GRANDI10-CRDIERA { background-position: 0px -3060px; }
+.GRANDI10-CRDIMAGNA { background-position: 0px -3120px; }
+.GRANDI10-CRDISPORTZ { background-position: 0px -3180px; }
+.GRANDI10-ERA { background-position: 0px -3240px; }
+.GRANDI10-MAGNA { background-position: 0px -3300px; }
+.GRANDI10-SPORTZ { background-position: 0px -3360px; }
+.I10-ERA { background-position: 0px -3420px; }
+.I10-MAGNA { background-position: 0px -3480px; }
+.I10-SPORTZ { background-position: 0px -3540px; }
+.I20ACTIVE-1_2Base { background-position: 0px -3600px; }
+.I20ACTIVE-1_2S { background-position: 0px -3660px; }
+.I20ACTIVE-1_4Base { background-position: 0px -3720px; }
+.I20ACTIVE-1_4S { background-position: 0px -3780px; }
+.I20ACTIVE-1_4SX { background-position: 0px -3840px; }
+.SANTAFE-2WDAT { background-position: 0px -3900px; }
+.SANTAFE-2WDMT { background-position: 0px -3960px; }
+.SANTAFE-4WDAT { background-position: 0px -4020px; }
+.Xcent-1_1CRDIBASE { background-position: 0px -4080px; }
+.Xcent-1_1CRDIS { background-position: 0px -4140px; }
+.Xcent-1_1CRDISX { background-position: 0px -4200px; }
+.Xcent-1_1CRDISXOPTION { background-position: 0px -4260px; }
+.Xcent-1_2KAPPABASE { background-position: 0px -4320px; }
+.Xcent-1_2KAPPAS { background-position: 0px -4380px; }
+.Xcent-1_2KAPPASX { background-position: 0px -4440px; }
+.Xcent-1_2KAPPASXOPTION { background-position: 0px -4500px; }
+
+.Jaguar { background-image: url('../../images/list/car/jaguar_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.FType-Coupe { background-position: 0px 0px; }
+.FType-Rconvertible { background-position: 0px -60px; }
+.FType-RCoupe { background-position: 0px -120px; }
+.FType-RWDcoupe { background-position: 0px -180px; }
+.FType-SConvertible { background-position: 0px -240px; }
+.FType-SCoupe { background-position: 0px -300px; }
+.XF-AERO-SPORT { background-position: 0px -360px; }
+.XF-AERO-SPORT_2 { background-position: 0px -420px; }
+.XF-EXECUTIVEEDITION { background-position: 0px -480px; }
+.XF-LUXURY { background-position: 0px -540px; }
+.XF-PREMIUMLUXURY { background-position: 0px -600px; }
+.XF-XFR { background-position: 0px -660px; }
+.XJ-2_0LPortfolioLWB { background-position: 0px -720px; }
+.XJ-3_0LPortfolioLWB { background-position: 0px -780px; }
+.XJ-3_0LPremiumLuxuryLWB { background-position: 0px -840px; }
+
+.Mahindra { background-image: url('../../images/list/car/mahindra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Bolero-DI { background-position: 0px 0px; }
+.Bolero-EX { background-position: 0px -60px; }
+.Bolero-Plus { background-position: 0px -120px; }
+.Bolero-PlusBS4 { background-position: 0px -180px; }
+.Bolero-SLE { background-position: 0px -240px; }
+.Bolero-SLX { background-position: 0px -300px; }
+.Bolero-SpecialEdition { background-position: 0px -360px; }
+.Bolero-ZLX { background-position: 0px -420px; }
+.E2O-T2Premium { background-position: 0px -480px; }
+.Quanto-C2 { background-position: 0px -540px; }
+.Quanto-C4 { background-position: 0px -600px; }
+.Quanto-C6 { background-position: 0px -660px; }
+.Quanto-C8 { background-position: 0px -720px; }
+.Scorpio-Getaway { background-position: 0px -780px; }
+.Scorpio-S10 { background-position: 0px -840px; }
+.Scorpio-S10AT { background-position: 0px -900px; }
+.Scorpio-S2 { background-position: 0px -960px; }
+.Scorpio-S4 { background-position: 0px -1020px; }
+.Scorpio-S4Plus { background-position: 0px -1080px; }
+.Scorpio-S6Plus { background-position: 0px -1140px; }
+.Scorpio-S8 { background-position: 0px -1200px; }
+.Thar-CRDe { background-position: 0px -1260px; }
+.Thar-DI4X2 { background-position: 0px -1320px; }
+.Thar-DI4X4 { background-position: 0px -1380px; }
+.Verito-1_5D2 { background-position: 0px -1440px; }
+.Verito-1_5D4 { background-position: 0px -1500px; }
+.Verito-1_5D6 { background-position: 0px -1560px; }
+.VeritoVibe-1_5dCiD2 { background-position: 0px -1620px; }
+.VeritoVibe-1_5dCiD4 { background-position: 0px -1680px; }
+.VeritoVibe-1_5dCiD6 { background-position: 0px -1740px; }
+.XUV500-W10 { background-position: 0px -1800px; }
+.XUV500-W10AWD { background-position: 0px -1860px; }
+.XUV500-W4 { background-position: 0px -1920px; }
+.XUV500-W6 { background-position: 0px -1980px; }
+.XUV500-W8 { background-position: 0px -2040px; }
+.XUV500-W8AWD { background-position: 0px -2100px; }
+.Xylo-D2BSIII { background-position: 0px -2160px; }
+.Xylo-D2BSIV { background-position: 0px -2220px; }
+.Xylo-D4BSIII { background-position: 0px -2280px; }
+.Xylo-D4BSIV { background-position: 0px -2340px; }
+.Xylo-H4BSIV { background-position: 0px -2400px; }
+.Xylo-H8BSIV { background-position: 0px -2460px; }
+.Xylo-H9BSIV { background-position: 0px -2520px; }
+
+.Maruti-Suzuki { background-image: url('../../images/list/car/maruthiSuzuki_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Alto800-LX { background-position: 0px 0px; }
+.Alto800-Lxi { background-position: 0px -60px; }
+.Alto800-STD { background-position: 0px -120px; }
+.Alto800-Vxi { background-position: 0px -180px; }
+.AltoK10-LX { background-position: 0px -240px; }
+.AltoK10-Lxi { background-position: 0px -300px; }
+.AltoK10-LxiCNG { background-position: 0px -360px; }
+.AltoK10-Vxi { background-position: 0px -420px; }
+.AltoK10-VxiAGS { background-position: 0px -480px; }
+.AltoK10-VxiOptional { background-position: 0px -540px; }
+.CELERIO-GreenVxi { background-position: 0px -600px; }
+.CELERIO-Lxi { background-position: 0px -660px; }
+.CELERIO-LxiAT { background-position: 0px -720px; }
+.CELERIO-Vxi { background-position: 0px -780px; }
+.CELERIO-VxiAT { background-position: 0px -840px; }
+.CELERIO-Zxi { background-position: 0px -900px; }
+.CELERIO-ZxiAT { background-position: 0px -960px; }
+.CELERIO-ZxiOptional { background-position: 0px -1020px; }
+.CIAZ-V { background-position: 0px -1080px; }
+.CIAZ-V_Plus { background-position: 0px -1140px; }
+.CIAZ-Z { background-position: 0px -1200px; }
+.CIAZ-Z_Plus { background-position: 0px -1260px; }
+.Eeco-5SEATERAC { background-position: 0px -1320px; }
+.Eeco-5SEATERSTANDARD { background-position: 0px -1380px; }
+.Eeco-7SEATERSTANDARD { background-position: 0px -1440px; }
+.ERTIGA-Ldi { background-position: 0px -1500px; }
+.ERTIGA-Lxi { background-position: 0px -1560px; }
+.ERTIGA-LxiCNG { background-position: 0px -1620px; }
+.ERTIGA-Vdi { background-position: 0px -1680px; }
+.ERTIGA-Vxi { background-position: 0px -1740px; }
+.ERTIGA-VxiABS { background-position: 0px -1800px; }
+.ERTIGA-VxiCNG { background-position: 0px -1860px; }
+.ERTIGA-Zdi { background-position: 0px -1920px; }
+.ERTIGA-Zxi { background-position: 0px -1980px; }
+.GRANDVITARA-2_4AT { background-position: 0px -2040px; }
+.GRANDVITARA-2_4MT { background-position: 0px -2100px; }
+.Gypsy-KINGHARDTOPMPI { background-position: 0px -2160px; }
+.Gypsy-KINGSOFTTOPMPI { background-position: 0px -2220px; }
+.OMNI-5SEATER { background-position: 0px -2280px; }
+.OMNI-8Seater { background-position: 0px -2340px; }
+.Ritz-Ldi { background-position: 0px -2400px; }
+.Ritz-Lxi { background-position: 0px -2460px; }
+.Ritz-Vdi { background-position: 0px -2520px; }
+.Ritz-Vxi { background-position: 0px -2580px; }
+.Ritz-VxiAT { background-position: 0px -2640px; }
+.Ritz-Zdi { background-position: 0px -2700px; }
+.Ritz-Zxi { background-position: 0px -2760px; }
+.Stingray-LX { background-position: 0px -2820px; }
+.Stingray-Vxi { background-position: 0px -2880px; }
+.Stingray-VxiOptional { background-position: 0px -2940px; }
+.SWIFT-Ldi { background-position: 0px -3000px; }
+.SWIFT-Lxi { background-position: 0px -3060px; }
+.SWIFT-LxiOptional { background-position: 0px -3120px; }
+.SWIFT-Vdi { background-position: 0px -3180px; }
+.SWIFT-Vxi { background-position: 0px -3240px; }
+.SWIFT-Zdi { background-position: 0px -3300px; }
+.SWIFT-Zxi { background-position: 0px -3360px; }
+.SWIFTDESIRE-Ldi { background-position: 0px -3420px; }
+.SWIFTDESIRE-Lxi { background-position: 0px -3480px; }
+.SWIFTDESIRE-LxiOptional { background-position: 0px -3540px; }
+.SWIFTDESIRE-Vdi { background-position: 0px -3600px; }
+.SWIFTDESIRE-Vxi { background-position: 0px -3660px; }
+.SWIFTDESIRE-VxiAT { background-position: 0px -3720px; }
+.SWIFTDESIRE-Zdi { background-position: 0px -3780px; }
+.SWIFTDESIRE-Zxi { background-position: 0px -3840px; }
+.WAGONR-LX { background-position: 0px -3900px; }
+.WAGONR-LxiGreen { background-position: 0px -3960px; }
+.WAGONR-Vxi { background-position: 0px -4020px; }
+
+.Mercedes-Benz { background-image: url('../../images/list/car/mercedesBenz_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.A-Class-A180SPORT { background-position: 0px 0px; }
+.A-Class-A200CDISPORT { background-position: 0px -60px; }
+.B-Class-B180SPORT { background-position: 0px -120px; }
+.B-Class-B200CDISPORT { background-position: 0px -180px; }
+.C-Class-C200 { background-position: 0px -240px; }
+.C-Class-C220CDI { background-position: 0px -300px; }
+.CLA-Class-200 { background-position: 0px -360px; }
+.CLA-Class-200CDISport { background-position: 0px -420px; }
+.CLA-Class-200CDISTYLE { background-position: 0px -480px; }
+.CLA-Class-45AMG { background-position: 0px -540px; }
+.CLS-Class-250CDI { background-position: 0px -600px; }
+.E-Class-E200AVANTGARDE { background-position: 0px -660px; }
+.E-Class-E250CDIAVANTGARDE { background-position: 0px -720px; }
+.E-Class-E350CDIAVANTGARDE { background-position: 0px -780px; }
+.E-Class-E400CABRIOLET { background-position: 0px -840px; }
+.E-Class-E63AMG { background-position: 0px -900px; }
+.G-Class-G63AMG { background-position: 0px -960px; }
+.GL-Class-350CDIBLUEEFFICIENCY { background-position: 0px -1020px; }
+.GL-Class-63AMG { background-position: 0px -1080px; }
+.GLA-Class-200 { background-position: 0px -1140px; }
+.GLA-Class-200CDI { background-position: 0px -1200px; }
+.GLA-Class-45AMG4MATIC { background-position: 0px -1260px; }
+.M-Class-ML250CDI4Matic { background-position: 0px -1320px; }
+.M-Class-ML350CDI4Matic { background-position: 0px -1380px; }
+.M-Class-ML63AMG { background-position: 0px -1440px; }
+.S-Class-S350CDI { background-position: 0px -1500px; }
+.S-Class-S500 { background-position: 0px -1560px; }
+.SLK-Class-55AMG { background-position: 0px -1620px; }
+.SLK-Class-SLK200 { background-position: 0px -1680px; }
+.SLK-Class-SLK250BlueEfficiency { background-position: 0px -1740px; }
+.SLK-Class-SLK250CDI { background-position: 0px -1800px; }
+.SLK-Class-SLK350BlueEfficiency { background-position: 0px -1860px; }
+
+.Nissan { background-image: url('../../images/list/car/nissan_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Evalia-SV { background-position: 0px 0px; }
+.Evalia-XE { background-position: 0px -60px; }
+.Evalia-XEPlus { background-position: 0px -120px; }
+.Evalia-XL { background-position: 0px -180px; }
+.Evalia-XV { background-position: 0px -240px; }
+.Evalia-XVOption { background-position: 0px -300px; }
+.Micra-XE { background-position: 0px -360px; }
+.Micra-XL { background-position: 0px -420px; }
+.Micra-XLOptional { background-position: 0px -480px; }
+.Micra-XV { background-position: 0px -540px; }
+.Micra-XVPremium { background-position: 0px -600px; }
+.MicraActive-XE { background-position: 0px -660px; }
+.MicraActive-XL { background-position: 0px -720px; }
+.MicraActive-XV { background-position: 0px -780px; }
+.MicraActive-XVSafety { background-position: 0px -840px; }
+.Sunny-DieselXE { background-position: 0px -900px; }
+.Sunny-DieselXL { background-position: 0px -960px; }
+.Sunny-DieselXV { background-position: 0px -1020px; }
+.Sunny-XE { background-position: 0px -1080px; }
+.Sunny-XL { background-position: 0px -1140px; }
+.Sunny-XLCVT { background-position: 0px -1200px; }
+.Sunny-XVDPremiumLeather { background-position: 0px -1260px; }
+.Sunny-XVDPremiumSafety { background-position: 0px -1320px; }
+.Terrano-XE85PS { background-position: 0px -1380px; }
+.Terrano-XL { background-position: 0px -1440px; }
+.Terrano-XL110PS { background-position: 0px -1500px; }
+.Terrano-XL85PS { background-position: 0px -1560px; }
+.Terrano-XLPlus85PS { background-position: 0px -1620px; }
+.Terrano-XV110PS { background-position: 0px -1680px; }
+.Terrano-XVPremium110PS { background-position: 0px -1740px; }
+
+.Renault { background-image: url('../../images/list/car/renault_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Duster-110PSDieselRxL { background-position: 0px 0px; }
+.Duster-110PSDieselRXZOption { background-position: 0px -60px; }
+.Duster-110PSDieselRxZPlus { background-position: 0px -120px; }
+.Duster-85PSDieselRxE { background-position: 0px -180px; }
+.Duster-85PSDieselRxL { background-position: 0px -240px; }
+.Duster-85PSDieselRxLOption { background-position: 0px -300px; }
+.Duster-85PSDieselRxLPlus { background-position: 0px -360px; }
+.Duster-PetrolRxE { background-position: 0px -420px; }
+.Duster-PetrolRxL { background-position: 0px -480px; }
+.Duster-RXLAWD { background-position: 0px -540px; }
+.Duster-RXZAWD { background-position: 0px -600px; }
+.Fluence-E2D { background-position: 0px -660px; }
+.Fluence-E4D { background-position: 0px -720px; }
+.Koleos-4X2MT { background-position: 0px -780px; }
+.Koleos-4X4AT { background-position: 0px -840px; }
+.Koleos-4X4MT { background-position: 0px -900px; }
+.Lodgy-110PSRxL { background-position: 0px -960px; }
+.Lodgy-110PSRxZ7Seater { background-position: 0px -1020px; }
+.Lodgy-110PSRxZ8Seater { background-position: 0px -1080px; }
+.Lodgy-85PSRxE { background-position: 0px -1140px; }
+.Lodgy-85PSRxL { background-position: 0px -1200px; }
+.Lodgy-85PSRxZ { background-position: 0px -1260px; }
+.Lodgy-85PSStd { background-position: 0px -1320px; }
+.Lodgy-StepwayR_Z7Seater { background-position: 0px -1380px; }
+.Lodgy-StepwayR_Z8Seater { background-position: 0px -1440px; }
+.Pulse-RxL { background-position: 0px -1500px; }
+.Pulse-RxLABS { background-position: 0px -1560px; }
+.Pulse-RxZ { background-position: 0px -1620px; }
+.Scala-DieselRxE { background-position: 0px -1680px; }
+.Scala-DieselRxL { background-position: 0px -1740px; }
+.Scala-DieselRxZ { background-position: 0px -1800px; }
+.Scala-RxE { background-position: 0px -1860px; }
+.Scala-RxL { background-position: 0px -1920px; }
+.Scala-RxLCVT { background-position: 0px -1980px; }
+.Scala-RxZCVT { background-position: 0px -2040px; }
+
+.Skoda { background-image: url('../../images/list/car/skoda_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Octavia-Ambition1_4TSIMT { background-position: 0px 0px; }
+.Octavia-Ambition2_0TDIAT { background-position: 0px -60px; }
+.Octavia-Ambition2_0TDIMT { background-position: 0px -120px; }
+.Octavia-Elegance1_8TSIAT { background-position: 0px -180px; }
+.Octavia-Elegance2_0TDIAT { background-position: 0px -240px; }
+.Rapid-1_5TDIActive { background-position: 0px -300px; }
+.Rapid-1_5TDIAmbition { background-position: 0px -360px; }
+.Rapid-1_5TDIAmbitionAT { background-position: 0px -420px; }
+.Rapid-1_5TDIAmbitionATwithAlloyWheels { background-position: 0px -480px; }
+.Rapid-1_5TDIAmbitionWithAlloyWheel { background-position: 0px -540px; }
+.Rapid-1_5TDIATElegance { background-position: 0px -600px; }
+.Rapid-1_5TDIATEleganceBlackPackage { background-position: 0px -660px; }
+.Rapid-1_5TDIATElegancePlus { background-position: 0px -720px; }
+.Rapid-1_5TDIATElegancePlusBlackPackage { background-position: 0px -780px; }
+.Rapid-1_5TDIElegance { background-position: 0px -840px; }
+.Rapid-1_5TDIEleganceBlackPackage { background-position: 0px -900px; }
+.Rapid-1_5TDIElegancePlusBlackPackage { background-position: 0px -960px; }
+.Rapid-1_6MPIActive { background-position: 0px -1020px; }
+.Rapid-1_6MPIAmbition { background-position: 0px -1080px; }
+.Rapid-1_6MPIAmbitionwithAlloyWheels { background-position: 0px -1140px; }
+.Rapid-1_6MPIATElegance { background-position: 0px -1200px; }
+.Rapid-1_6MPIATEleganceBlackPackage { background-position: 0px -1260px; }
+.Rapid-1_6MPIATElegancePlus { background-position: 0px -1320px; }
+.Rapid-1_6MPIATElegancePlusBlackPackage { background-position: 0px -1380px; }
+.Rapid-1_6MPIElegance { background-position: 0px -1440px; }
+.Rapid-1_6MPIEleganceBlackPackage { background-position: 0px -1500px; }
+.Rapid-1_6MPIElegancePlus { background-position: 0px -1560px; }
+.Rapid-1_6MPIElegancePlusBlackPackage { background-position: 0px -1620px; }
+.Superb-Elegance1_8TSIAT { background-position: 0px -1680px; }
+.Superb-Elegance1_8TSIMT { background-position: 0px -1740px; }
+.Superb-Elegance2_0TDICRAT { background-position: 0px -1800px; }
+.Yeti-SkodaYetiElegance4X2 { background-position: 0px -1860px; }
+.Yeti-SkodaYetiElegance4X4 { background-position: 0px -1920px; }
+
+.TATA { background-image: url('../../images/list/car/tata_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Aria-Pride4x4 { background-position: 0px 0px; }
+.Bolt-QuadrajetXE { background-position: 0px -60px; }
+.Bolt-QuadrajetXM { background-position: 0px -120px; }
+.Bolt-QuadrajetXMS { background-position: 0px -180px; }
+.Bolt-QuadrajetXT { background-position: 0px -240px; }
+.Bolt-RevotronXE { background-position: 0px -300px; }
+.Bolt-RevotronXM { background-position: 0px -360px; }
+.Bolt-RevotronXMS { background-position: 0px -420px; }
+.Bolt-RevotronXT { background-position: 0px -480px; }
+.IndicaeV2-CR4LSBS4 { background-position: 0px -540px; }
+.IndicaeV2-CR4LXBS4 { background-position: 0px -600px; }
+.IndicaeV2-V2LSBS3 { background-position: 0px -660px; }
+.IndicaeV2-V2LXBS3 { background-position: 0px -720px; }
+.IndigoeCS-LSCR4BS4 { background-position: 0px -780px; }
+.IndigoeCS-LS_TDI_BS3 { background-position: 0px -840px; }
+.IndigoeCS-LXCR4BS4 { background-position: 0px -900px; }
+.IndigoeCS-LXTDIBS3 { background-position: 0px -960px; }
+.IndigoeCS-VXCR4BS4 { background-position: 0px -1020px; }
+.Manza-ClubClassQuadrajet90EX { background-position: 0px -1080px; }
+.Manza-ClubClassQuadrajet90LS { background-position: 0px -1140px; }
+.Manza-ClubClassQuadrajet90LX { background-position: 0px -1200px; }
+.Manza-ClubClassQuadrajet90VX { background-position: 0px -1260px; }
+.Manza-ClubClassSafire90GEX { background-position: 0px -1320px; }
+.Manza-ClubClassSafire90GLS { background-position: 0px -1380px; }
+.Manza-ClubClassSafire90GLX { background-position: 0px -1440px; }
+.Manza-ClubClassSafire90GVX { background-position: 0px -1500px; }
+.Movus-CX { background-position: 0px -1560px; }
+.Movus-LX { background-position: 0px -1620px; }
+.Nano-XE { background-position: 0px -1680px; }
+.Nano-XM { background-position: 0px -1740px; }
+.Nano-XMA { background-position: 0px -1800px; }
+.Nano-XT { background-position: 0px -1860px; }
+.Nano-XTA { background-position: 0px -1920px; }
+.Safari-DICOR2_2EX4x2 { background-position: 0px -1980px; }
+.Safari-DICOR2_2LX4x2 { background-position: 0px -2040px; }
+.SafariStorme-EX { background-position: 0px -2100px; }
+.SafariStorme-LX { background-position: 0px -2160px; }
+.SafariStorme-VX { background-position: 0px -2220px; }
+.SafariStorme-VX4WD { background-position: 0px -2280px; }
+.Sumo-GoldCXBS3 { background-position: 0px -2340px; }
+.Sumo-GoldCXBS4 { background-position: 0px -2400px; }
+.Sumo-GoldCXPSBS3 { background-position: 0px -2460px; }
+.Sumo-GoldCXPSBS4 { background-position: 0px -2520px; }
+.Sumo-GoldEXBS3 { background-position: 0px -2580px; }
+.Sumo-GoldEXBS4 { background-position: 0px -2640px; }
+.Sumo-GoldGXBS4 { background-position: 0px -2700px; }
+.Venture-EX7Str { background-position: 0px -2760px; }
+.Venture-EX7StrCaptainSeats { background-position: 0px -2820px; }
+.Venture-EX8Seater { background-position: 0px -2880px; }
+.Venture-GX7Str { background-position: 0px -2940px; }
+.Venture-GX7StrCaptainSeats { background-position: 0px -3000px; }
+.Venture-GX8Seater { background-position: 0px -3060px; }
+.Venture-LX7Str { background-position: 0px -3120px; }
+.Venture-LX8Seater { background-position: 0px -3180px; }
+.Vista-QuadrajetLS { background-position: 0px -3240px; }
+.Vista-QuadrajetVXTech { background-position: 0px -3300px; }
+.Vista-TDILS { background-position: 0px -3360px; }
+.Vista-TDILX { background-position: 0px -3420px; }
+.XenonXT-EX4X2 { background-position: 0px -3480px; }
+.XenonXT-EX4X4 { background-position: 0px -3540px; }
+.Zest-Quadrajet1_375PSXE { background-position: 0px -3600px; }
+.Zest-Quadrajet1_3XM { background-position: 0px -3660px; }
+.Zest-Quadrajet1_3XMA { background-position: 0px -3720px; }
+.Zest-Quadrajet1_3XMS { background-position: 0px -3780px; }
+.Zest-Quadrajet1_3XT { background-position: 0px -3840px; }
+.Zest-Quadrajet1_3XTA { background-position: 0px -3900px; }
+.Zest-Revotron1_2TXE { background-position: 0px -3960px; }
+.Zest-Revotron1_2TXM { background-position: 0px -4020px; }
+.Zest-Revotron1_2TXMS { background-position: 0px -4080px; }
+.Zest-Revotron1_2XT { background-position: 0px -4140px; }
+
+.Toyota { background-image: url('../../images/list/car/toyota_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Camry-Facelift { background-position: 0px 0px; }
+.Camry-Hybrid { background-position: 0px -60px; }
+.CorollaAltis-D4DG { background-position: 0px -120px; }
+.CorollaAltis-D4DGL { background-position: 0px -180px; }
+.CorollaAltis-D4DJ { background-position: 0px -240px; }
+.CorollaAltis-D4DJS { background-position: 0px -300px; }
+.CorollaAltis-GAT { background-position: 0px -360px; }
+.CorollaAltis-GLMT { background-position: 0px -420px; }
+.CorollaAltis-GMT { background-position: 0px -480px; }
+.CorollaAltis-JSMT { background-position: 0px -540px; }
+.CorollaAltis-VLAT { background-position: 0px -600px; }
+.Etios-G { background-position: 0px -660px; }
+.Etios-GD { background-position: 0px -720px; }
+.Etios-J { background-position: 0px -780px; }
+.Etios-JD { background-position: 0px -840px; }
+.Etios-V { background-position: 0px -900px; }
+.Etios-VD { background-position: 0px -960px; }
+.Etios-VX { background-position: 0px -1020px; }
+.Etios-VXD { background-position: 0px -1080px; }
+.EtiosCross-1_2LG { background-position: 0px -1140px; }
+.EtiosCross-1_4LGD { background-position: 0px -1200px; }
+.EtiosCross-1_4LVD { background-position: 0px -1260px; }
+.EtiosCross-1_5LV { background-position: 0px -1320px; }
+.EtiosLiva-G { background-position: 0px -1380px; }
+.EtiosLiva-GD { background-position: 0px -1440px; }
+.EtiosLiva-J { background-position: 0px -1500px; }
+.EtiosLiva-JD { background-position: 0px -1560px; }
+.EtiosLiva-V { background-position: 0px -1620px; }
+.EtiosLiva-VD { background-position: 0px -1680px; }
+.EtiosLiva-VX { background-position: 0px -1740px; }
+.EtiosLiva-VXD { background-position: 0px -1800px; }
+.Fortuner-4x2AT { background-position: 0px -1860px; }
+.Fortuner-4x2Manual { background-position: 0px -1920px; }
+.Fortuner-4x4AT { background-position: 0px -1980px; }
+.Fortuner-4x4MT { background-position: 0px -2040px; }
+.Innova-2_5G7SeaterBS3 { background-position: 0px -2100px; }
+.Innova-2_5G7SeaterBS4 { background-position: 0px -2160px; }
+.Innova-2_5G8SeaterBS3 { background-position: 0px -2220px; }
+.Innova-2_5G8SeaterBS4 { background-position: 0px -2280px; }
+.Innova-2_5GX7SeaterBS3 { background-position: 0px -2340px; }
+.Innova-2_5GX7SeaterBS4 { background-position: 0px -2400px; }
+.Innova-2_5GX8SeaterBS3 { background-position: 0px -2460px; }
+.Innova-2_5GX8SeaterBS4 { background-position: 0px -2520px; }
+.Innova-2_5VPS7SeaterBS3 { background-position: 0px -2580px; }
+.Innova-2_5VPS7SeaterBS4 { background-position: 0px -2640px; }
+.Innova-2_5VPS8SeaterBS3 { background-position: 0px -2700px; }
+.Innova-2_5VPS8SeaterBS4 { background-position: 0px -2760px; }
+.Innova-2_5VX7SeaterBS3 { background-position: 0px -2820px; }
+.Innova-2_5VX7SeaterBS4 { background-position: 0px -2880px; }
+.Innova-2_5VX8SeaterBS3 { background-position: 0px -2940px; }
+.Innova-2_5VX8SeaterBS4 { background-position: 0px -3000px; }
+.Innova-2_5Z7SeaterBS4 { background-position: 0px -3060px; }
+.Innova-2_5Z8SeaterBS4 { background-position: 0px -3120px; }
+.Innova-2_5ZX7SeaterBS3 { background-position: 0px -3180px; }
+.Innova-2_5ZX7SeaterBS4 { background-position: 0px -3240px; }
+.LandCruiser200-VX { background-position: 0px -3300px; }
+.LandCruiserPrado-4WD { background-position: 0px -3360px; }
+.Prius-ZR { background-position: 0px -3420px; }
+
+.Volkswagen { background-image: url('../../images/list/car/volkswagen_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CrossPolo-1_2TSI { background-position: 0px 0px; }
+.CrossPolo-1_5TDI { background-position: 0px -60px; }
+.Jetta-1_4TSICOMFORTLINE { background-position: 0px -120px; }
+.Jetta-1_4TSITRENDLINE { background-position: 0px -180px; }
+.Jetta-2_0LTDICOMFORTLINE { background-position: 0px -240px; }
+.Jetta-2_0LTDIHIGHLINE { background-position: 0px -300px; }
+.Jetta-2_0LTDIHIGHLINEAT { background-position: 0px -360px; }
+.Jetta-2_0LTDITRENDLINE { background-position: 0px -420px; }
+.Polo-1_2MPICOMFORTLINE { background-position: 0px -480px; }
+.Polo-1_2MPIHIGHLINE { background-position: 0px -540px; }
+.Polo-1_2MPITRENDLINE { background-position: 0px -600px; }
+.Polo-1_5TDICOMFORTLINE { background-position: 0px -660px; }
+.Polo-1_5TDIHIGHLINE { background-position: 0px -720px; }
+.Polo-1_5TDITRENDLINE { background-position: 0px -780px; }
+.Vento-1_2TSICOMFORTLINEAT { background-position: 0px -840px; }
+.Vento-1_2TSIHIGHLINEAT { background-position: 0px -900px; }
+.Vento-1_5TDICOMFORTLINE { background-position: 0px -960px; }
+.Vento-1_5TDICOMFORTLINEAT { background-position: 0px -1020px; }
+.Vento-1_5TDIHIGHLINE { background-position: 0px -1080px; }
+.Vento-1_5TDIHIGHLINEAT { background-position: 0px -1140px; }
+.Vento-1_5TDITRENDLINE { background-position: 0px -1200px; }
+.Vento-1_6MPICOMFORTLINE { background-position: 0px -1260px; }
+.Vento-1_6MPIHIGHLINE { background-position: 0px -1320px; }
+.Vento-1_6MPITRENDLINE { background-position: 0px -1380px; }
+
+/*************************************************************************@media query - begin******************************************************/
+/* Amazon kindle fire - hd * 8.9" - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 2560px) {
+
+}
+
+/* Desktop - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1920px) {
+
+}
+
+/* Amazon kindle fire - hd * 8.9" - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 1600px) {
+
+}
+
+/* Laptop with HiDPI screen - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1440px) {
+
+}
+
+/* Desktop - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1366px) {
+
+}
+
+/* Google Nexus 10 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1280px) {
+
+}
+
+/* Amazon Kindle Fire(First Generation) - Landscape/ Apple iPad 1, 2, 3, 4, Mini - Landscape/ BlackBerry PlayBook - Landscape/ Samsung Galaxy Tab - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1024px) {
+
+}
+
+/* Google Nexus 7 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 960px) {
+
+}
+
+/* Google Nexus 10 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 800px) {
+
+}
+
+/* Apple iPad, iPad Mini - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 768px) {
+
+}
+/* Apple iPhone 6 Plus - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 736px) {
+
+}
+/* Google Nexus 6 - Landscape, Google Nexus 6P - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 732px) {
+
+}
+
+/*Motorola Droid Razr HD*/
+@media only screen and /*!YUI-Compressor */ (max-width: 720px) {
+
+}
+
+/* Apple iPhone 6 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 667px) {
+
+}
+
+/* BlackBerry Z30 - Landscape, Galaxy Note 3 - Landscape,  Galaxy Note II - Landscape, Galaxy S III - Landscape, LG Optimus L70 - Landscape, Google Nexus 4 - Landscape, Google Nexus 5 - Landscape, Nokia N9 - Landscape, Galaxy S5 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 640px) {
+
+}
+
+/* BlackBerry Playbook - Portrait, Google Nexus 7 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 600px) {
+
+}
+
+/* Apple iPhone 5 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 568px) {
+
+}
+
+/* Motorola Droid 3, Droid 4, Droid Razr, Atrix 4G, Atrix 2 */
+@media only screen and /*!YUI-Compressor */ (max-width: 540px) {
+
+}
+
+/* Nokia Lumia 520 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 533px) {
+
+}
+
+/* Apple iPhone 4 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 480px) {
+
+}
+
+/* LG Optimus LTE - Portrait, Optimus 4X HD - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 424px) {
+	.Audi { background-image: url('../../images/list/car/audi_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.A3-35TDIATTRACTION { background-position: 0px 0px; }
+	.A3-35TDIPREMIUM { background-position: 0px -40px; }
+	.A3-35TDIPREMIUMPLUS { background-position: 0px -80px; }
+	.A3-35TDITECHNOLOGY { background-position: 0px -120px; }
+	.A3-40TFSIPREMIUMPLUS_SED { background-position: 0px -160px; }
+	.A3-Cabriolet { background-position: 0px -200px; }
+	.A4-35TDIPREMIUM { background-position: 0px -240px; }
+	.A4-35TDIPREMIUMSPORT { background-position: 0px -280px; }
+	.A4-35TDITECHNOLOGYEDITION { background-position: 0px -320px; }
+	.A4-35TFSI { background-position: 0px -360px; }
+	.A6-35TDIPREMIUM { background-position: 0px -400px; }
+	.A6-35TDIPREMIUMPLUS { background-position: 0px -440px; }
+	.A6-35TDITECHNOLOGY { background-position: 0px -480px; }
+	.A6-40TFSIPREMIUMPLUS { background-position: 0px -520px; }
+	.A8-L50TDIQUATTRO { background-position: 0px -560px; }
+	.A8-L60TDIQUATTRO { background-position: 0px -600px; }
+	.A8-L60TFSIQUATTRO { background-position: 0px -640px; }
+	.A8-LW126_3FSIQUATTRO { background-position: 0px -680px; }
+	.Q3-30TDISEDITION { background-position: 0px -720px; }
+	.Q3-35TDIQUATTRO { background-position: 0px -760px; }
+	.Q5-30TDIQUATTRO { background-position: 0px -800px; }
+	.Q5-45TDIQUATTRO { background-position: 0px -840px; }
+	.Q7-35TDIqPremium { background-position: 0px -880px; }
+	.Q7-35TDIqPREMIUMPLUS { background-position: 0px -920px; }
+	.Q7-35TDIqTECHNOLOGY { background-position: 0px -960px; }
+	.R8-V10COUPE { background-position: 0px -1000px; }
+	.R8-V10PLUS { background-position: 0px -1040px; }
+	.R8-V10SPYDER { background-position: 0px -1080px; }
+	.R8-V8Coupe { background-position: 0px -1120px; }
+	.RS5-COUPE { background-position: 0px -1160px; }
+	.RS6-Avant { background-position: 0px -1200px; }
+	.RS7-SPORTBACK { background-position: 0px -1240px; }
+	.S6Saloon-4_0TFSIq { background-position: 0px -1280px; }
+	.TT-2_0TFSIquattro { background-position: 0px -1320px; }
+
+	.BMW { background-image: url('../../images/list/car/bmw_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.1Series-118dSportLine { background-position: 0px 0px; }
+	.3Series-320dLuxuryLine { background-position: 0px -40px; }
+	.3Series-320dLuxuryLineEdition2 { background-position: 0px -80px; }
+	.3Series-320dPrestige { background-position: 0px -120px; }
+	.3Series-320dPrestigeEdition2 { background-position: 0px -160px; }
+	.3Series-320dSportLine { background-position: 0px -200px; }
+	.3Series-320dSportLineEdition2 { background-position: 0px -240px; }
+	.5Series-520dLuxuryLineEdition { background-position: 0px -280px; }
+	.5Series-520dLuxuryLineEdition2 { background-position: 0px -320px; }
+	.5Series-520dPrestigePlusEdition { background-position: 0px -360px; }
+	.5Series-520dPrestigePlusEdition2 { background-position: 0px -400px; }
+	.5Series-530dMSportEdition { background-position: 0px -440px; }
+	.5Series-530dPrestigeEdition { background-position: 0px -480px; }
+	.5Series-530dPrestigeEdition2 { background-position: 0px -520px; }
+	.6Series-GranCoupeDesignPureExperience { background-position: 0px -560px; }
+	.6Series-GranCoupeEminence { background-position: 0px -600px; }
+	.7Series-730LdEminence { background-position: 0px -640px; }
+	.7Series-730LdPrestige { background-position: 0px -680px; }
+	.7Series-730LdSignature { background-position: 0px -720px; }
+	.7Series-750LiEminence { background-position: 0px -760px; }
+	.7Series-760LiEminence { background-position: 0px -800px; }
+	.7Series-ActiveHybrid7L { background-position: 0px -840px; }
+	.GranTurismo-luxuryline { background-position: 0px -880px; }
+	.GranTurismo-SportLine { background-position: 0px -920px; }
+	.I8-Hybrid { background-position: 0px -960px; }
+	.MSeries-M3Sedan { background-position: 0px -1000px; }
+	.MSeries-M4Coupe { background-position: 0px -1040px; }
+	.MSeries-M5Sedan { background-position: 0px -1080px; }
+	.MSeries-M6GranCoupe { background-position: 0px -1120px; }
+	.X1-sDrive20dxLine { background-position: 0px -1160px; }
+	.X3-xDrive20dExpedition { background-position: 0px -1200px; }
+	.X3-xDrive20dxLine { background-position: 0px -1240px; }
+	.X3-xDrive30dMSport { background-position: 0px -1280px; }
+	.X5-xDrive30dDesignPureExperience5Seater { background-position: 0px -1320px; }
+	.X5-xDrive30dDesignPureExperience7Seater { background-position: 0px -1360px; }
+	.X5-xDrive30dExpedition { background-position: 0px -1400px; }
+	.X6-MSport { background-position: 0px -1440px; }
+	.Z4-sDrive35iDPT { background-position: 0px -1480px; }
+	.Z4-sDrive35iPrestige { background-position: 0px -1520px; }
+
+	.Chevrolet { background-image: url('../../images/list/car/chevrolet_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Beat-1_0LSTCDiMY15 { background-position: 0px 0px; }
+	.Beat-1_0LTOptionMY15 { background-position: 0px -40px; }
+	.Beat-1_0LTTCDiMY15 { background-position: 0px -80px; }
+	.Beat-1_0TCDiMY15 { background-position: 0px -120px; }
+	.Beat-1_2LSMY15 { background-position: 0px -160px; }
+	.Beat-1_2LTMY15 { background-position: 0px -200px; }
+	.Beat-1_2LTOptionMY15 { background-position: 0px -240px; }
+	.Beat-1_2MY15 { background-position: 0px -280px; }
+	.Captiva-2_2LT { background-position: 0px -320px; }
+	.Captiva-2_2LTZ { background-position: 0px -360px; }
+	.Cruze-LT { background-position: 0px -400px; }
+	.Cruze-LTZAT { background-position: 0px -440px; }
+	.Cruze-LTZMT { background-position: 0px -480px; }
+	.Enjoy-1_3TCDiLS7Seater { background-position: 0px -520px; }
+	.Enjoy-1_3TCDiLS8Seater { background-position: 0px -560px; }
+	.Enjoy-1_3TCDiLT7Seater { background-position: 0px -600px; }
+	.Enjoy-1_3TCDiLT8Seater { background-position: 0px -640px; }
+	.Enjoy-1_3TCDiLTZ8Seater { background-position: 0px -680px; }
+	.Enjoy-1_4LS7Seater { background-position: 0px -720px; }
+	.Enjoy-1_4LS8Seater { background-position: 0px -760px; }
+	.Enjoy-1_4LT7Seater { background-position: 0px -800px; }
+	.Enjoy-1_4LT8Seater { background-position: 0px -840px; }
+	.Enjoy-1_4LTZ7Seater { background-position: 0px -880px; }
+	.Enjoy-1_4LTZ8Seater { background-position: 0px -920px; }
+	.Sail-1_2Base { background-position: 0px -960px; }
+	.Sail-1_2LS { background-position: 0px -1000px; }
+	.Sail-1_2LSABS { background-position: 0px -1040px; }
+	.Sail-1_2LTABS { background-position: 0px -1080px; }
+	.Sail-1_3Base { background-position: 0px -1120px; }
+	.Sail-1_3LS { background-position: 0px -1160px; }
+	.Sail-1_3LSABS { background-position: 0px -1200px; }
+	.Sail-1_3LTABS { background-position: 0px -1240px; }
+	.SailHatchback-1_2 { background-position: 0px -1280px; }
+	.SailHatchback-1_2LS { background-position: 0px -1320px; }
+	.SailHatchback-1_2LSABS { background-position: 0px -1360px; }
+	.SailHatchback-1_2LTABS { background-position: 0px -1400px; }
+	.SailHatchback-1_3TCDi { background-position: 0px -1440px; }
+	.SailHatchback-1_3TCDiLS { background-position: 0px -1480px; }
+	.SailHatchback-1_3TCDiLSABS { background-position: 0px -1520px; }
+	.SailHatchback-1_3TCDiLTABS { background-position: 0px -1560px; }
+	.Spark-1_0BS4OBDII { background-position: 0px -1600px; }
+	.Spark-1_0LSBS4OBDII { background-position: 0px -1640px; }
+	.Spark-1_0LTBS4OBDII { background-position: 0px -1680px; }
+	.Tavera-Neo3-10-BS3 { background-position: 0px -1720px; }
+	.Tavera-Neo3AmbulanceBS3 { background-position: 0px -1760px; }
+	.Tavera-Neo3LS-10-BS3 { background-position: 0px -1800px; }
+	.Tavera-Neo3LS-7-BS3 { background-position: 0px -1840px; }
+	.Tavera-Neo3LS-7_C-BS3 { background-position: 0px -1880px; }
+	.Tavera-Neo3LT-8-BS3 { background-position: 0px -1920px; }
+	.Tavera-Neo3LT-9-BS3 { background-position: 0px -1960px; }
+	.Tavera-Neo3Max-10-BS3 { background-position: 0px -2000px; }
+	.Tavera-Neo3Max-7-BS3 { background-position: 0px -2040px; }
+	.Tavera-Neo3MaxAmbulanceBS3 { background-position: 0px -2080px; }
+	.Tavera-Neo_3LT-7_C-BS3 { background-position: 0px -2120px; }
+
+	.Fiat { background-image: url('../../images/list/car/fiat_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Avventura-1_3LMULTIJETACTIVE { background-position: 0px 0px; }
+	.Avventura-1_3LMULTIJETDYNAMIC { background-position: 0px -40px; }
+	.Avventura-1_3LMULTIJETEMOTION { background-position: 0px -80px; }
+	.Avventura-1_4LFIREACTIVE { background-position: 0px -120px; }
+	.Avventura-1_4LFIREDYNAMIC { background-position: 0px -160px; }
+	.Linea-1_3LMULTIJETACTIVE { background-position: 0px -200px; }
+	.Linea-1_3LMULTIJETDYNAMIC { background-position: 0px -240px; }
+	.Linea-1_3LMULTIJETEMOTION { background-position: 0px -280px; }
+	.Linea-1_4LFIREACTIVE { background-position: 0px -320px; }
+	.Linea-1_4LTJETACTIVE { background-position: 0px -360px; }
+	.Linea-1_4LTJETDYNAMIC { background-position: 0px -400px; }
+	.Linea-1_4LTJETEMOTION { background-position: 0px -440px; }
+	.LineaClassic-1_3MULTIJET { background-position: 0px -480px; }
+	.LineaClassic-1_4PETROL { background-position: 0px -520px; }
+	.LineaClassic-PLUS1_3MULTIJET { background-position: 0px -560px; }
+	.PuntoEVO-1_2ACTIVE { background-position: 0px -600px; }
+	.PuntoEVO-1_2DYNAMIC { background-position: 0px -640px; }
+	.PuntoEVO-1_3ACTIVE { background-position: 0px -680px; }
+	.PuntoEVO-1_3DYNAMIC { background-position: 0px -720px; }
+	.PuntoEVO-1_3EMOTION { background-position: 0px -760px; }
+	.PuntoEVO-1_3SPORT93PS { background-position: 0px -800px; }
+	.PuntoEVO-1_4EMOTION { background-position: 0px -840px; }
+
+	.Ford { background-image: url('../../images/list/car/ford_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Classic-1_4TDCiCLXI { background-position: 0px 0px; }
+	.Classic-1_4TDCiLXI { background-position: 0px -40px; }
+	.Classic-1_4TDCiTITANIUM { background-position: 0px -80px; }
+	.Classic-1_6DURATECCLXI { background-position: 0px -120px; }
+	.Classic-1_6DURATECLXI { background-position: 0px -160px; }
+	.Classic-1_6DURATECTITANIUM { background-position: 0px -200px; }
+	.Ecosport-1_0ECOBOOSTTITANIUM_O_MT { background-position: 0px -240px; }
+	.Ecosport-1_0PECOBOOSTTITANIUMMT { background-position: 0px -280px; }
+	.Ecosport-1_5DMTAMBIENTE { background-position: 0px -320px; }
+	.Ecosport-1_5DMTTITANIUM { background-position: 0px -360px; }
+	.Ecosport-1_5DMTTITANIUMOPTIONAL { background-position: 0px -400px; }
+	.Ecosport-1_5DMTTREND { background-position: 0px -440px; }
+	.Ecosport-1_5PATTITANIUM { background-position: 0px -480px; }
+	.Ecosport-1_5PMTAMBIENTE { background-position: 0px -520px; }
+	.Ecosport-1_5PMTTITANIUM { background-position: 0px -560px; }
+	.Ecosport-1_5PMTTREND { background-position: 0px -600px; }
+	.Endeavour-2_5L4X2MT { background-position: 0px -640px; }
+	.Endeavour-3_0L4X4AT { background-position: 0px -680px; }
+	.Endeavour-3_0LAT4X2 { background-position: 0px -720px; }
+	.Fiesta-1_5DAMBIENTE { background-position: 0px -760px; }
+	.Fiesta-1_5DTITANIUM { background-position: 0px -800px; }
+	.Fiesta-1_5DTREND { background-position: 0px -840px; }
+	.FIGO-1_2DuratecPETROLEXI { background-position: 0px -880px; }
+	.FIGO-1_2DuratecPETROLLXI { background-position: 0px -920px; }
+	.FIGO-1_2DuratecPETROLTITANIUM { background-position: 0px -960px; }
+	.FIGO-1_2DuratecPETROLZXI { background-position: 0px -1000px; }
+	.FIGO-1_4DuratorqDIESELEXI { background-position: 0px -1040px; }
+	.FIGO-1_4DuratorqDIESELLXI { background-position: 0px -1080px; }
+	.FIGO-1_4DuratorqDIESELTITANIUM { background-position: 0px -1120px; }
+	.FIGO-1_4DuratorqDIESELZXI { background-position: 0px -1160px; }
+
+	.Honda { background-image: url('../../images/list/car/honda_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Amaze-1_2EMT_i-VTEC { background-position: 0px 0px; }
+	.Amaze-1_2EXMT_i-VTEC { background-position: 0px -40px; }
+	.Amaze-1_2SAT_i-VTEC { background-position: 0px -80px; }
+	.Amaze-1_2SMTPlus_i-VTEC { background-position: 0px -120px; }
+	.Amaze-1_2SMT_i-VTEC { background-position: 0px -160px; }
+	.Amaze-1_2SXMT_i-VTEC { background-position: 0px -200px; }
+	.Amaze-1_2VXAT_i-VTEC { background-position: 0px -240px; }
+	.Amaze-1_2VXMT_i-VTEC { background-position: 0px -280px; }
+	.Amaze-1_2VX_O_MT_i-VTEC { background-position: 0px -320px; }
+	.Amaze-1_5EMT_i-DTEC { background-position: 0px -360px; }
+	.Amaze-1_5EXMT_i-DTEC { background-position: 0px -400px; }
+	.Amaze-1_5SMT_i-DTEC { background-position: 0px -440px; }
+	.Amaze-1_5SXMT_i-DTEC { background-position: 0px -480px; }
+	.Amaze-1_5VXMT_i-DTEC { background-position: 0px -520px; }
+	.Amaze-1_5VXMT_O_i-DTEC { background-position: 0px -560px; }
+	.Brio-EMT { background-position: 0px -600px; }
+	.Brio-EXMT { background-position: 0px -640px; }
+	.Brio-SMT { background-position: 0px -680px; }
+	.Brio-VMT { background-position: 0px -720px; }
+	.Brio-VXAT { background-position: 0px -760px; }
+	.Brio-VXBLATAVN { background-position: 0px -800px; }
+	.Brio-VXBLMTAVN { background-position: 0px -840px; }
+	.Brio-VXMT { background-position: 0px -880px; }
+	.City-EMT { background-position: 0px -920px; }
+	.City-SMT { background-position: 0px -960px; }
+	.City-SVCVT { background-position: 0px -1000px; }
+	.City-SVMT { background-position: 0px -1040px; }
+	.City-VMT { background-position: 0px -1080px; }
+	.City-VXCVT { background-position: 0px -1120px; }
+	.City-VXMT { background-position: 0px -1160px; }
+	.City-VX_O_MT { background-position: 0px -1200px; }
+	.CRV-2_0L2WDAT { background-position: 0px -1240px; }
+	.CRV-2_0L2WDMT { background-position: 0px -1280px; }
+	.CRV-2_4L4WDAT { background-position: 0px -1320px; }
+	.Jazz-EMT { background-position: 0px -1360px; }
+	.Jazz-SCVT { background-position: 0px -1400px; }
+	.Jazz-SMT { background-position: 0px -1440px; }
+	.Jazz-SVMT { background-position: 0px -1480px; }
+	.Jazz-VCVT { background-position: 0px -1520px; }
+	.Jazz-VMT { background-position: 0px -1560px; }
+	.Jazz-VXMT { background-position: 0px -1600px; }
+	.Mobilio-EIDTEC { background-position: 0px -1640px; }
+	.Mobilio-EIVTEC { background-position: 0px -1680px; }
+	.Mobilio-RSIDTEC { background-position: 0px -1720px; }
+	.Mobilio-RSOPTIONIDTEC { background-position: 0px -1760px; }
+	.Mobilio-SIDTEC { background-position: 0px -1800px; }
+	.Mobilio-SIVTEC { background-position: 0px -1840px; }
+	.Mobilio-VIDTEC { background-position: 0px -1880px; }
+	.Mobilio-VIVTEC { background-position: 0px -1920px; }
+	.Mobilio-VOPTIONIDTEC { background-position: 0px -1960px; }
+	.Mobilio-VOPTIONIVTEC { background-position: 0px -2000px; }
+
+	.Hyundai { background-image: url('../../images/list/car/hyundai_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.4SFluidicVerna-1_4CRDIBase { background-position: 0px 0px; }
+	.4SFluidicVerna-1_4VTVTBase { background-position: 0px -40px; }
+	.4SFluidicVerna-1_4VTVTBase_2 { background-position: 0px -80px; }
+	.4SFluidicVerna-1_6CRDIATSX { background-position: 0px -120px; }
+	.4SFluidicVerna-1_6CRDIS { background-position: 0px -160px; }
+	.4SFluidicVerna-1_6CRDISOPTION { background-position: 0px -200px; }
+	.4SFluidicVerna-1_6CRDISOPTION_2 { background-position: 0px -240px; }
+	.4SFluidicVerna-1_6CRDISX { background-position: 0px -280px; }
+	.4SFluidicVerna-1_6SXVTVT { background-position: 0px -320px; }
+	.4SFluidicVerna-1_6VTVTATSOPTION { background-position: 0px -360px; }
+	.4SFluidicVerna-1_6VTVTATSOPTION_2 { background-position: 0px -400px; }
+	.4SFluidicVerna-1_6VTVTS { background-position: 0px -440px; }
+	.4SFluidicVerna-1_6VTVTSOPTION { background-position: 0px -480px; }
+	.Creta-1_4CRDiBase { background-position: 0px -520px; }
+	.Creta-1_4CRDiS { background-position: 0px -560px; }
+	.Creta-1_4CRDiS_Plus { background-position: 0px -600px; }
+	.Creta-1_4CRDiVGTATSX_Plus { background-position: 0px -640px; }
+	.Creta-1_4CRDiVGTSX { background-position: 0px -680px; }
+	.Creta-1_4CRDiVGTSX_O { background-position: 0px -720px; }
+	.Creta-1_4CRDiVGTSX_Plus { background-position: 0px -760px; }
+	.Creta-1_6VTVTBase { background-position: 0px -800px; }
+	.Creta-1_6VTVTS { background-position: 0px -840px; }
+	.Creta-1_6VTVTSX_Plus { background-position: 0px -880px; }
+	.ELITEI20-ASTA1_2 { background-position: 0px -920px; }
+	.ELITEI20-ASTA1_4CRDI { background-position: 0px -960px; }
+	.ELITEI20-ERA1_2 { background-position: 0px -1000px; }
+	.ELITEI20-ERA1_4CRDI { background-position: 0px -1040px; }
+	.ELITEI20-MAGNA1_2 { background-position: 0px -1080px; }
+	.ELITEI20-MAGNA1_4CRDI { background-position: 0px -1120px; }
+	.ELITEI20-SPORTZ1_2 { background-position: 0px -1160px; }
+	.ELITEI20-SPORTZ1_4CRDI { background-position: 0px -1200px; }
+	.ELITEI20-SPORTZOPTION1_2 { background-position: 0px -1240px; }
+	.ELITEI20-SPORTZOPTION1_4CRDI { background-position: 0px -1280px; }
+	.EON-0_8LiRDEDLITE { background-position: 0px -1320px; }
+	.EON-0_8LiRDEDLITE_Plus { background-position: 0px -1360px; }
+	.EON-0_8LiRDEERA_Plus { background-position: 0px -1400px; }
+	.EON-0_8LiRDEMAGNA_Plus { background-position: 0px -1440px; }
+	.EON-0_8LiRDESPORTZ { background-position: 0px -1480px; }
+	.EON-1_0KAPPAMAGNA_Plus_O { background-position: 0px -1520px; }
+	.EON-LPGERAPLUS { background-position: 0px -1560px; }
+	.EON-LPGMAGNAPLUS { background-position: 0px -1600px; }
+	.FluidicElantra-CRDIBASE { background-position: 0px -1640px; }
+	.FluidicElantra-CRDIS { background-position: 0px -1680px; }
+	.FluidicElantra-CRDISX { background-position: 0px -1720px; }
+	.FluidicElantra-CRDISXAT { background-position: 0px -1760px; }
+	.FluidicElantra-S { background-position: 0px -1800px; }
+	.FluidicElantra-SX { background-position: 0px -1840px; }
+	.FluidicElantra-SXAT { background-position: 0px -1880px; }
+	.GRANDI10-1_0KAPPALPGMAGNA { background-position: 0px -1920px; }
+	.GRANDI10-ASTA { background-position: 0px -1960px; }
+	.GRANDI10-CRDIASTA { background-position: 0px -2000px; }
+	.GRANDI10-CRDIERA { background-position: 0px -2040px; }
+	.GRANDI10-CRDIMAGNA { background-position: 0px -2080px; }
+	.GRANDI10-CRDISPORTZ { background-position: 0px -2120px; }
+	.GRANDI10-ERA { background-position: 0px -2160px; }
+	.GRANDI10-MAGNA { background-position: 0px -2200px; }
+	.GRANDI10-SPORTZ { background-position: 0px -2240px; }
+	.I10-ERA { background-position: 0px -2280px; }
+	.I10-MAGNA { background-position: 0px -2320px; }
+	.I10-SPORTZ { background-position: 0px -2360px; }
+	.I20ACTIVE-1_2Base { background-position: 0px -2400px; }
+	.I20ACTIVE-1_2S { background-position: 0px -2440px; }
+	.I20ACTIVE-1_4Base { background-position: 0px -2480px; }
+	.I20ACTIVE-1_4S { background-position: 0px -2520px; }
+	.I20ACTIVE-1_4SX { background-position: 0px -2560px; }
+	.SANTAFE-2WDAT { background-position: 0px -2600px; }
+	.SANTAFE-2WDMT { background-position: 0px -2640px; }
+	.SANTAFE-4WDAT { background-position: 0px -2680px; }
+	.Xcent-1_1CRDIBASE { background-position: 0px -2720px; }
+	.Xcent-1_1CRDIS { background-position: 0px -2760px; }
+	.Xcent-1_1CRDISX { background-position: 0px -2800px; }
+	.Xcent-1_1CRDISXOPTION { background-position: 0px -2840px; }
+	.Xcent-1_2KAPPABASE { background-position: 0px -2880px; }
+	.Xcent-1_2KAPPAS { background-position: 0px -2920px; }
+	.Xcent-1_2KAPPASX { background-position: 0px -2960px; }
+	.Xcent-1_2KAPPASXOPTION { background-position: 0px -3000px; }
+
+	.Jaguar { background-image: url('../../images/list/car/jaguar_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.FType-Coupe { background-position: 0px 0px; }
+	.FType-Rconvertible { background-position: 0px -40px; }
+	.FType-RCoupe { background-position: 0px -80px; }
+	.FType-RWDcoupe { background-position: 0px -120px; }
+	.FType-SConvertible { background-position: 0px -160px; }
+	.FType-SCoupe { background-position: 0px -200px; }
+	.XF-AERO-SPORT { background-position: 0px -240px; }
+	.XF-AERO-SPORT_2 { background-position: 0px -280px; }
+	.XF-EXECUTIVEEDITION { background-position: 0px -320px; }
+	.XF-LUXURY { background-position: 0px -360px; }
+	.XF-PREMIUMLUXURY { background-position: 0px -400px; }
+	.XF-XFR { background-position: 0px -440px; }
+	.XJ-2_0LPortfolioLWB { background-position: 0px -480px; }
+	.XJ-3_0LPortfolioLWB { background-position: 0px -520px; }
+	.XJ-3_0LPremiumLuxuryLWB { background-position: 0px -560px; }
+
+	.Mahindra { background-image: url('../../images/list/car/mahindra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Bolero-DI { background-position: 0px 0px; }
+	.Bolero-EX { background-position: 0px -40px; }
+	.Bolero-Plus { background-position: 0px -80px; }
+	.Bolero-PlusBS4 { background-position: 0px -120px; }
+	.Bolero-SLE { background-position: 0px -160px; }
+	.Bolero-SLX { background-position: 0px -200px; }
+	.Bolero-SpecialEdition { background-position: 0px -240px; }
+	.Bolero-ZLX { background-position: 0px -280px; }
+	.E2O-T2Premium { background-position: 0px -320px; }
+	.Quanto-C2 { background-position: 0px -360px; }
+	.Quanto-C4 { background-position: 0px -400px; }
+	.Quanto-C6 { background-position: 0px -440px; }
+	.Quanto-C8 { background-position: 0px -480px; }
+	.Scorpio-Getaway { background-position: 0px -520px; }
+	.Scorpio-S10 { background-position: 0px -560px; }
+	.Scorpio-S10AT { background-position: 0px -600px; }
+	.Scorpio-S2 { background-position: 0px -640px; }
+	.Scorpio-S4 { background-position: 0px -680px; }
+	.Scorpio-S4Plus { background-position: 0px -720px; }
+	.Scorpio-S6Plus { background-position: 0px -760px; }
+	.Scorpio-S8 { background-position: 0px -800px; }
+	.Thar-CRDe { background-position: 0px -840px; }
+	.Thar-DI4X2 { background-position: 0px -880px; }
+	.Thar-DI4X4 { background-position: 0px -920px; }
+	.Verito-1_5D2 { background-position: 0px -960px; }
+	.Verito-1_5D4 { background-position: 0px -1000px; }
+	.Verito-1_5D6 { background-position: 0px -1040px; }
+	.VeritoVibe-1_5dCiD2 { background-position: 0px -1080px; }
+	.VeritoVibe-1_5dCiD4 { background-position: 0px -1120px; }
+	.VeritoVibe-1_5dCiD6 { background-position: 0px -1160px; }
+	.XUV500-W10 { background-position: 0px -1200px; }
+	.XUV500-W10AWD { background-position: 0px -1240px; }
+	.XUV500-W4 { background-position: 0px -1280px; }
+	.XUV500-W6 { background-position: 0px -1320px; }
+	.XUV500-W8 { background-position: 0px -1360px; }
+	.XUV500-W8AWD { background-position: 0px -1400px; }
+	.Xylo-D2BSIII { background-position: 0px -1440px; }
+	.Xylo-D2BSIV { background-position: 0px -1480px; }
+	.Xylo-D4BSIII { background-position: 0px -1520px; }
+	.Xylo-D4BSIV { background-position: 0px -1560px; }
+	.Xylo-H4BSIV { background-position: 0px -1600px; }
+	.Xylo-H8BSIV { background-position: 0px -1640px; }
+	.Xylo-H9BSIV { background-position: 0px -1680px; }
+
+	.Maruti-Suzuki { background-image: url('../../images/list/car/maruthiSuzuki_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Alto800-LX { background-position: 0px 0px; }
+	.Alto800-Lxi { background-position: 0px -40px; }
+	.Alto800-STD { background-position: 0px -80px; }
+	.Alto800-Vxi { background-position: 0px -120px; }
+	.AltoK10-LX { background-position: 0px -160px; }
+	.AltoK10-Lxi { background-position: 0px -200px; }
+	.AltoK10-LxiCNG { background-position: 0px -240px; }
+	.AltoK10-Vxi { background-position: 0px -280px; }
+	.AltoK10-VxiAGS { background-position: 0px -320px; }
+	.AltoK10-VxiOptional { background-position: 0px -360px; }
+	.CELERIO-GreenVxi { background-position: 0px -400px; }
+	.CELERIO-Lxi { background-position: 0px -440px; }
+	.CELERIO-LxiAT { background-position: 0px -480px; }
+	.CELERIO-Vxi { background-position: 0px -520px; }
+	.CELERIO-VxiAT { background-position: 0px -560px; }
+	.CELERIO-Zxi { background-position: 0px -600px; }
+	.CELERIO-ZxiAT { background-position: 0px -640px; }
+	.CELERIO-ZxiOptional { background-position: 0px -680px; }
+	.CIAZ-V { background-position: 0px -720px; }
+	.CIAZ-V_Plus { background-position: 0px -760px; }
+	.CIAZ-Z { background-position: 0px -800px; }
+	.CIAZ-Z_Plus { background-position: 0px -840px; }
+	.Eeco-5SEATERAC { background-position: 0px -880px; }
+	.Eeco-5SEATERSTANDARD { background-position: 0px -920px; }
+	.Eeco-7SEATERSTANDARD { background-position: 0px -960px; }
+	.ERTIGA-Ldi { background-position: 0px -1000px; }
+	.ERTIGA-Lxi { background-position: 0px -1040px; }
+	.ERTIGA-LxiCNG { background-position: 0px -1080px; }
+	.ERTIGA-Vdi { background-position: 0px -1120px; }
+	.ERTIGA-Vxi { background-position: 0px -1160px; }
+	.ERTIGA-VxiABS { background-position: 0px -1200px; }
+	.ERTIGA-VxiCNG { background-position: 0px -1240px; }
+	.ERTIGA-Zdi { background-position: 0px -1280px; }
+	.ERTIGA-Zxi { background-position: 0px -1320px; }
+	.GRANDVITARA-2_4AT { background-position: 0px -1360px; }
+	.GRANDVITARA-2_4MT { background-position: 0px -1400px; }
+	.Gypsy-KINGHARDTOPMPI { background-position: 0px -1440px; }
+	.Gypsy-KINGSOFTTOPMPI { background-position: 0px -1480px; }
+	.OMNI-5SEATER { background-position: 0px -1520px; }
+	.OMNI-8Seater { background-position: 0px -1560px; }
+	.Ritz-Ldi { background-position: 0px -1600px; }
+	.Ritz-Lxi { background-position: 0px -1640px; }
+	.Ritz-Vdi { background-position: 0px -1680px; }
+	.Ritz-Vxi { background-position: 0px -1720px; }
+	.Ritz-VxiAT { background-position: 0px -1760px; }
+	.Ritz-Zdi { background-position: 0px -1800px; }
+	.Ritz-Zxi { background-position: 0px -1840px; }
+	.Stingray-LX { background-position: 0px -1880px; }
+	.Stingray-Vxi { background-position: 0px -1920px; }
+	.Stingray-VxiOptional { background-position: 0px -1960px; }
+	.SWIFT-Ldi { background-position: 0px -2000px; }
+	.SWIFT-Lxi { background-position: 0px -2040px; }
+	.SWIFT-LxiOptional { background-position: 0px -2080px; }
+	.SWIFT-Vdi { background-position: 0px -2120px; }
+	.SWIFT-Vxi { background-position: 0px -2160px; }
+	.SWIFT-Zdi { background-position: 0px -2200px; }
+	.SWIFT-Zxi { background-position: 0px -2240px; }
+	.SWIFTDESIRE-Ldi { background-position: 0px -2280px; }
+	.SWIFTDESIRE-Lxi { background-position: 0px -2320px; }
+	.SWIFTDESIRE-LxiOptional { background-position: 0px -2360px; }
+	.SWIFTDESIRE-Vdi { background-position: 0px -2400px; }
+	.SWIFTDESIRE-Vxi { background-position: 0px -2440px; }
+	.SWIFTDESIRE-VxiAT { background-position: 0px -2480px; }
+	.SWIFTDESIRE-Zdi { background-position: 0px -2520px; }
+	.SWIFTDESIRE-Zxi { background-position: 0px -2560px; }
+	.WAGONR-LX { background-position: 0px -2600px; }
+	.WAGONR-LxiGreen { background-position: 0px -2640px; }
+	.WAGONR-Vxi { background-position: 0px -2680px; }
+
+	.Mercedes-Benz { background-image: url('../../images/list/car/mercedesBenz_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.A-Class-A180SPORT { background-position: 0px 0px; }
+	.A-Class-A200CDISPORT { background-position: 0px -40px; }
+	.B-Class-B180SPORT { background-position: 0px -80px; }
+	.B-Class-B200CDISPORT { background-position: 0px -120px; }
+	.C-Class-C200 { background-position: 0px -160px; }
+	.C-Class-C220CDI { background-position: 0px -200px; }
+	.CLA-Class-200 { background-position: 0px -240px; }
+	.CLA-Class-200CDISport { background-position: 0px -280px; }
+	.CLA-Class-200CDISTYLE { background-position: 0px -320px; }
+	.CLA-Class-45AMG { background-position: 0px -360px; }
+	.CLS-Class-250CDI { background-position: 0px -400px; }
+	.E-Class-E200AVANTGARDE { background-position: 0px -440px; }
+	.E-Class-E250CDIAVANTGARDE { background-position: 0px -480px; }
+	.E-Class-E350CDIAVANTGARDE { background-position: 0px -520px; }
+	.E-Class-E400CABRIOLET { background-position: 0px -560px; }
+	.E-Class-E63AMG { background-position: 0px -600px; }
+	.G-Class-G63AMG { background-position: 0px -640px; }
+	.GL-Class-350CDIBLUEEFFICIENCY { background-position: 0px -680px; }
+	.GL-Class-63AMG { background-position: 0px -720px; }
+	.GLA-Class-200 { background-position: 0px -760px; }
+	.GLA-Class-200CDI { background-position: 0px -800px; }
+	.GLA-Class-45AMG4MATIC { background-position: 0px -840px; }
+	.M-Class-ML250CDI4Matic { background-position: 0px -880px; }
+	.M-Class-ML350CDI4Matic { background-position: 0px -920px; }
+	.M-Class-ML63AMG { background-position: 0px -960px; }
+	.S-Class-S350CDI { background-position: 0px -1000px; }
+	.S-Class-S500 { background-position: 0px -1040px; }
+	.SLK-Class-55AMG { background-position: 0px -1080px; }
+	.SLK-Class-SLK200 { background-position: 0px -1120px; }
+	.SLK-Class-SLK250BlueEfficiency { background-position: 0px -1160px; }
+	.SLK-Class-SLK250CDI { background-position: 0px -1200px; }
+	.SLK-Class-SLK350BlueEfficiency { background-position: 0px -1240px; }
+
+	.Nissan { background-image: url('../../images/list/car/nissan_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Evalia-SV { background-position: 0px 0px; }
+	.Evalia-XE { background-position: 0px -40px; }
+	.Evalia-XEPlus { background-position: 0px -80px; }
+	.Evalia-XL { background-position: 0px -120px; }
+	.Evalia-XV { background-position: 0px -160px; }
+	.Evalia-XVOption { background-position: 0px -200px; }
+	.Micra-XE { background-position: 0px -240px; }
+	.Micra-XL { background-position: 0px -280px; }
+	.Micra-XLOptional { background-position: 0px -320px; }
+	.Micra-XV { background-position: 0px -360px; }
+	.Micra-XVPremium { background-position: 0px -400px; }
+	.MicraActive-XE { background-position: 0px -440px; }
+	.MicraActive-XL { background-position: 0px -480px; }
+	.MicraActive-XV { background-position: 0px -520px; }
+	.MicraActive-XVSafety { background-position: 0px -560px; }
+	.Sunny-DieselXE { background-position: 0px -600px; }
+	.Sunny-DieselXL { background-position: 0px -640px; }
+	.Sunny-DieselXV { background-position: 0px -680px; }
+	.Sunny-XE { background-position: 0px -720px; }
+	.Sunny-XL { background-position: 0px -760px; }
+	.Sunny-XLCVT { background-position: 0px -800px; }
+	.Sunny-XVDPremiumLeather { background-position: 0px -840px; }
+	.Sunny-XVDPremiumSafety { background-position: 0px -880px; }
+	.Terrano-XE85PS { background-position: 0px -920px; }
+	.Terrano-XL { background-position: 0px -960px; }
+	.Terrano-XL110PS { background-position: 0px -1000px; }
+	.Terrano-XL85PS { background-position: 0px -1040px; }
+	.Terrano-XLPlus85PS { background-position: 0px -1080px; }
+	.Terrano-XV110PS { background-position: 0px -1120px; }
+	.Terrano-XVPremium110PS { background-position: 0px -1160px; }
+
+	.Renault { background-image: url('../../images/list/car/renault_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Duster-110PSDieselRxL { background-position: 0px 0px; }
+	.Duster-110PSDieselRXZOption { background-position: 0px -40px; }
+	.Duster-110PSDieselRxZPlus { background-position: 0px -80px; }
+	.Duster-85PSDieselRxE { background-position: 0px -120px; }
+	.Duster-85PSDieselRxL { background-position: 0px -160px; }
+	.Duster-85PSDieselRxLOption { background-position: 0px -200px; }
+	.Duster-85PSDieselRxLPlus { background-position: 0px -240px; }
+	.Duster-PetrolRxE { background-position: 0px -280px; }
+	.Duster-PetrolRxL { background-position: 0px -320px; }
+	.Duster-RXLAWD { background-position: 0px -360px; }
+	.Duster-RXZAWD { background-position: 0px -400px; }
+	.Fluence-E2D { background-position: 0px -440px; }
+	.Fluence-E4D { background-position: 0px -480px; }
+	.Koleos-4X2MT { background-position: 0px -520px; }
+	.Koleos-4X4AT { background-position: 0px -560px; }
+	.Koleos-4X4MT { background-position: 0px -600px; }
+	.Lodgy-110PSRxL { background-position: 0px -640px; }
+	.Lodgy-110PSRxZ7Seater { background-position: 0px -680px; }
+	.Lodgy-110PSRxZ8Seater { background-position: 0px -720px; }
+	.Lodgy-85PSRxE { background-position: 0px -760px; }
+	.Lodgy-85PSRxL { background-position: 0px -800px; }
+	.Lodgy-85PSRxZ { background-position: 0px -840px; }
+	.Lodgy-85PSStd { background-position: 0px -880px; }
+	.Lodgy-StepwayR_Z7Seater { background-position: 0px -920px; }
+	.Lodgy-StepwayR_Z8Seater { background-position: 0px -960px; }
+	.Pulse-RxL { background-position: 0px -1000px; }
+	.Pulse-RxLABS { background-position: 0px -1040px; }
+	.Pulse-RxZ { background-position: 0px -1080px; }
+	.Scala-DieselRxE { background-position: 0px -1120px; }
+	.Scala-DieselRxL { background-position: 0px -1160px; }
+	.Scala-DieselRxZ { background-position: 0px -1200px; }
+	.Scala-RxE { background-position: 0px -1240px; }
+	.Scala-RxL { background-position: 0px -1280px; }
+	.Scala-RxLCVT { background-position: 0px -1320px; }
+	.Scala-RxZCVT { background-position: 0px -1360px; }
+
+	.Skoda { background-image: url('../../images/list/car/skoda_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Octavia-Ambition1_4TSIMT { background-position: 0px 0px; }
+	.Octavia-Ambition2_0TDIAT { background-position: 0px -40px; }
+	.Octavia-Ambition2_0TDIMT { background-position: 0px -80px; }
+	.Octavia-Elegance1_8TSIAT { background-position: 0px -120px; }
+	.Octavia-Elegance2_0TDIAT { background-position: 0px -160px; }
+	.Rapid-1_5TDIActive { background-position: 0px -200px; }
+	.Rapid-1_5TDIAmbition { background-position: 0px -240px; }
+	.Rapid-1_5TDIAmbitionAT { background-position: 0px -280px; }
+	.Rapid-1_5TDIAmbitionATwithAlloyWheels { background-position: 0px -320px; }
+	.Rapid-1_5TDIAmbitionWithAlloyWheel { background-position: 0px -360px; }
+	.Rapid-1_5TDIATElegance { background-position: 0px -400px; }
+	.Rapid-1_5TDIATEleganceBlackPackage { background-position: 0px -440px; }
+	.Rapid-1_5TDIATElegancePlus { background-position: 0px -480px; }
+	.Rapid-1_5TDIATElegancePlusBlackPackage { background-position: 0px -520px; }
+	.Rapid-1_5TDIElegance { background-position: 0px -560px; }
+	.Rapid-1_5TDIEleganceBlackPackage { background-position: 0px -600px; }
+	.Rapid-1_5TDIElegancePlusBlackPackage { background-position: 0px -640px; }
+	.Rapid-1_6MPIActive { background-position: 0px -680px; }
+	.Rapid-1_6MPIAmbition { background-position: 0px -720px; }
+	.Rapid-1_6MPIAmbitionwithAlloyWheels { background-position: 0px -760px; }
+	.Rapid-1_6MPIATElegance { background-position: 0px -800px; }
+	.Rapid-1_6MPIATEleganceBlackPackage { background-position: 0px -840px; }
+	.Rapid-1_6MPIATElegancePlus { background-position: 0px -880px; }
+	.Rapid-1_6MPIATElegancePlusBlackPackage { background-position: 0px -920px; }
+	.Rapid-1_6MPIElegance { background-position: 0px -960px; }
+	.Rapid-1_6MPIEleganceBlackPackage { background-position: 0px -1000px; }
+	.Rapid-1_6MPIElegancePlus { background-position: 0px -1040px; }
+	.Rapid-1_6MPIElegancePlusBlackPackage { background-position: 0px -1080px; }
+	.Superb-Elegance1_8TSIAT { background-position: 0px -1120px; }
+	.Superb-Elegance1_8TSIMT { background-position: 0px -1160px; }
+	.Superb-Elegance2_0TDICRAT { background-position: 0px -1200px; }
+	.Yeti-SkodaYetiElegance4X2 { background-position: 0px -1240px; }
+	.Yeti-SkodaYetiElegance4X4 { background-position: 0px -1280px; }
+
+	.TATA { background-image: url('../../images/list/car/tata_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Aria-Pride4x4 { background-position: 0px 0px; }
+	.Bolt-QuadrajetXE { background-position: 0px -40px; }
+	.Bolt-QuadrajetXM { background-position: 0px -80px; }
+	.Bolt-QuadrajetXMS { background-position: 0px -120px; }
+	.Bolt-QuadrajetXT { background-position: 0px -160px; }
+	.Bolt-RevotronXE { background-position: 0px -200px; }
+	.Bolt-RevotronXM { background-position: 0px -240px; }
+	.Bolt-RevotronXMS { background-position: 0px -280px; }
+	.Bolt-RevotronXT { background-position: 0px -320px; }
+	.IndicaeV2-CR4LSBS4 { background-position: 0px -360px; }
+	.IndicaeV2-CR4LXBS4 { background-position: 0px -400px; }
+	.IndicaeV2-V2LSBS3 { background-position: 0px -440px; }
+	.IndicaeV2-V2LXBS3 { background-position: 0px -480px; }
+	.IndigoeCS-LSCR4BS4 { background-position: 0px -520px; }
+	.IndigoeCS-LS_TDI_BS3 { background-position: 0px -560px; }
+	.IndigoeCS-LXCR4BS4 { background-position: 0px -600px; }
+	.IndigoeCS-LXTDIBS3 { background-position: 0px -640px; }
+	.IndigoeCS-VXCR4BS4 { background-position: 0px -680px; }
+	.Manza-ClubClassQuadrajet90EX { background-position: 0px -720px; }
+	.Manza-ClubClassQuadrajet90LS { background-position: 0px -760px; }
+	.Manza-ClubClassQuadrajet90LX { background-position: 0px -800px; }
+	.Manza-ClubClassQuadrajet90VX { background-position: 0px -840px; }
+	.Manza-ClubClassSafire90GEX { background-position: 0px -880px; }
+	.Manza-ClubClassSafire90GLS { background-position: 0px -920px; }
+	.Manza-ClubClassSafire90GLX { background-position: 0px -960px; }
+	.Manza-ClubClassSafire90GVX { background-position: 0px -1000px; }
+	.Movus-CX { background-position: 0px -1040px; }
+	.Movus-LX { background-position: 0px -1080px; }
+	.Nano-XE { background-position: 0px -1120px; }
+	.Nano-XM { background-position: 0px -1160px; }
+	.Nano-XMA { background-position: 0px -1200px; }
+	.Nano-XT { background-position: 0px -1240px; }
+	.Nano-XTA { background-position: 0px -1280px; }
+	.Safari-DICOR2_2EX4x2 { background-position: 0px -1320px; }
+	.Safari-DICOR2_2LX4x2 { background-position: 0px -1360px; }
+	.SafariStorme-EX { background-position: 0px -1400px; }
+	.SafariStorme-LX { background-position: 0px -1440px; }
+	.SafariStorme-VX { background-position: 0px -1480px; }
+	.SafariStorme-VX4WD { background-position: 0px -1520px; }
+	.Sumo-GoldCXBS3 { background-position: 0px -1560px; }
+	.Sumo-GoldCXBS4 { background-position: 0px -1600px; }
+	.Sumo-GoldCXPSBS3 { background-position: 0px -1640px; }
+	.Sumo-GoldCXPSBS4 { background-position: 0px -1680px; }
+	.Sumo-GoldEXBS3 { background-position: 0px -1720px; }
+	.Sumo-GoldEXBS4 { background-position: 0px -1760px; }
+	.Sumo-GoldGXBS4 { background-position: 0px -1800px; }
+	.Venture-EX7Str { background-position: 0px -1840px; }
+	.Venture-EX7StrCaptainSeats { background-position: 0px -1880px; }
+	.Venture-EX8Seater { background-position: 0px -1920px; }
+	.Venture-GX7Str { background-position: 0px -1960px; }
+	.Venture-GX7StrCaptainSeats { background-position: 0px -2000px; }
+	.Venture-GX8Seater { background-position: 0px -2040px; }
+	.Venture-LX7Str { background-position: 0px -2080px; }
+	.Venture-LX8Seater { background-position: 0px -2120px; }
+	.Vista-QuadrajetLS { background-position: 0px -2160px; }
+	.Vista-QuadrajetVXTech { background-position: 0px -2200px; }
+	.Vista-TDILS { background-position: 0px -2240px; }
+	.Vista-TDILX { background-position: 0px -2280px; }
+	.XenonXT-EX4X2 { background-position: 0px -2320px; }
+	.XenonXT-EX4X4 { background-position: 0px -2360px; }
+	.Zest-Quadrajet1_375PSXE { background-position: 0px -2400px; }
+	.Zest-Quadrajet1_3XM { background-position: 0px -2440px; }
+	.Zest-Quadrajet1_3XMA { background-position: 0px -2480px; }
+	.Zest-Quadrajet1_3XMS { background-position: 0px -2520px; }
+	.Zest-Quadrajet1_3XT { background-position: 0px -2560px; }
+	.Zest-Quadrajet1_3XTA { background-position: 0px -2600px; }
+	.Zest-Revotron1_2TXE { background-position: 0px -2640px; }
+	.Zest-Revotron1_2TXM { background-position: 0px -2680px; }
+	.Zest-Revotron1_2TXMS { background-position: 0px -2720px; }
+	.Zest-Revotron1_2XT { background-position: 0px -2760px; }
+
+	.Toyota { background-image: url('../../images/list/car/toyota_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Camry-Facelift { background-position: 0px 0px; }
+	.Camry-Hybrid { background-position: 0px -40px; }
+	.CorollaAltis-D4DG { background-position: 0px -80px; }
+	.CorollaAltis-D4DGL { background-position: 0px -120px; }
+	.CorollaAltis-D4DJ { background-position: 0px -160px; }
+	.CorollaAltis-D4DJS { background-position: 0px -200px; }
+	.CorollaAltis-GAT { background-position: 0px -240px; }
+	.CorollaAltis-GLMT { background-position: 0px -280px; }
+	.CorollaAltis-GMT { background-position: 0px -320px; }
+	.CorollaAltis-JSMT { background-position: 0px -360px; }
+	.CorollaAltis-VLAT { background-position: 0px -400px; }
+	.Etios-G { background-position: 0px -440px; }
+	.Etios-GD { background-position: 0px -480px; }
+	.Etios-J { background-position: 0px -520px; }
+	.Etios-JD { background-position: 0px -560px; }
+	.Etios-V { background-position: 0px -600px; }
+	.Etios-VD { background-position: 0px -640px; }
+	.Etios-VX { background-position: 0px -680px; }
+	.Etios-VXD { background-position: 0px -720px; }
+	.EtiosCross-1_2LG { background-position: 0px -760px; }
+	.EtiosCross-1_4LGD { background-position: 0px -800px; }
+	.EtiosCross-1_4LVD { background-position: 0px -840px; }
+	.EtiosCross-1_5LV { background-position: 0px -880px; }
+	.EtiosLiva-G { background-position: 0px -920px; }
+	.EtiosLiva-GD { background-position: 0px -960px; }
+	.EtiosLiva-J { background-position: 0px -1000px; }
+	.EtiosLiva-JD { background-position: 0px -1040px; }
+	.EtiosLiva-V { background-position: 0px -1080px; }
+	.EtiosLiva-VD { background-position: 0px -1120px; }
+	.EtiosLiva-VX { background-position: 0px -1160px; }
+	.EtiosLiva-VXD { background-position: 0px -1200px; }
+	.Fortuner-4x2AT { background-position: 0px -1240px; }
+	.Fortuner-4x2Manual { background-position: 0px -1280px; }
+	.Fortuner-4x4AT { background-position: 0px -1320px; }
+	.Fortuner-4x4MT { background-position: 0px -1360px; }
+	.Innova-2_5G7SeaterBS3 { background-position: 0px -1400px; }
+	.Innova-2_5G7SeaterBS4 { background-position: 0px -1440px; }
+	.Innova-2_5G8SeaterBS3 { background-position: 0px -1480px; }
+	.Innova-2_5G8SeaterBS4 { background-position: 0px -1520px; }
+	.Innova-2_5GX7SeaterBS3 { background-position: 0px -1560px; }
+	.Innova-2_5GX7SeaterBS4 { background-position: 0px -1600px; }
+	.Innova-2_5GX8SeaterBS3 { background-position: 0px -1640px; }
+	.Innova-2_5GX8SeaterBS4 { background-position: 0px -1680px; }
+	.Innova-2_5VPS7SeaterBS3 { background-position: 0px -1720px; }
+	.Innova-2_5VPS7SeaterBS4 { background-position: 0px -1760px; }
+	.Innova-2_5VPS8SeaterBS3 { background-position: 0px -1800px; }
+	.Innova-2_5VPS8SeaterBS4 { background-position: 0px -1840px; }
+	.Innova-2_5VX7SeaterBS3 { background-position: 0px -1880px; }
+	.Innova-2_5VX7SeaterBS4 { background-position: 0px -1920px; }
+	.Innova-2_5VX8SeaterBS3 { background-position: 0px -1960px; }
+	.Innova-2_5VX8SeaterBS4 { background-position: 0px -2000px; }
+	.Innova-2_5Z7SeaterBS4 { background-position: 0px -2040px; }
+	.Innova-2_5Z8SeaterBS4 { background-position: 0px -2080px; }
+	.Innova-2_5ZX7SeaterBS3 { background-position: 0px -2120px; }
+	.Innova-2_5ZX7SeaterBS4 { background-position: 0px -2160px; }
+	.LandCruiser200-VX { background-position: 0px -2200px; }
+	.LandCruiserPrado-4WD { background-position: 0px -2240px; }
+	.Prius-ZR { background-position: 0px -2280px; }
+
+	.Volkswagen { background-image: url('../../images/list/car/volkswagen_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.CrossPolo-1_2TSI { background-position: 0px 0px; }
+	.CrossPolo-1_5TDI { background-position: 0px -40px; }
+	.Jetta-1_4TSICOMFORTLINE { background-position: 0px -80px; }
+	.Jetta-1_4TSITRENDLINE { background-position: 0px -120px; }
+	.Jetta-2_0LTDICOMFORTLINE { background-position: 0px -160px; }
+	.Jetta-2_0LTDIHIGHLINE { background-position: 0px -200px; }
+	.Jetta-2_0LTDIHIGHLINEAT { background-position: 0px -240px; }
+	.Jetta-2_0LTDITRENDLINE { background-position: 0px -280px; }
+	.Polo-1_2MPICOMFORTLINE { background-position: 0px -320px; }
+	.Polo-1_2MPIHIGHLINE { background-position: 0px -360px; }
+	.Polo-1_2MPITRENDLINE { background-position: 0px -400px; }
+	.Polo-1_5TDICOMFORTLINE { background-position: 0px -440px; }
+	.Polo-1_5TDIHIGHLINE { background-position: 0px -480px; }
+	.Polo-1_5TDITRENDLINE { background-position: 0px -520px; }
+	.Vento-1_2TSICOMFORTLINEAT { background-position: 0px -560px; }
+	.Vento-1_2TSIHIGHLINEAT { background-position: 0px -600px; }
+	.Vento-1_5TDICOMFORTLINE { background-position: 0px -640px; }
+	.Vento-1_5TDICOMFORTLINEAT { background-position: 0px -680px; }
+	.Vento-1_5TDIHIGHLINE { background-position: 0px -720px; }
+	.Vento-1_5TDIHIGHLINEAT { background-position: 0px -760px; }
+	.Vento-1_5TDITRENDLINE { background-position: 0px -800px; }
+	.Vento-1_6MPICOMFORTLINE { background-position: 0px -840px; }
+	.Vento-1_6MPIHIGHLINE { background-position: 0px -880px; }
+	.Vento-1_6MPITRENDLINE { background-position: 0px -920px; }
+}
+
+/* Apple iPhone 6 Plus - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 414px) {
+
+}
+
+/* Google Nexus 5X - Portrait, Google Nexus 6 - Portrait, Google Nexus 6P - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 412px) {
+
+}
+
+/* Samsung Galaxy Note - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 400px) {
+
+}
+
+/* BlackBerry Z10 - Portrait, Google Nexus 4 - Portrait, LG Optimus G - Portrait, LG Optimus L70 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 384px) {
+
+}
+
+/* Apple iPhone 6 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 375px) {
+
+}
+
+/* BlackBerry Z30 - Portrait, Google Nexus 5 - Portrait, Galaxy Note 3 - Portrait, Galaxy Note II - Portrait, Galaxy S III - Portrait, Galaxy S5 - Portrait, HTC One X - Portrait, EVO LTE - Portrait, HTC Sensation - Portrait, EVO 3D - Portrait, Nokia N9 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 360px) {
+
+}
+
+/* Apple iPhone 3GS - Portrait, iPhone 4 - Portrait, iPhone 5 - Portrait/ Google Nexus S - Portrait/ HTC Evo - Portrait, Touch HD - Portrait, Desire HD - Portrait, Desire - Portrait/ LG Optimus 2X - Portrait, Optimus 3D - Portrait, Optimus Black - Portrait/  Motorola Defy - Portrait, Droid - Portrait, Droid X - Portrait, Milestone - Portrait/ Nokia Lumia 7X0 - Portrait, Lumia 8XX - Portrait, Lumia 900 - Portrait, N800 - Portrait, N810 - Portrait, N900 - Portrait, 520 - Portrait/ Samsung Galaxy S - Portrait, SII - Portrait, W/ - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 320px) {
+
+}
+
+/* LG Optimus One - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 213px) {
+	.Audi { background-image: url('../../images/list/car/audi_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.A3-35TDIATTRACTION { background-position: 0px 0px; }
+	.A3-35TDIPREMIUM { background-position: 0px -30px; }
+	.A3-35TDIPREMIUMPLUS { background-position: 0px -60px; }
+	.A3-35TDITECHNOLOGY { background-position: 0px -90px; }
+	.A3-40TFSIPREMIUMPLUS_SED { background-position: 0px -120px; }
+	.A3-Cabriolet { background-position: 0px -150px; }
+	.A4-35TDIPREMIUM { background-position: 0px -180px; }
+	.A4-35TDIPREMIUMSPORT { background-position: 0px -210px; }
+	.A4-35TDITECHNOLOGYEDITION { background-position: 0px -240px; }
+	.A4-35TFSI { background-position: 0px -270px; }
+	.A6-35TDIPREMIUM { background-position: 0px -300px; }
+	.A6-35TDIPREMIUMPLUS { background-position: 0px -330px; }
+	.A6-35TDITECHNOLOGY { background-position: 0px -360px; }
+	.A6-40TFSIPREMIUMPLUS { background-position: 0px -390px; }
+	.A8-L50TDIQUATTRO { background-position: 0px -420px; }
+	.A8-L60TDIQUATTRO { background-position: 0px -450px; }
+	.A8-L60TFSIQUATTRO { background-position: 0px -480px; }
+	.A8-LW126_3FSIQUATTRO { background-position: 0px -510px; }
+	.Q3-30TDISEDITION { background-position: 0px -540px; }
+	.Q3-35TDIQUATTRO { background-position: 0px -570px; }
+	.Q5-30TDIQUATTRO { background-position: 0px -600px; }
+	.Q5-45TDIQUATTRO { background-position: 0px -630px; }
+	.Q7-35TDIqPremium { background-position: 0px -660px; }
+	.Q7-35TDIqPREMIUMPLUS { background-position: 0px -690px; }
+	.Q7-35TDIqTECHNOLOGY { background-position: 0px -720px; }
+	.R8-V10COUPE { background-position: 0px -750px; }
+	.R8-V10PLUS { background-position: 0px -780px; }
+	.R8-V10SPYDER { background-position: 0px -810px; }
+	.R8-V8Coupe { background-position: 0px -840px; }
+	.RS5-COUPE { background-position: 0px -870px; }
+	.RS6-Avant { background-position: 0px -900px; }
+	.RS7-SPORTBACK { background-position: 0px -930px; }
+	.S6Saloon-4_0TFSIq { background-position: 0px -960px; }
+	.TT-2_0TFSIquattro { background-position: 0px -990px; }
+
+	.BMW { background-image: url('../../images/list/car/bmw_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.1Series-118dSportLine { background-position: 0px 0px; }
+	.3Series-320dLuxuryLine { background-position: 0px -30px; }
+	.3Series-320dLuxuryLineEdition2 { background-position: 0px -60px; }
+	.3Series-320dPrestige { background-position: 0px -90px; }
+	.3Series-320dPrestigeEdition2 { background-position: 0px -120px; }
+	.3Series-320dSportLine { background-position: 0px -150px; }
+	.3Series-320dSportLineEdition2 { background-position: 0px -180px; }
+	.5Series-520dLuxuryLineEdition { background-position: 0px -210px; }
+	.5Series-520dLuxuryLineEdition2 { background-position: 0px -240px; }
+	.5Series-520dPrestigePlusEdition { background-position: 0px -270px; }
+	.5Series-520dPrestigePlusEdition2 { background-position: 0px -300px; }
+	.5Series-530dMSportEdition { background-position: 0px -330px; }
+	.5Series-530dPrestigeEdition { background-position: 0px -360px; }
+	.5Series-530dPrestigeEdition2 { background-position: 0px -390px; }
+	.6Series-GranCoupeDesignPureExperience { background-position: 0px -420px; }
+	.6Series-GranCoupeEminence { background-position: 0px -450px; }
+	.7Series-730LdEminence { background-position: 0px -480px; }
+	.7Series-730LdPrestige { background-position: 0px -510px; }
+	.7Series-730LdSignature { background-position: 0px -540px; }
+	.7Series-750LiEminence { background-position: 0px -570px; }
+	.7Series-760LiEminence { background-position: 0px -600px; }
+	.7Series-ActiveHybrid7L { background-position: 0px -630px; }
+	.GranTurismo-luxuryline { background-position: 0px -660px; }
+	.GranTurismo-SportLine { background-position: 0px -690px; }
+	.I8-Hybrid { background-position: 0px -720px; }
+	.MSeries-M3Sedan { background-position: 0px -750px; }
+	.MSeries-M4Coupe { background-position: 0px -780px; }
+	.MSeries-M5Sedan { background-position: 0px -810px; }
+	.MSeries-M6GranCoupe { background-position: 0px -840px; }
+	.X1-sDrive20dxLine { background-position: 0px -870px; }
+	.X3-xDrive20dExpedition { background-position: 0px -900px; }
+	.X3-xDrive20dxLine { background-position: 0px -930px; }
+	.X3-xDrive30dMSport { background-position: 0px -960px; }
+	.X5-xDrive30dDesignPureExperience5Seater { background-position: 0px -990px; }
+	.X5-xDrive30dDesignPureExperience7Seater { background-position: 0px -1020px; }
+	.X5-xDrive30dExpedition { background-position: 0px -1050px; }
+	.X6-MSport { background-position: 0px -1080px; }
+	.Z4-sDrive35iDPT { background-position: 0px -1110px; }
+	.Z4-sDrive35iPrestige { background-position: 0px -1140px; }
+
+	.Chevrolet { background-image: url('../../images/list/car/chevrolet_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Beat-1_0LSTCDiMY15 { background-position: 0px 0px; }
+	.Beat-1_0LTOptionMY15 { background-position: 0px -30px; }
+	.Beat-1_0LTTCDiMY15 { background-position: 0px -60px; }
+	.Beat-1_0TCDiMY15 { background-position: 0px -90px; }
+	.Beat-1_2LSMY15 { background-position: 0px -120px; }
+	.Beat-1_2LTMY15 { background-position: 0px -150px; }
+	.Beat-1_2LTOptionMY15 { background-position: 0px -180px; }
+	.Beat-1_2MY15 { background-position: 0px -210px; }
+	.Captiva-2_2LT { background-position: 0px -240px; }
+	.Captiva-2_2LTZ { background-position: 0px -270px; }
+	.Cruze-LT { background-position: 0px -300px; }
+	.Cruze-LTZAT { background-position: 0px -330px; }
+	.Cruze-LTZMT { background-position: 0px -360px; }
+	.Enjoy-1_3TCDiLS7Seater { background-position: 0px -390px; }
+	.Enjoy-1_3TCDiLS8Seater { background-position: 0px -420px; }
+	.Enjoy-1_3TCDiLT7Seater { background-position: 0px -450px; }
+	.Enjoy-1_3TCDiLT8Seater { background-position: 0px -480px; }
+	.Enjoy-1_3TCDiLTZ8Seater { background-position: 0px -510px; }
+	.Enjoy-1_4LS7Seater { background-position: 0px -540px; }
+	.Enjoy-1_4LS8Seater { background-position: 0px -570px; }
+	.Enjoy-1_4LT7Seater { background-position: 0px -600px; }
+	.Enjoy-1_4LT8Seater { background-position: 0px -630px; }
+	.Enjoy-1_4LTZ7Seater { background-position: 0px -660px; }
+	.Enjoy-1_4LTZ8Seater { background-position: 0px -690px; }
+	.Sail-1_2Base { background-position: 0px -720px; }
+	.Sail-1_2LS { background-position: 0px -750px; }
+	.Sail-1_2LSABS { background-position: 0px -780px; }
+	.Sail-1_2LTABS { background-position: 0px -810px; }
+	.Sail-1_3Base { background-position: 0px -840px; }
+	.Sail-1_3LS { background-position: 0px -870px; }
+	.Sail-1_3LSABS { background-position: 0px -900px; }
+	.Sail-1_3LTABS { background-position: 0px -930px; }
+	.SailHatchback-1_2 { background-position: 0px -960px; }
+	.SailHatchback-1_2LS { background-position: 0px -990px; }
+	.SailHatchback-1_2LSABS { background-position: 0px -1020px; }
+	.SailHatchback-1_2LTABS { background-position: 0px -1050px; }
+	.SailHatchback-1_3TCDi { background-position: 0px -1080px; }
+	.SailHatchback-1_3TCDiLS { background-position: 0px -1110px; }
+	.SailHatchback-1_3TCDiLSABS { background-position: 0px -1140px; }
+	.SailHatchback-1_3TCDiLTABS { background-position: 0px -1170px; }
+	.Spark-1_0BS4OBDII { background-position: 0px -1200px; }
+	.Spark-1_0LSBS4OBDII { background-position: 0px -1230px; }
+	.Spark-1_0LTBS4OBDII { background-position: 0px -1260px; }
+	.Tavera-Neo3-10-BS3 { background-position: 0px -1290px; }
+	.Tavera-Neo3AmbulanceBS3 { background-position: 0px -1320px; }
+	.Tavera-Neo3LS-10-BS3 { background-position: 0px -1350px; }
+	.Tavera-Neo3LS-7-BS3 { background-position: 0px -1380px; }
+	.Tavera-Neo3LS-7_C-BS3 { background-position: 0px -1410px; }
+	.Tavera-Neo3LT-8-BS3 { background-position: 0px -1440px; }
+	.Tavera-Neo3LT-9-BS3 { background-position: 0px -1470px; }
+	.Tavera-Neo3Max-10-BS3 { background-position: 0px -1500px; }
+	.Tavera-Neo3Max-7-BS3 { background-position: 0px -1530px; }
+	.Tavera-Neo3MaxAmbulanceBS3 { background-position: 0px -1560px; }
+	.Tavera-Neo_3LT-7_C-BS3 { background-position: 0px -1590px; }
+
+	.Fiat { background-image: url('../../images/list/car/fiat_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Avventura-1_3LMULTIJETACTIVE { background-position: 0px 0px; }
+	.Avventura-1_3LMULTIJETDYNAMIC { background-position: 0px -30px; }
+	.Avventura-1_3LMULTIJETEMOTION { background-position: 0px -60px; }
+	.Avventura-1_4LFIREACTIVE { background-position: 0px -90px; }
+	.Avventura-1_4LFIREDYNAMIC { background-position: 0px -120px; }
+	.Linea-1_3LMULTIJETACTIVE { background-position: 0px -150px; }
+	.Linea-1_3LMULTIJETDYNAMIC { background-position: 0px -180px; }
+	.Linea-1_3LMULTIJETEMOTION { background-position: 0px -210px; }
+	.Linea-1_4LFIREACTIVE { background-position: 0px -240px; }
+	.Linea-1_4LTJETACTIVE { background-position: 0px -270px; }
+	.Linea-1_4LTJETDYNAMIC { background-position: 0px -300px; }
+	.Linea-1_4LTJETEMOTION { background-position: 0px -330px; }
+	.LineaClassic-1_3MULTIJET { background-position: 0px -360px; }
+	.LineaClassic-1_4PETROL { background-position: 0px -390px; }
+	.LineaClassic-PLUS1_3MULTIJET { background-position: 0px -420px; }
+	.PuntoEVO-1_2ACTIVE { background-position: 0px -450px; }
+	.PuntoEVO-1_2DYNAMIC { background-position: 0px -480px; }
+	.PuntoEVO-1_3ACTIVE { background-position: 0px -510px; }
+	.PuntoEVO-1_3DYNAMIC { background-position: 0px -540px; }
+	.PuntoEVO-1_3EMOTION { background-position: 0px -570px; }
+	.PuntoEVO-1_3SPORT93PS { background-position: 0px -600px; }
+	.PuntoEVO-1_4EMOTION { background-position: 0px -630px; }
+
+	.Ford { background-image: url('../../images/list/car/ford_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Classic-1_4TDCiCLXI { background-position: 0px 0px; }
+	.Classic-1_4TDCiLXI { background-position: 0px -30px; }
+	.Classic-1_4TDCiTITANIUM { background-position: 0px -60px; }
+	.Classic-1_6DURATECCLXI { background-position: 0px -90px; }
+	.Classic-1_6DURATECLXI { background-position: 0px -120px; }
+	.Classic-1_6DURATECTITANIUM { background-position: 0px -150px; }
+	.Ecosport-1_0ECOBOOSTTITANIUM_O_MT { background-position: 0px -180px; }
+	.Ecosport-1_0PECOBOOSTTITANIUMMT { background-position: 0px -210px; }
+	.Ecosport-1_5DMTAMBIENTE { background-position: 0px -240px; }
+	.Ecosport-1_5DMTTITANIUM { background-position: 0px -270px; }
+	.Ecosport-1_5DMTTITANIUMOPTIONAL { background-position: 0px -300px; }
+	.Ecosport-1_5DMTTREND { background-position: 0px -330px; }
+	.Ecosport-1_5PATTITANIUM { background-position: 0px -360px; }
+	.Ecosport-1_5PMTAMBIENTE { background-position: 0px -390px; }
+	.Ecosport-1_5PMTTITANIUM { background-position: 0px -420px; }
+	.Ecosport-1_5PMTTREND { background-position: 0px -450px; }
+	.Endeavour-2_5L4X2MT { background-position: 0px -480px; }
+	.Endeavour-3_0L4X4AT { background-position: 0px -510px; }
+	.Endeavour-3_0LAT4X2 { background-position: 0px -540px; }
+	.Fiesta-1_5DAMBIENTE { background-position: 0px -570px; }
+	.Fiesta-1_5DTITANIUM { background-position: 0px -600px; }
+	.Fiesta-1_5DTREND { background-position: 0px -630px; }
+	.FIGO-1_2DuratecPETROLEXI { background-position: 0px -660px; }
+	.FIGO-1_2DuratecPETROLLXI { background-position: 0px -690px; }
+	.FIGO-1_2DuratecPETROLTITANIUM { background-position: 0px -720px; }
+	.FIGO-1_2DuratecPETROLZXI { background-position: 0px -750px; }
+	.FIGO-1_4DuratorqDIESELEXI { background-position: 0px -780px; }
+	.FIGO-1_4DuratorqDIESELLXI { background-position: 0px -810px; }
+	.FIGO-1_4DuratorqDIESELTITANIUM { background-position: 0px -840px; }
+	.FIGO-1_4DuratorqDIESELZXI { background-position: 0px -870px; }
+
+	.Honda { background-image: url('../../images/list/car/honda_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Amaze-1_2EMT_i-VTEC { background-position: 0px 0px; }
+	.Amaze-1_2EXMT_i-VTEC { background-position: 0px -30px; }
+	.Amaze-1_2SAT_i-VTEC { background-position: 0px -60px; }
+	.Amaze-1_2SMTPlus_i-VTEC { background-position: 0px -90px; }
+	.Amaze-1_2SMT_i-VTEC { background-position: 0px -120px; }
+	.Amaze-1_2SXMT_i-VTEC { background-position: 0px -150px; }
+	.Amaze-1_2VXAT_i-VTEC { background-position: 0px -180px; }
+	.Amaze-1_2VXMT_i-VTEC { background-position: 0px -210px; }
+	.Amaze-1_2VX_O_MT_i-VTEC { background-position: 0px -240px; }
+	.Amaze-1_5EMT_i-DTEC { background-position: 0px -270px; }
+	.Amaze-1_5EXMT_i-DTEC { background-position: 0px -300px; }
+	.Amaze-1_5SMT_i-DTEC { background-position: 0px -330px; }
+	.Amaze-1_5SXMT_i-DTEC { background-position: 0px -360px; }
+	.Amaze-1_5VXMT_i-DTEC { background-position: 0px -390px; }
+	.Amaze-1_5VXMT_O_i-DTEC { background-position: 0px -420px; }
+	.Brio-EMT { background-position: 0px -450px; }
+	.Brio-EXMT { background-position: 0px -480px; }
+	.Brio-SMT { background-position: 0px -510px; }
+	.Brio-VMT { background-position: 0px -540px; }
+	.Brio-VXAT { background-position: 0px -570px; }
+	.Brio-VXBLATAVN { background-position: 0px -600px; }
+	.Brio-VXBLMTAVN { background-position: 0px -630px; }
+	.Brio-VXMT { background-position: 0px -660px; }
+	.City-EMT { background-position: 0px -690px; }
+	.City-SMT { background-position: 0px -720px; }
+	.City-SVCVT { background-position: 0px -750px; }
+	.City-SVMT { background-position: 0px -780px; }
+	.City-VMT { background-position: 0px -810px; }
+	.City-VXCVT { background-position: 0px -840px; }
+	.City-VXMT { background-position: 0px -870px; }
+	.City-VX_O_MT { background-position: 0px -900px; }
+	.CRV-2_0L2WDAT { background-position: 0px -930px; }
+	.CRV-2_0L2WDMT { background-position: 0px -960px; }
+	.CRV-2_4L4WDAT { background-position: 0px -990px; }
+	.Jazz-EMT { background-position: 0px -1020px; }
+	.Jazz-SCVT { background-position: 0px -1050px; }
+	.Jazz-SMT { background-position: 0px -1080px; }
+	.Jazz-SVMT { background-position: 0px -1110px; }
+	.Jazz-VCVT { background-position: 0px -1140px; }
+	.Jazz-VMT { background-position: 0px -1170px; }
+	.Jazz-VXMT { background-position: 0px -1200px; }
+	.Mobilio-EIDTEC { background-position: 0px -1230px; }
+	.Mobilio-EIVTEC { background-position: 0px -1260px; }
+	.Mobilio-RSIDTEC { background-position: 0px -1290px; }
+	.Mobilio-RSOPTIONIDTEC { background-position: 0px -1320px; }
+	.Mobilio-SIDTEC { background-position: 0px -1350px; }
+	.Mobilio-SIVTEC { background-position: 0px -1380px; }
+	.Mobilio-VIDTEC { background-position: 0px -1410px; }
+	.Mobilio-VIVTEC { background-position: 0px -1440px; }
+	.Mobilio-VOPTIONIDTEC { background-position: 0px -1470px; }
+	.Mobilio-VOPTIONIVTEC { background-position: 0px -1500px; }
+
+	.Hyundai { background-image: url('../../images/list/car/hyundai_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.4SFluidicVerna-1_4CRDIBase { background-position: 0px 0px; }
+	.4SFluidicVerna-1_4VTVTBase { background-position: 0px -30px; }
+	.4SFluidicVerna-1_4VTVTBase_2 { background-position: 0px -60px; }
+	.4SFluidicVerna-1_6CRDIATSX { background-position: 0px -90px; }
+	.4SFluidicVerna-1_6CRDIS { background-position: 0px -120px; }
+	.4SFluidicVerna-1_6CRDISOPTION { background-position: 0px -150px; }
+	.4SFluidicVerna-1_6CRDISOPTION_2 { background-position: 0px -180px; }
+	.4SFluidicVerna-1_6CRDISX { background-position: 0px -210px; }
+	.4SFluidicVerna-1_6SXVTVT { background-position: 0px -240px; }
+	.4SFluidicVerna-1_6VTVTATSOPTION { background-position: 0px -270px; }
+	.4SFluidicVerna-1_6VTVTATSOPTION_2 { background-position: 0px -300px; }
+	.4SFluidicVerna-1_6VTVTS { background-position: 0px -330px; }
+	.4SFluidicVerna-1_6VTVTSOPTION { background-position: 0px -360px; }
+	.Creta-1_4CRDiBase { background-position: 0px -390px; }
+	.Creta-1_4CRDiS { background-position: 0px -420px; }
+	.Creta-1_4CRDiS_Plus { background-position: 0px -450px; }
+	.Creta-1_4CRDiVGTATSX_Plus { background-position: 0px -480px; }
+	.Creta-1_4CRDiVGTSX { background-position: 0px -510px; }
+	.Creta-1_4CRDiVGTSX_O { background-position: 0px -540px; }
+	.Creta-1_4CRDiVGTSX_Plus { background-position: 0px -570px; }
+	.Creta-1_6VTVTBase { background-position: 0px -600px; }
+	.Creta-1_6VTVTS { background-position: 0px -630px; }
+	.Creta-1_6VTVTSX_Plus { background-position: 0px -660px; }
+	.ELITEI20-ASTA1_2 { background-position: 0px -690px; }
+	.ELITEI20-ASTA1_4CRDI { background-position: 0px -720px; }
+	.ELITEI20-ERA1_2 { background-position: 0px -750px; }
+	.ELITEI20-ERA1_4CRDI { background-position: 0px -780px; }
+	.ELITEI20-MAGNA1_2 { background-position: 0px -810px; }
+	.ELITEI20-MAGNA1_4CRDI { background-position: 0px -840px; }
+	.ELITEI20-SPORTZ1_2 { background-position: 0px -870px; }
+	.ELITEI20-SPORTZ1_4CRDI { background-position: 0px -900px; }
+	.ELITEI20-SPORTZOPTION1_2 { background-position: 0px -930px; }
+	.ELITEI20-SPORTZOPTION1_4CRDI { background-position: 0px -960px; }
+	.EON-0_8LiRDEDLITE { background-position: 0px -990px; }
+	.EON-0_8LiRDEDLITE_Plus { background-position: 0px -1020px; }
+	.EON-0_8LiRDEERA_Plus { background-position: 0px -1050px; }
+	.EON-0_8LiRDEMAGNA_Plus { background-position: 0px -1080px; }
+	.EON-0_8LiRDESPORTZ { background-position: 0px -1110px; }
+	.EON-1_0KAPPAMAGNA_Plus_O { background-position: 0px -1140px; }
+	.EON-LPGERAPLUS { background-position: 0px -1170px; }
+	.EON-LPGMAGNAPLUS { background-position: 0px -1200px; }
+	.FluidicElantra-CRDIBASE { background-position: 0px -1230px; }
+	.FluidicElantra-CRDIS { background-position: 0px -1260px; }
+	.FluidicElantra-CRDISX { background-position: 0px -1290px; }
+	.FluidicElantra-CRDISXAT { background-position: 0px -1320px; }
+	.FluidicElantra-S { background-position: 0px -1350px; }
+	.FluidicElantra-SX { background-position: 0px -1380px; }
+	.FluidicElantra-SXAT { background-position: 0px -1410px; }
+	.GRANDI10-1_0KAPPALPGMAGNA { background-position: 0px -1440px; }
+	.GRANDI10-ASTA { background-position: 0px -1470px; }
+	.GRANDI10-CRDIASTA { background-position: 0px -1500px; }
+	.GRANDI10-CRDIERA { background-position: 0px -1530px; }
+	.GRANDI10-CRDIMAGNA { background-position: 0px -1560px; }
+	.GRANDI10-CRDISPORTZ { background-position: 0px -1590px; }
+	.GRANDI10-ERA { background-position: 0px -1620px; }
+	.GRANDI10-MAGNA { background-position: 0px -1650px; }
+	.GRANDI10-SPORTZ { background-position: 0px -1680px; }
+	.I10-ERA { background-position: 0px -1710px; }
+	.I10-MAGNA { background-position: 0px -1740px; }
+	.I10-SPORTZ { background-position: 0px -1770px; }
+	.I20ACTIVE-1_2Base { background-position: 0px -1800px; }
+	.I20ACTIVE-1_2S { background-position: 0px -1830px; }
+	.I20ACTIVE-1_4Base { background-position: 0px -1860px; }
+	.I20ACTIVE-1_4S { background-position: 0px -1890px; }
+	.I20ACTIVE-1_4SX { background-position: 0px -1920px; }
+	.SANTAFE-2WDAT { background-position: 0px -1950px; }
+	.SANTAFE-2WDMT { background-position: 0px -1980px; }
+	.SANTAFE-4WDAT { background-position: 0px -2010px; }
+	.Xcent-1_1CRDIBASE { background-position: 0px -2040px; }
+	.Xcent-1_1CRDIS { background-position: 0px -2070px; }
+	.Xcent-1_1CRDISX { background-position: 0px -2100px; }
+	.Xcent-1_1CRDISXOPTION { background-position: 0px -2130px; }
+	.Xcent-1_2KAPPABASE { background-position: 0px -2160px; }
+	.Xcent-1_2KAPPAS { background-position: 0px -2190px; }
+	.Xcent-1_2KAPPASX { background-position: 0px -2220px; }
+	.Xcent-1_2KAPPASXOPTION { background-position: 0px -2250px; }
+
+	.Jaguar { background-image: url('../../images/list/car/jaguar_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.FType-Coupe { background-position: 0px 0px; }
+	.FType-Rconvertible { background-position: 0px -30px; }
+	.FType-RCoupe { background-position: 0px -60px; }
+	.FType-RWDcoupe { background-position: 0px -90px; }
+	.FType-SConvertible { background-position: 0px -120px; }
+	.FType-SCoupe { background-position: 0px -150px; }
+	.XF-AERO-SPORT { background-position: 0px -180px; }
+	.XF-AERO-SPORT_2 { background-position: 0px -210px; }
+	.XF-EXECUTIVEEDITION { background-position: 0px -240px; }
+	.XF-LUXURY { background-position: 0px -270px; }
+	.XF-PREMIUMLUXURY { background-position: 0px -300px; }
+	.XF-XFR { background-position: 0px -330px; }
+	.XJ-2_0LPortfolioLWB { background-position: 0px -360px; }
+	.XJ-3_0LPortfolioLWB { background-position: 0px -390px; }
+	.XJ-3_0LPremiumLuxuryLWB { background-position: 0px -420px; }
+
+	.Mahindra { background-image: url('../../images/list/car/mahindra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Bolero-DI { background-position: 0px 0px; }
+	.Bolero-EX { background-position: 0px -30px; }
+	.Bolero-Plus { background-position: 0px -60px; }
+	.Bolero-PlusBS4 { background-position: 0px -90px; }
+	.Bolero-SLE { background-position: 0px -120px; }
+	.Bolero-SLX { background-position: 0px -150px; }
+	.Bolero-SpecialEdition { background-position: 0px -180px; }
+	.Bolero-ZLX { background-position: 0px -210px; }
+	.E2O-T2Premium { background-position: 0px -240px; }
+	.Quanto-C2 { background-position: 0px -270px; }
+	.Quanto-C4 { background-position: 0px -300px; }
+	.Quanto-C6 { background-position: 0px -330px; }
+	.Quanto-C8 { background-position: 0px -360px; }
+	.Scorpio-Getaway { background-position: 0px -390px; }
+	.Scorpio-S10 { background-position: 0px -420px; }
+	.Scorpio-S10AT { background-position: 0px -450px; }
+	.Scorpio-S2 { background-position: 0px -480px; }
+	.Scorpio-S4 { background-position: 0px -510px; }
+	.Scorpio-S4Plus { background-position: 0px -540px; }
+	.Scorpio-S6Plus { background-position: 0px -570px; }
+	.Scorpio-S8 { background-position: 0px -600px; }
+	.Thar-CRDe { background-position: 0px -630px; }
+	.Thar-DI4X2 { background-position: 0px -660px; }
+	.Thar-DI4X4 { background-position: 0px -690px; }
+	.Verito-1_5D2 { background-position: 0px -720px; }
+	.Verito-1_5D4 { background-position: 0px -750px; }
+	.Verito-1_5D6 { background-position: 0px -780px; }
+	.VeritoVibe-1_5dCiD2 { background-position: 0px -810px; }
+	.VeritoVibe-1_5dCiD4 { background-position: 0px -840px; }
+	.VeritoVibe-1_5dCiD6 { background-position: 0px -870px; }
+	.XUV500-W10 { background-position: 0px -900px; }
+	.XUV500-W10AWD { background-position: 0px -930px; }
+	.XUV500-W4 { background-position: 0px -960px; }
+	.XUV500-W6 { background-position: 0px -990px; }
+	.XUV500-W8 { background-position: 0px -1020px; }
+	.XUV500-W8AWD { background-position: 0px -1050px; }
+	.Xylo-D2BSIII { background-position: 0px -1080px; }
+	.Xylo-D2BSIV { background-position: 0px -1110px; }
+	.Xylo-D4BSIII { background-position: 0px -1140px; }
+	.Xylo-D4BSIV { background-position: 0px -1170px; }
+	.Xylo-H4BSIV { background-position: 0px -1200px; }
+	.Xylo-H8BSIV { background-position: 0px -1230px; }
+	.Xylo-H9BSIV { background-position: 0px -1260px; }
+
+	.Maruti-Suzuki { background-image: url('../../images/list/car/maruthiSuzuki_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Alto800-LX { background-position: 0px 0px; }
+	.Alto800-Lxi { background-position: 0px -30px; }
+	.Alto800-STD { background-position: 0px -60px; }
+	.Alto800-Vxi { background-position: 0px -90px; }
+	.AltoK10-LX { background-position: 0px -120px; }
+	.AltoK10-Lxi { background-position: 0px -150px; }
+	.AltoK10-LxiCNG { background-position: 0px -180px; }
+	.AltoK10-Vxi { background-position: 0px -210px; }
+	.AltoK10-VxiAGS { background-position: 0px -240px; }
+	.AltoK10-VxiOptional { background-position: 0px -270px; }
+	.CELERIO-GreenVxi { background-position: 0px -300px; }
+	.CELERIO-Lxi { background-position: 0px -330px; }
+	.CELERIO-LxiAT { background-position: 0px -360px; }
+	.CELERIO-Vxi { background-position: 0px -390px; }
+	.CELERIO-VxiAT { background-position: 0px -420px; }
+	.CELERIO-Zxi { background-position: 0px -450px; }
+	.CELERIO-ZxiAT { background-position: 0px -480px; }
+	.CELERIO-ZxiOptional { background-position: 0px -510px; }
+	.CIAZ-V { background-position: 0px -540px; }
+	.CIAZ-V_Plus { background-position: 0px -570px; }
+	.CIAZ-Z { background-position: 0px -600px; }
+	.CIAZ-Z_Plus { background-position: 0px -630px; }
+	.Eeco-5SEATERAC { background-position: 0px -660px; }
+	.Eeco-5SEATERSTANDARD { background-position: 0px -690px; }
+	.Eeco-7SEATERSTANDARD { background-position: 0px -720px; }
+	.ERTIGA-Ldi { background-position: 0px -750px; }
+	.ERTIGA-Lxi { background-position: 0px -780px; }
+	.ERTIGA-LxiCNG { background-position: 0px -810px; }
+	.ERTIGA-Vdi { background-position: 0px -840px; }
+	.ERTIGA-Vxi { background-position: 0px -870px; }
+	.ERTIGA-VxiABS { background-position: 0px -900px; }
+	.ERTIGA-VxiCNG { background-position: 0px -930px; }
+	.ERTIGA-Zdi { background-position: 0px -960px; }
+	.ERTIGA-Zxi { background-position: 0px -990px; }
+	.GRANDVITARA-2_4AT { background-position: 0px -1020px; }
+	.GRANDVITARA-2_4MT { background-position: 0px -1050px; }
+	.Gypsy-KINGHARDTOPMPI { background-position: 0px -1080px; }
+	.Gypsy-KINGSOFTTOPMPI { background-position: 0px -1110px; }
+	.OMNI-5SEATER { background-position: 0px -1140px; }
+	.OMNI-8Seater { background-position: 0px -1170px; }
+	.Ritz-Ldi { background-position: 0px -1200px; }
+	.Ritz-Lxi { background-position: 0px -1230px; }
+	.Ritz-Vdi { background-position: 0px -1260px; }
+	.Ritz-Vxi { background-position: 0px -1290px; }
+	.Ritz-VxiAT { background-position: 0px -1320px; }
+	.Ritz-Zdi { background-position: 0px -1350px; }
+	.Ritz-Zxi { background-position: 0px -1380px; }
+	.Stingray-LX { background-position: 0px -1410px; }
+	.Stingray-Vxi { background-position: 0px -1440px; }
+	.Stingray-VxiOptional { background-position: 0px -1470px; }
+	.SWIFT-Ldi { background-position: 0px -1500px; }
+	.SWIFT-Lxi { background-position: 0px -1530px; }
+	.SWIFT-LxiOptional { background-position: 0px -1560px; }
+	.SWIFT-Vdi { background-position: 0px -1590px; }
+	.SWIFT-Vxi { background-position: 0px -1620px; }
+	.SWIFT-Zdi { background-position: 0px -1650px; }
+	.SWIFT-Zxi { background-position: 0px -1680px; }
+	.SWIFTDESIRE-Ldi { background-position: 0px -1710px; }
+	.SWIFTDESIRE-Lxi { background-position: 0px -1740px; }
+	.SWIFTDESIRE-LxiOptional { background-position: 0px -1770px; }
+	.SWIFTDESIRE-Vdi { background-position: 0px -1800px; }
+	.SWIFTDESIRE-Vxi { background-position: 0px -1830px; }
+	.SWIFTDESIRE-VxiAT { background-position: 0px -1860px; }
+	.SWIFTDESIRE-Zdi { background-position: 0px -1890px; }
+	.SWIFTDESIRE-Zxi { background-position: 0px -1920px; }
+	.WAGONR-LX { background-position: 0px -1950px; }
+	.WAGONR-LxiGreen { background-position: 0px -1980px; }
+	.WAGONR-Vxi { background-position: 0px -2010px; }
+
+	.Mercedes-Benz { background-image: url('../../images/list/car/mercedesBenz_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.A-Class-A180SPORT { background-position: 0px 0px; }
+	.A-Class-A200CDISPORT { background-position: 0px -30px; }
+	.B-Class-B180SPORT { background-position: 0px -60px; }
+	.B-Class-B200CDISPORT { background-position: 0px -90px; }
+	.C-Class-C200 { background-position: 0px -120px; }
+	.C-Class-C220CDI { background-position: 0px -150px; }
+	.CLA-Class-200 { background-position: 0px -180px; }
+	.CLA-Class-200CDISport { background-position: 0px -210px; }
+	.CLA-Class-200CDISTYLE { background-position: 0px -240px; }
+	.CLA-Class-45AMG { background-position: 0px -270px; }
+	.CLS-Class-250CDI { background-position: 0px -300px; }
+	.E-Class-E200AVANTGARDE { background-position: 0px -330px; }
+	.E-Class-E250CDIAVANTGARDE { background-position: 0px -360px; }
+	.E-Class-E350CDIAVANTGARDE { background-position: 0px -390px; }
+	.E-Class-E400CABRIOLET { background-position: 0px -420px; }
+	.E-Class-E63AMG { background-position: 0px -450px; }
+	.G-Class-G63AMG { background-position: 0px -480px; }
+	.GL-Class-350CDIBLUEEFFICIENCY { background-position: 0px -510px; }
+	.GL-Class-63AMG { background-position: 0px -540px; }
+	.GLA-Class-200 { background-position: 0px -570px; }
+	.GLA-Class-200CDI { background-position: 0px -600px; }
+	.GLA-Class-45AMG4MATIC { background-position: 0px -630px; }
+	.M-Class-ML250CDI4Matic { background-position: 0px -660px; }
+	.M-Class-ML350CDI4Matic { background-position: 0px -690px; }
+	.M-Class-ML63AMG { background-position: 0px -720px; }
+	.S-Class-S350CDI { background-position: 0px -750px; }
+	.S-Class-S500 { background-position: 0px -780px; }
+	.SLK-Class-55AMG { background-position: 0px -810px; }
+	.SLK-Class-SLK200 { background-position: 0px -840px; }
+	.SLK-Class-SLK250BlueEfficiency { background-position: 0px -870px; }
+	.SLK-Class-SLK250CDI { background-position: 0px -900px; }
+	.SLK-Class-SLK350BlueEfficiency { background-position: 0px -930px; }
+
+	.Nissan { background-image: url('../../images/list/car/nissan_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Evalia-SV { background-position: 0px 0px; }
+	.Evalia-XE { background-position: 0px -30px; }
+	.Evalia-XEPlus { background-position: 0px -60px; }
+	.Evalia-XL { background-position: 0px -90px; }
+	.Evalia-XV { background-position: 0px -120px; }
+	.Evalia-XVOption { background-position: 0px -150px; }
+	.Micra-XE { background-position: 0px -180px; }
+	.Micra-XL { background-position: 0px -210px; }
+	.Micra-XLOptional { background-position: 0px -240px; }
+	.Micra-XV { background-position: 0px -270px; }
+	.Micra-XVPremium { background-position: 0px -300px; }
+	.MicraActive-XE { background-position: 0px -330px; }
+	.MicraActive-XL { background-position: 0px -360px; }
+	.MicraActive-XV { background-position: 0px -390px; }
+	.MicraActive-XVSafety { background-position: 0px -420px; }
+	.Sunny-DieselXE { background-position: 0px -450px; }
+	.Sunny-DieselXL { background-position: 0px -480px; }
+	.Sunny-DieselXV { background-position: 0px -510px; }
+	.Sunny-XE { background-position: 0px -540px; }
+	.Sunny-XL { background-position: 0px -570px; }
+	.Sunny-XLCVT { background-position: 0px -600px; }
+	.Sunny-XVDPremiumLeather { background-position: 0px -630px; }
+	.Sunny-XVDPremiumSafety { background-position: 0px -660px; }
+	.Terrano-XE85PS { background-position: 0px -690px; }
+	.Terrano-XL { background-position: 0px -720px; }
+	.Terrano-XL110PS { background-position: 0px -750px; }
+	.Terrano-XL85PS { background-position: 0px -780px; }
+	.Terrano-XLPlus85PS { background-position: 0px -810px; }
+	.Terrano-XV110PS { background-position: 0px -840px; }
+	.Terrano-XVPremium110PS { background-position: 0px -870px; }
+
+	.Renault { background-image: url('../../images/list/car/renault_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Duster-110PSDieselRxL { background-position: 0px 0px; }
+	.Duster-110PSDieselRXZOption { background-position: 0px -30px; }
+	.Duster-110PSDieselRxZPlus { background-position: 0px -60px; }
+	.Duster-85PSDieselRxE { background-position: 0px -90px; }
+	.Duster-85PSDieselRxL { background-position: 0px -120px; }
+	.Duster-85PSDieselRxLOption { background-position: 0px -150px; }
+	.Duster-85PSDieselRxLPlus { background-position: 0px -180px; }
+	.Duster-PetrolRxE { background-position: 0px -210px; }
+	.Duster-PetrolRxL { background-position: 0px -240px; }
+	.Duster-RXLAWD { background-position: 0px -270px; }
+	.Duster-RXZAWD { background-position: 0px -300px; }
+	.Fluence-E2D { background-position: 0px -330px; }
+	.Fluence-E4D { background-position: 0px -360px; }
+	.Koleos-4X2MT { background-position: 0px -390px; }
+	.Koleos-4X4AT { background-position: 0px -420px; }
+	.Koleos-4X4MT { background-position: 0px -450px; }
+	.Lodgy-110PSRxL { background-position: 0px -480px; }
+	.Lodgy-110PSRxZ7Seater { background-position: 0px -510px; }
+	.Lodgy-110PSRxZ8Seater { background-position: 0px -540px; }
+	.Lodgy-85PSRxE { background-position: 0px -570px; }
+	.Lodgy-85PSRxL { background-position: 0px -600px; }
+	.Lodgy-85PSRxZ { background-position: 0px -630px; }
+	.Lodgy-85PSStd { background-position: 0px -660px; }
+	.Lodgy-StepwayR_Z7Seater { background-position: 0px -690px; }
+	.Lodgy-StepwayR_Z8Seater { background-position: 0px -720px; }
+	.Pulse-RxL { background-position: 0px -750px; }
+	.Pulse-RxLABS { background-position: 0px -780px; }
+	.Pulse-RxZ { background-position: 0px -810px; }
+	.Scala-DieselRxE { background-position: 0px -840px; }
+	.Scala-DieselRxL { background-position: 0px -870px; }
+	.Scala-DieselRxZ { background-position: 0px -900px; }
+	.Scala-RxE { background-position: 0px -930px; }
+	.Scala-RxL { background-position: 0px -960px; }
+	.Scala-RxLCVT { background-position: 0px -990px; }
+	.Scala-RxZCVT { background-position: 0px -1020px; }
+
+	.Skoda { background-image: url('../../images/list/car/skoda_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Octavia-Ambition1_4TSIMT { background-position: 0px 0px; }
+	.Octavia-Ambition2_0TDIAT { background-position: 0px -30px; }
+	.Octavia-Ambition2_0TDIMT { background-position: 0px -60px; }
+	.Octavia-Elegance1_8TSIAT { background-position: 0px -90px; }
+	.Octavia-Elegance2_0TDIAT { background-position: 0px -120px; }
+	.Rapid-1_5TDIActive { background-position: 0px -150px; }
+	.Rapid-1_5TDIAmbition { background-position: 0px -180px; }
+	.Rapid-1_5TDIAmbitionAT { background-position: 0px -210px; }
+	.Rapid-1_5TDIAmbitionATwithAlloyWheels { background-position: 0px -240px; }
+	.Rapid-1_5TDIAmbitionWithAlloyWheel { background-position: 0px -270px; }
+	.Rapid-1_5TDIATElegance { background-position: 0px -300px; }
+	.Rapid-1_5TDIATEleganceBlackPackage { background-position: 0px -330px; }
+	.Rapid-1_5TDIATElegancePlus { background-position: 0px -360px; }
+	.Rapid-1_5TDIATElegancePlusBlackPackage { background-position: 0px -390px; }
+	.Rapid-1_5TDIElegance { background-position: 0px -420px; }
+	.Rapid-1_5TDIEleganceBlackPackage { background-position: 0px -450px; }
+	.Rapid-1_5TDIElegancePlusBlackPackage { background-position: 0px -480px; }
+	.Rapid-1_6MPIActive { background-position: 0px -510px; }
+	.Rapid-1_6MPIAmbition { background-position: 0px -540px; }
+	.Rapid-1_6MPIAmbitionwithAlloyWheels { background-position: 0px -570px; }
+	.Rapid-1_6MPIATElegance { background-position: 0px -600px; }
+	.Rapid-1_6MPIATEleganceBlackPackage { background-position: 0px -630px; }
+	.Rapid-1_6MPIATElegancePlus { background-position: 0px -660px; }
+	.Rapid-1_6MPIATElegancePlusBlackPackage { background-position: 0px -690px; }
+	.Rapid-1_6MPIElegance { background-position: 0px -720px; }
+	.Rapid-1_6MPIEleganceBlackPackage { background-position: 0px -750px; }
+	.Rapid-1_6MPIElegancePlus { background-position: 0px -780px; }
+	.Rapid-1_6MPIElegancePlusBlackPackage { background-position: 0px -810px; }
+	.Superb-Elegance1_8TSIAT { background-position: 0px -840px; }
+	.Superb-Elegance1_8TSIMT { background-position: 0px -870px; }
+	.Superb-Elegance2_0TDICRAT { background-position: 0px -900px; }
+	.Yeti-SkodaYetiElegance4X2 { background-position: 0px -930px; }
+	.Yeti-SkodaYetiElegance4X4 { background-position: 0px -960px; }
+
+	.TATA { background-image: url('../../images/list/car/tata_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Aria-Pride4x4 { background-position: 0px 0px; }
+	.Bolt-QuadrajetXE { background-position: 0px -30px; }
+	.Bolt-QuadrajetXM { background-position: 0px -60px; }
+	.Bolt-QuadrajetXMS { background-position: 0px -90px; }
+	.Bolt-QuadrajetXT { background-position: 0px -120px; }
+	.Bolt-RevotronXE { background-position: 0px -150px; }
+	.Bolt-RevotronXM { background-position: 0px -180px; }
+	.Bolt-RevotronXMS { background-position: 0px -210px; }
+	.Bolt-RevotronXT { background-position: 0px -240px; }
+	.IndicaeV2-CR4LSBS4 { background-position: 0px -270px; }
+	.IndicaeV2-CR4LXBS4 { background-position: 0px -300px; }
+	.IndicaeV2-V2LSBS3 { background-position: 0px -330px; }
+	.IndicaeV2-V2LXBS3 { background-position: 0px -360px; }
+	.IndigoeCS-LSCR4BS4 { background-position: 0px -390px; }
+	.IndigoeCS-LS_TDI_BS3 { background-position: 0px -420px; }
+	.IndigoeCS-LXCR4BS4 { background-position: 0px -450px; }
+	.IndigoeCS-LXTDIBS3 { background-position: 0px -480px; }
+	.IndigoeCS-VXCR4BS4 { background-position: 0px -510px; }
+	.Manza-ClubClassQuadrajet90EX { background-position: 0px -540px; }
+	.Manza-ClubClassQuadrajet90LS { background-position: 0px -570px; }
+	.Manza-ClubClassQuadrajet90LX { background-position: 0px -600px; }
+	.Manza-ClubClassQuadrajet90VX { background-position: 0px -630px; }
+	.Manza-ClubClassSafire90GEX { background-position: 0px -660px; }
+	.Manza-ClubClassSafire90GLS { background-position: 0px -690px; }
+	.Manza-ClubClassSafire90GLX { background-position: 0px -720px; }
+	.Manza-ClubClassSafire90GVX { background-position: 0px -750px; }
+	.Movus-CX { background-position: 0px -780px; }
+	.Movus-LX { background-position: 0px -810px; }
+	.Nano-XE { background-position: 0px -840px; }
+	.Nano-XM { background-position: 0px -870px; }
+	.Nano-XMA { background-position: 0px -900px; }
+	.Nano-XT { background-position: 0px -930px; }
+	.Nano-XTA { background-position: 0px -960px; }
+	.Safari-DICOR2_2EX4x2 { background-position: 0px -990px; }
+	.Safari-DICOR2_2LX4x2 { background-position: 0px -1020px; }
+	.SafariStorme-EX { background-position: 0px -1050px; }
+	.SafariStorme-LX { background-position: 0px -1080px; }
+	.SafariStorme-VX { background-position: 0px -1110px; }
+	.SafariStorme-VX4WD { background-position: 0px -1140px; }
+	.Sumo-GoldCXBS3 { background-position: 0px -1170px; }
+	.Sumo-GoldCXBS4 { background-position: 0px -1200px; }
+	.Sumo-GoldCXPSBS3 { background-position: 0px -1230px; }
+	.Sumo-GoldCXPSBS4 { background-position: 0px -1260px; }
+	.Sumo-GoldEXBS3 { background-position: 0px -1290px; }
+	.Sumo-GoldEXBS4 { background-position: 0px -1320px; }
+	.Sumo-GoldGXBS4 { background-position: 0px -1350px; }
+	.Venture-EX7Str { background-position: 0px -1380px; }
+	.Venture-EX7StrCaptainSeats { background-position: 0px -1410px; }
+	.Venture-EX8Seater { background-position: 0px -1440px; }
+	.Venture-GX7Str { background-position: 0px -1470px; }
+	.Venture-GX7StrCaptainSeats { background-position: 0px -1500px; }
+	.Venture-GX8Seater { background-position: 0px -1530px; }
+	.Venture-LX7Str { background-position: 0px -1560px; }
+	.Venture-LX8Seater { background-position: 0px -1590px; }
+	.Vista-QuadrajetLS { background-position: 0px -1620px; }
+	.Vista-QuadrajetVXTech { background-position: 0px -1650px; }
+	.Vista-TDILS { background-position: 0px -1680px; }
+	.Vista-TDILX { background-position: 0px -1710px; }
+	.XenonXT-EX4X2 { background-position: 0px -1740px; }
+	.XenonXT-EX4X4 { background-position: 0px -1770px; }
+	.Zest-Quadrajet1_375PSXE { background-position: 0px -1800px; }
+	.Zest-Quadrajet1_3XM { background-position: 0px -1830px; }
+	.Zest-Quadrajet1_3XMA { background-position: 0px -1860px; }
+	.Zest-Quadrajet1_3XMS { background-position: 0px -1890px; }
+	.Zest-Quadrajet1_3XT { background-position: 0px -1920px; }
+	.Zest-Quadrajet1_3XTA { background-position: 0px -1950px; }
+	.Zest-Revotron1_2TXE { background-position: 0px -1980px; }
+	.Zest-Revotron1_2TXM { background-position: 0px -2010px; }
+	.Zest-Revotron1_2TXMS { background-position: 0px -2040px; }
+	.Zest-Revotron1_2XT { background-position: 0px -2070px; }
+
+	.Toyota { background-image: url('../../images/list/car/toyota_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Camry-Facelift { background-position: 0px 0px; }
+	.Camry-Hybrid { background-position: 0px -30px; }
+	.CorollaAltis-D4DG { background-position: 0px -60px; }
+	.CorollaAltis-D4DGL { background-position: 0px -90px; }
+	.CorollaAltis-D4DJ { background-position: 0px -120px; }
+	.CorollaAltis-D4DJS { background-position: 0px -150px; }
+	.CorollaAltis-GAT { background-position: 0px -180px; }
+	.CorollaAltis-GLMT { background-position: 0px -210px; }
+	.CorollaAltis-GMT { background-position: 0px -240px; }
+	.CorollaAltis-JSMT { background-position: 0px -270px; }
+	.CorollaAltis-VLAT { background-position: 0px -300px; }
+	.Etios-G { background-position: 0px -330px; }
+	.Etios-GD { background-position: 0px -360px; }
+	.Etios-J { background-position: 0px -390px; }
+	.Etios-JD { background-position: 0px -420px; }
+	.Etios-V { background-position: 0px -450px; }
+	.Etios-VD { background-position: 0px -480px; }
+	.Etios-VX { background-position: 0px -510px; }
+	.Etios-VXD { background-position: 0px -540px; }
+	.EtiosCross-1_2LG { background-position: 0px -570px; }
+	.EtiosCross-1_4LGD { background-position: 0px -600px; }
+	.EtiosCross-1_4LVD { background-position: 0px -630px; }
+	.EtiosCross-1_5LV { background-position: 0px -660px; }
+	.EtiosLiva-G { background-position: 0px -690px; }
+	.EtiosLiva-GD { background-position: 0px -720px; }
+	.EtiosLiva-J { background-position: 0px -750px; }
+	.EtiosLiva-JD { background-position: 0px -780px; }
+	.EtiosLiva-V { background-position: 0px -810px; }
+	.EtiosLiva-VD { background-position: 0px -840px; }
+	.EtiosLiva-VX { background-position: 0px -870px; }
+	.EtiosLiva-VXD { background-position: 0px -900px; }
+	.Fortuner-4x2AT { background-position: 0px -930px; }
+	.Fortuner-4x2Manual { background-position: 0px -960px; }
+	.Fortuner-4x4AT { background-position: 0px -990px; }
+	.Fortuner-4x4MT { background-position: 0px -1020px; }
+	.Innova-2_5G7SeaterBS3 { background-position: 0px -1050px; }
+	.Innova-2_5G7SeaterBS4 { background-position: 0px -1080px; }
+	.Innova-2_5G8SeaterBS3 { background-position: 0px -1110px; }
+	.Innova-2_5G8SeaterBS4 { background-position: 0px -1140px; }
+	.Innova-2_5GX7SeaterBS3 { background-position: 0px -1170px; }
+	.Innova-2_5GX7SeaterBS4 { background-position: 0px -1200px; }
+	.Innova-2_5GX8SeaterBS3 { background-position: 0px -1230px; }
+	.Innova-2_5GX8SeaterBS4 { background-position: 0px -1260px; }
+	.Innova-2_5VPS7SeaterBS3 { background-position: 0px -1290px; }
+	.Innova-2_5VPS7SeaterBS4 { background-position: 0px -1320px; }
+	.Innova-2_5VPS8SeaterBS3 { background-position: 0px -1350px; }
+	.Innova-2_5VPS8SeaterBS4 { background-position: 0px -1380px; }
+	.Innova-2_5VX7SeaterBS3 { background-position: 0px -1410px; }
+	.Innova-2_5VX7SeaterBS4 { background-position: 0px -1440px; }
+	.Innova-2_5VX8SeaterBS3 { background-position: 0px -1470px; }
+	.Innova-2_5VX8SeaterBS4 { background-position: 0px -1500px; }
+	.Innova-2_5Z7SeaterBS4 { background-position: 0px -1530px; }
+	.Innova-2_5Z8SeaterBS4 { background-position: 0px -1560px; }
+	.Innova-2_5ZX7SeaterBS3 { background-position: 0px -1590px; }
+	.Innova-2_5ZX7SeaterBS4 { background-position: 0px -1620px; }
+	.LandCruiser200-VX { background-position: 0px -1650px; }
+	.LandCruiserPrado-4WD { background-position: 0px -1680px; }
+	.Prius-ZR { background-position: 0px -1710px; }
+
+	.Volkswagen { background-image: url('../../images/list/car/volkswagen_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.CrossPolo-1_2TSI { background-position: 0px 0px; }
+	.CrossPolo-1_5TDI { background-position: 0px -30px; }
+	.Jetta-1_4TSICOMFORTLINE { background-position: 0px -60px; }
+	.Jetta-1_4TSITRENDLINE { background-position: 0px -90px; }
+	.Jetta-2_0LTDICOMFORTLINE { background-position: 0px -120px; }
+	.Jetta-2_0LTDIHIGHLINE { background-position: 0px -150px; }
+	.Jetta-2_0LTDIHIGHLINEAT { background-position: 0px -180px; }
+	.Jetta-2_0LTDITRENDLINE { background-position: 0px -210px; }
+	.Polo-1_2MPICOMFORTLINE { background-position: 0px -240px; }
+	.Polo-1_2MPIHIGHLINE { background-position: 0px -270px; }
+	.Polo-1_2MPITRENDLINE { background-position: 0px -300px; }
+	.Polo-1_5TDICOMFORTLINE { background-position: 0px -330px; }
+	.Polo-1_5TDIHIGHLINE { background-position: 0px -360px; }
+	.Polo-1_5TDITRENDLINE { background-position: 0px -390px; }
+	.Vento-1_2TSICOMFORTLINEAT { background-position: 0px -420px; }
+	.Vento-1_2TSIHIGHLINEAT { background-position: 0px -450px; }
+	.Vento-1_5TDICOMFORTLINE { background-position: 0px -480px; }
+	.Vento-1_5TDICOMFORTLINEAT { background-position: 0px -510px; }
+	.Vento-1_5TDIHIGHLINE { background-position: 0px -540px; }
+	.Vento-1_5TDIHIGHLINEAT { background-position: 0px -570px; }
+	.Vento-1_5TDITRENDLINE { background-position: 0px -600px; }
+	.Vento-1_6MPICOMFORTLINE { background-position: 0px -630px; }
+	.Vento-1_6MPIHIGHLINE { background-position: 0px -660px; }
+	.Vento-1_6MPITRENDLINE { background-position: 0px -690px; }
+}
+/*************************************************************************@media query - end********************************************************/

@@ -1,0 +1,259 @@
+.CANON { background-image: url('../../images/list/camera/canon_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.canon_dc { background-position: 0px 0px; }
+.canon_dslr { background-position: 0px -60px; }
+
+.FUJIFILM { background-image: url('../../images/list/camera/fujiFilm_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.fujiFilm_dc { background-position: 0px 0px; }
+.fujiFilm_dslr { background-position: 0px -60px; }
+
+.KODAK { background-image: url('../../images/list/camera/kodak_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.kodak_dc { background-position: 0px 0px; }
+.kodak_dslr { background-position: 0px -60px; }
+
+.NIKON { background-image: url('../../images/list/camera/nikon_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.nikon_dc { background-position: 0px 0px; }
+.nikon_dslr { background-position: 0px -60px; }
+
+.OLYMPUS { background-image: url('../../images/list/camera/olympus_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.olympus_dc { background-position: 0px 0px; }
+.olympus_dslr { background-position: 0px -60px; }
+
+.PANASONIC { background-image: url('../../images/list/camera/panasonic_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.panasonic_dc { background-position: 0px 0px; }
+.panasonic_dslr { background-position: 0px -60px; }
+
+.PENTAX { background-image: url('../../images/list/camera/pentax_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.pentax_dc { background-position: 0px 0px; }
+.pentax_dslr { background-position: 0px -60px; }
+
+.PHILIPS { background-image: url('../../images/list/camera/philips_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.philips_dc { background-position: 0px 0px; }
+.philips_dslr { background-position: 0px -60px; }
+
+.SAMSUNG { background-image: url('../../images/list/camera/samsung_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.samsung_dc { background-position: 0px 0px; }
+.samsung_dslr { background-position: 0px -60px; }
+
+.SONY { background-image: url('../../images/list/camera/sony_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.sony_dc { background-position: 0px 0px; }
+.sony_dslr { background-position: 0px -60px; }
+/*************************************************************************@media query - begin******************************************************/
+/* Amazon kindle fire - hd * 8.9" - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 2560px) {
+
+}
+
+/* Desktop - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1920px) {
+
+}
+
+/* Amazon kindle fire - hd * 8.9" - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 1600px) {
+
+}
+
+/* Laptop with HiDPI screen - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1440px) {
+
+}
+
+/* Desktop - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1366px) {
+
+}
+
+/* Google Nexus 10 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1280px) {
+
+}
+
+/* Amazon Kindle Fire(First Generation) - Landscape/ Apple iPad 1, 2, 3, 4, Mini - Landscape/ BlackBerry PlayBook - Landscape/ Samsung Galaxy Tab - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1024px) {
+
+}
+
+/* Google Nexus 7 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 960px) {
+
+}
+
+/* Google Nexus 10 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 800px) {
+
+}
+
+/* Apple iPad, iPad Mini - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 768px) {
+
+}
+/* Apple iPhone 6 Plus - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 736px) {
+
+}
+/* Google Nexus 6 - Landscape, Google Nexus 6P - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 732px) {
+
+}
+
+/*Motorola Droid Razr HD*/
+@media only screen and /*!YUI-Compressor */ (max-width: 720px) {
+
+}
+
+/* Apple iPhone 6 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 667px) {
+
+}
+
+/* BlackBerry Z30 - Landscape, Galaxy Note 3 - Landscape,  Galaxy Note II - Landscape, Galaxy S III - Landscape, LG Optimus L70 - Landscape, Google Nexus 4 - Landscape, Google Nexus 5 - Landscape, Nokia N9 - Landscape, Galaxy S5 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 640px) {
+
+}
+
+/* BlackBerry Playbook - Portrait, Google Nexus 7 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 600px) {
+
+}
+
+/* Apple iPhone 5 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 568px) {
+
+}
+
+/* Motorola Droid 3, Droid 4, Droid Razr, Atrix 4G, Atrix 2 */
+@media only screen and /*!YUI-Compressor */ (max-width: 540px) {
+
+}
+
+/* Nokia Lumia 520 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 533px) {
+
+}
+
+/* Apple iPhone 4 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 480px) {
+
+}
+
+/* LG Optimus LTE - Portrait, Optimus 4X HD - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 424px) {
+
+}
+
+/* Apple iPhone 6 Plus - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 414px) {
+	.CANON { background-image: url('../../images/list/camera/canon_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative;}
+	.canon_dc { background-position: 0px 0px; }
+	.canon_dslr { background-position: 0px -40px; }
+
+	.FUJIFILM { background-image: url('../../images/list/camera/fujiFilm_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative;}
+	.fujiFilm_dc { background-position: 0px 0px; }
+	.fujiFilm_dslr { background-position: 0px -40px; }
+
+	.KODAK { background-image: url('../../images/list/camera/kodak_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative;}
+	.kodak_dc { background-position: 0px 0px; }
+	.kodak_dslr { background-position: 0px -40px; }
+
+	.NIKON { background-image: url('../../images/list/camera/nikon_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative;}
+	.nikon_dc { background-position: 0px 0px; }
+	.nikon_dslr { background-position: 0px -40px; }
+
+	.OLYMPUS { background-image: url('../../images/list/camera/olympus_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative;}
+	.olympus_dc { background-position: 0px 0px; }
+	.olympus_dslr { background-position: 0px -40px; }
+
+	.PANASONIC { background-image: url('../../images/list/camera/panasonic_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative;}
+	.panasonic_dc { background-position: 0px 0px; }
+	.panasonic_dslr { background-position: 0px -40px; }
+
+	.PENTAX { background-image: url('../../images/list/camera/pentax_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative;}
+	.pentax_dc { background-position: 0px 0px; }
+	.pentax_dslr { background-position: 0px -40px; }
+
+	.PHILIPS { background-image: url('../../images/list/camera/philips_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative;}
+	.philips_dc { background-position: 0px 0px; }
+	.philips_dslr { background-position: 0px -40px; }
+
+	.SAMSUNG { background-image: url('../../images/list/camera/samsung_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative;}
+	.samsung_dc { background-position: 0px 0px; }
+	.samsung_dslr { background-position: 0px -40px; }
+
+	.SONY { background-image: url('../../images/list/camera/sony_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative;}
+	.sony_dc { background-position: 0px 0px; }
+	.sony_dslr { background-position: 0px -40px; }
+}
+
+/* Google Nexus 5X - Portrait, Google Nexus 6 - Portrait, Google Nexus 6P - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 412px) {
+
+}
+
+/* Samsung Galaxy Note - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 400px) {
+
+}
+
+/* BlackBerry Z10 - Portrait, Google Nexus 4 - Portrait, LG Optimus G - Portrait, LG Optimus L70 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 384px) {
+
+}
+
+/* Apple iPhone 6 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 375px) {
+
+}
+
+/* BlackBerry Z30 - Portrait, Google Nexus 5 - Portrait, Galaxy Note 3 - Portrait, Galaxy Note II - Portrait, Galaxy S III - Portrait, Galaxy S5 - Portrait, HTC One X - Portrait, EVO LTE - Portrait, HTC Sensation - Portrait, EVO 3D - Portrait, Nokia N9 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 360px) {
+
+}
+
+/* Apple iPhone 3GS - Portrait, iPhone 4 - Portrait, iPhone 5 - Portrait/ Google Nexus S - Portrait/ HTC Evo - Portrait, Touch HD - Portrait, Desire HD - Portrait, Desire - Portrait/ LG Optimus 2X - Portrait, Optimus 3D - Portrait, Optimus Black - Portrait/  Motorola Defy - Portrait, Droid - Portrait, Droid X - Portrait, Milestone - Portrait/ Nokia Lumia 7X0 - Portrait, Lumia 8XX - Portrait, Lumia 900 - Portrait, N800 - Portrait, N810 - Portrait, N900 - Portrait, 520 - Portrait/ Samsung Galaxy S - Portrait, SII - Portrait, W/ - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 320px) {
+
+}
+
+/* LG Optimus One - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 213px) {
+	.CANON { background-image: url('../../images/list/camera/canon_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative;}
+	.canon_dc { background-position: 0px 0px; }
+	.canon_dslr { background-position: 0px -30px; }
+
+	.FUJIFILM { background-image: url('../../images/list/camera/fujiFilm_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative;}
+	.fujiFilm_dc { background-position: 0px 0px; }
+	.fujiFilm_dslr { background-position: 0px -30px; }
+
+	.KODAK { background-image: url('../../images/list/camera/kodak_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative;}
+	.kodak_dc { background-position: 0px 0px; }
+	.kodak_dslr { background-position: 0px -30px; }
+
+	.NIKON { background-image: url('../../images/list/camera/nikon_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative;}
+	.nikon_dc { background-position: 0px 0px; }
+	.nikon_dslr { background-position: 0px -30px; }
+
+	.OLYMPUS { background-image: url('../../images/list/camera/olympus_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative;}
+	.olympus_dc { background-position: 0px 0px; }
+	.olympus_dslr { background-position: 0px -30px; }
+
+	.PANASONIC { background-image: url('../../images/list/camera/panasonic_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative;}
+	.panasonic_dc { background-position: 0px 0px; }
+	.panasonic_dslr { background-position: 0px -30px; }
+
+	.PENTAX { background-image: url('../../images/list/camera/pentax_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative;}
+	.pentax_dc { background-position: 0px 0px; }
+	.pentax_dslr { background-position: 0px -30px; }
+
+	.PHILIPS { background-image: url('../../images/list/camera/philips_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative;}
+	.philips_dc { background-position: 0px 0px; }
+	.philips_dslr { background-position: 0px -30px; }
+
+	.SAMSUNG { background-image: url('../../images/list/camera/samsung_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative;}
+	.samsung_dc { background-position: 0px 0px; }
+	.samsung_dslr { background-position: 0px -30px; }
+
+	.SONY { background-image: url('../../images/list/camera/sony_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative;}
+	.sony_dc { background-position: 0px 0px; }
+	.sony_dslr { background-position: 0px -30px; }
+}
+/*************************************************************************@media query - end********************************************************/

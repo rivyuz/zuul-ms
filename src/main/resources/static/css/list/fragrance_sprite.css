@@ -1,0 +1,463 @@
+.AZZARO { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.azzaro_ep_men { background-position: 0px 0px; }
+.azzaro_ep_women { background-position: 0px -60px; }
+.azzaro_et_men { background-position: 0px -120px; }
+.azzaro_et_women { background-position: 0px -180px; }
+
+.BVLGARI { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.bvlgari_ep_men { background-position: 0px 0px; }
+.bvlgari_ep_women { background-position: 0px -60px; }
+.bvlgari_et_men { background-position: 0px -120px; }
+.bvlgari_et_women { background-position: 0px -180px; }
+
+.BURBERRY { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.burberry_ep_men { background-position: 0px 0px; }
+.burberry_ep_women { background-position: 0px -60px; }
+.burberry_et_men { background-position: 0px -120px; }
+.burberry_et_women { background-position: 0px -180px; }
+
+.CALVINKLEIN { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.calvinklein_ep_men { background-position: 0px 0px; }
+.calvinklein_ep_women { background-position: 0px -60px; }
+.calvinklein_et_men { background-position: 0px -120px; }
+.calvinklein_et_women { background-position: 0px -180px; }
+
+.CHANEL { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.chanel_ep_men { background-position: 0px 0px; }
+.chanel_ep_women { background-position: 0px -60px; }
+.chanel_et_men { background-position: 0px -120px; }
+.chanel_et_women { background-position: 0px -180px; }
+
+.DAVIDOFF { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.davidoff_ep_men { background-position: 0px 0px; }
+.davidoff_ep_women { background-position: 0px -60px; }
+.davidoff_et_men { background-position: 0px -120px; }
+.davidoff_et_women { background-position: 0px -180px; }
+
+.DIOR { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.dior_ep_men { background-position: 0px 0px; }
+.dior_ep_women { background-position: 0px -60px; }
+.dior_et_men { background-position: 0px -120px; }
+.dior_et_women { background-position: 0px -180px; }
+
+.ESCADA { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.escada_ep_men { background-position: 0px 0px; }
+.escada_ep_women { background-position: 0px -60px; }
+.escada_et_men { background-position: 0px -120px; }
+.escada_et_women { background-position: 0px -180px; }
+
+.ESTEELAUDER { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.esteelauder_ep_men { background-position: 0px 0px; }
+.esteelauder_ep_women { background-position: 0px -60px; }
+.esteelauder_et_men { background-position: 0px -120px; }
+.esteelauder_et_women { background-position: 0px -180px; }
+
+.GIORGIOARMANI { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.giorgioarmani_ep_men { background-position: 0px 0px; }
+.giorgioarmani_ep_women { background-position: 0px -60px; }
+.giorgioarmani_et_men { background-position: 0px -120px; }
+.giorgioarmani_et_women { background-position: 0px -180px; }
+
+.GIVENCHY { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.givenchy_ep_men { background-position: 0px 0px; }
+.givenchy_ep_women { background-position: 0px -60px; }
+.givenchy_et_men { background-position: 0px -120px; }
+.givenchy_et_women { background-position: 0px -180px; }
+
+.GUCCI { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.gucci_ep_men { background-position: 0px 0px; }
+.gucci_ep_women { background-position: 0px -60px; }
+.gucci_et_men { background-position: 0px -120px; }
+.gucci_et_women { background-position: 0px -180px; }
+
+.HUGOBOSS { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.hugoboss_ep_men { background-position: 0px 0px; }
+.hugoboss_ep_women { background-position: 0px -60px; }
+.hugoboss_et_men { background-position: 0px -120px; }
+.hugoboss_et_women { background-position: 0px -180px; }
+
+.ISSEYMIYAKE { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.isseymiyake_ep_men { background-position: 0px 0px; }
+.isseymiyake_ep_women { background-position: 0px -60px; }
+.isseymiyake_et_men { background-position: 0px -120px; }
+.isseymiyake_et_women { background-position: 0px -180px; }
+
+.LACOSTE { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.lacoste_ep_men { background-position: 0px 0px; }
+.lacoste_ep_women { background-position: 0px -60px; }
+.lacoste_et_men { background-position: 0px -120px; }
+.lacoste_et_women { background-position: 0px -180px; }
+
+.PRADA { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.prada_ep_men { background-position: 0px 0px; }
+.prada_ep_women { background-position: 0px -60px; }
+.prada_et_men { background-position: 0px -120px; }
+.prada_et_women { background-position: 0px -180px; }
+
+.RALPHLAUREN { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.ralphlauren_ep_men { background-position: 0px 0px; }
+.ralphlauren_ep_women { background-position: 0px -60px; }
+.ralphlauren_et_men { background-position: 0px -120px; }
+.ralphlauren_et_women { background-position: 0px -180px; }
+
+.VERSACE { background-image: url('../../images/list/fragrance/fra_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.versace_ep_men { background-position: 0px 0px; }
+.versace_ep_women { background-position: 0px -60px; }
+.versace_et_men { background-position: 0px -120px; }
+.versace_et_women { background-position: 0px -180px; }
+/*************************************************************************@media query - begin******************************************************/
+/* Amazon kindle fire - hd * 8.9" - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 2560px) {
+
+}
+
+/* Desktop - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1920px) {
+
+}
+
+/* Amazon kindle fire - hd * 8.9" - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 1600px) {
+
+}
+
+/* Laptop with HiDPI screen - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1440px) {
+
+}
+
+/* Desktop - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1366px) {
+
+}
+
+/* Google Nexus 10 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1280px) {
+
+}
+
+/* Amazon Kindle Fire(First Generation) - Landscape/ Apple iPad 1, 2, 3, 4, Mini - Landscape/ BlackBerry PlayBook - Landscape/ Samsung Galaxy Tab - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1024px) {
+
+}
+
+/* Google Nexus 7 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 960px) {
+
+}
+
+/* Google Nexus 10 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 800px) {
+
+}
+
+/* Apple iPad, iPad Mini - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 768px) {
+
+}
+/* Apple iPhone 6 Plus - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 736px) {
+
+}
+/* Google Nexus 6 - Landscape, Google Nexus 6P - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 732px) {
+
+}
+
+/*Motorola Droid Razr HD*/
+@media only screen and /*!YUI-Compressor */ (max-width: 720px) {
+
+}
+
+/* Apple iPhone 6 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 667px) {
+
+}
+
+/* BlackBerry Z30 - Landscape, Galaxy Note 3 - Landscape,  Galaxy Note II - Landscape, Galaxy S III - Landscape, LG Optimus L70 - Landscape, Google Nexus 4 - Landscape, Google Nexus 5 - Landscape, Nokia N9 - Landscape, Galaxy S5 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 640px) {
+
+}
+
+/* BlackBerry Playbook - Portrait, Google Nexus 7 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 600px) {
+
+}
+
+/* Apple iPhone 5 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 568px) {
+
+}
+
+/* Motorola Droid 3, Droid 4, Droid Razr, Atrix 4G, Atrix 2 */
+@media only screen and /*!YUI-Compressor */ (max-width: 540px) {
+
+}
+
+/* Nokia Lumia 520 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 533px) {
+
+}
+
+/* Apple iPhone 4 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 480px) {
+
+}
+
+/* LG Optimus LTE - Portrait, Optimus 4X HD - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 424px) {
+	.AZZARO { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.azzaro_ep_men { background-position: 0px 0px; }
+	.azzaro_ep_women { background-position: 0px -40px; }
+	.azzaro_et_men { background-position: 0px -120px; }
+	.azzaro_et_women { background-position: 0px -180px; }
+
+	.BVLGARI { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.bvlgari_ep_men { background-position: 0px 0px; }
+	.bvlgari_ep_women { background-position: 0px -40px; }
+	.bvlgari_et_men { background-position: 0px -120px; }
+	.bvlgari_et_women { background-position: 0px -180px; }
+
+	.BURBERRY { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.burberry_ep_men { background-position: 0px 0px; }
+	.burberry_ep_women { background-position: 0px -40px; }
+	.burberry_et_men { background-position: 0px -120px; }
+	.burberry_et_women { background-position: 0px -180px; }
+
+	.CALVINKLEIN { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.calvinklein_ep_men { background-position: 0px 0px; }
+	.calvinklein_ep_women { background-position: 0px -40px; }
+	.calvinklein_et_men { background-position: 0px -120px; }
+	.calvinklein_et_women { background-position: 0px -180px; }
+
+	.CHANEL { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.chanel_ep_men { background-position: 0px 0px; }
+	.chanel_ep_women { background-position: 0px -40px; }
+	.chanel_et_men { background-position: 0px -120px; }
+	.chanel_et_women { background-position: 0px -180px; }
+
+	.DAVIDOFF { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.davidoff_ep_men { background-position: 0px 0px; }
+	.davidoff_ep_women { background-position: 0px -40px; }
+	.davidoff_et_men { background-position: 0px -120px; }
+	.davidoff_et_women { background-position: 0px -180px; }
+
+	.DIOR { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.dior_ep_men { background-position: 0px 0px; }
+	.dior_ep_women { background-position: 0px -40px; }
+	.dior_et_men { background-position: 0px -120px; }
+	.dior_et_women { background-position: 0px -180px; }
+
+	.ESCADA { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.escada_ep_men { background-position: 0px 0px; }
+	.escada_ep_women { background-position: 0px -40px; }
+	.escada_et_men { background-position: 0px -120px; }
+	.escada_et_women { background-position: 0px -180px; }
+
+	.ESTEELAUDER { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.esteelauder_ep_men { background-position: 0px 0px; }
+	.esteelauder_ep_women { background-position: 0px -40px; }
+	.esteelauder_et_men { background-position: 0px -120px; }
+	.esteelauder_et_women { background-position: 0px -180px; }
+
+	.GIORGIOARMANI { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.giorgioarmani_ep_men { background-position: 0px 0px; }
+	.giorgioarmani_ep_women { background-position: 0px -40px; }
+	.giorgioarmani_et_men { background-position: 0px -120px; }
+	.giorgioarmani_et_women { background-position: 0px -180px; }
+
+	.GIVENCHY { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.givenchy_ep_men { background-position: 0px 0px; }
+	.givenchy_ep_women { background-position: 0px -40px; }
+	.givenchy_et_men { background-position: 0px -120px; }
+	.givenchy_et_women { background-position: 0px -180px; }
+
+	.GUCCI { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.gucci_ep_men { background-position: 0px 0px; }
+	.gucci_ep_women { background-position: 0px -40px; }
+	.gucci_et_men { background-position: 0px -120px; }
+	.gucci_et_women { background-position: 0px -180px; }
+
+	.HUGOBOSS { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.hugoboss_ep_men { background-position: 0px 0px; }
+	.hugoboss_ep_women { background-position: 0px -40px; }
+	.hugoboss_et_men { background-position: 0px -120px; }
+	.hugoboss_et_women { background-position: 0px -180px; }
+
+	.ISSEYMIYAKE { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.isseymiyake_ep_men { background-position: 0px 0px; }
+	.isseymiyake_ep_women { background-position: 0px -40px; }
+	.isseymiyake_et_men { background-position: 0px -120px; }
+	.isseymiyake_et_women { background-position: 0px -180px; }
+
+	.LACOSTE { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.lacoste_ep_men { background-position: 0px 0px; }
+	.lacoste_ep_women { background-position: 0px -40px; }
+	.lacoste_et_men { background-position: 0px -120px; }
+	.lacoste_et_women { background-position: 0px -180px; }
+
+	.PRADA { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.prada_ep_men { background-position: 0px 0px; }
+	.prada_ep_women { background-position: 0px -40px; }
+	.prada_et_men { background-position: 0px -120px; }
+	.prada_et_women { background-position: 0px -180px; }
+
+	.RALPHLAUREN { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.ralphlauren_ep_men { background-position: 0px 0px; }
+	.ralphlauren_ep_women { background-position: 0px -40px; }
+	.ralphlauren_et_men { background-position: 0px -120px; }
+	.ralphlauren_et_women { background-position: 0px -180px; }
+
+	.VERSACE { background-image: url('../../images/list/fragrance/fra_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
+	.versace_ep_men { background-position: 0px 0px; }
+	.versace_ep_women { background-position: 0px -40px; }
+	.versace_et_men { background-position: 0px -120px; }
+	.versace_et_women { background-position: 0px -180px; }
+}
+
+/* Apple iPhone 6 Plus - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 414px) {
+
+}
+
+/* Google Nexus 5X - Portrait, Google Nexus 6 - Portrait, Google Nexus 6P - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 412px) {
+
+}
+
+/* Samsung Galaxy Note - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 400px) {
+
+}
+
+/* BlackBerry Z10 - Portrait, Google Nexus 4 - Portrait, LG Optimus G - Portrait, LG Optimus L70 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 384px) {
+
+}
+
+/* Apple iPhone 6 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 375px) {
+
+}
+
+/* BlackBerry Z30 - Portrait, Google Nexus 5 - Portrait, Galaxy Note 3 - Portrait, Galaxy Note II - Portrait, Galaxy S III - Portrait, Galaxy S5 - Portrait, HTC One X - Portrait, EVO LTE - Portrait, HTC Sensation - Portrait, EVO 3D - Portrait, Nokia N9 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 360px) {
+
+}
+
+/* Apple iPhone 3GS - Portrait, iPhone 4 - Portrait, iPhone 5 - Portrait/ Google Nexus S - Portrait/ HTC Evo - Portrait, Touch HD - Portrait, Desire HD - Portrait, Desire - Portrait/ LG Optimus 2X - Portrait, Optimus 3D - Portrait, Optimus Black - Portrait/  Motorola Defy - Portrait, Droid - Portrait, Droid X - Portrait, Milestone - Portrait/ Nokia Lumia 7X0 - Portrait, Lumia 8XX - Portrait, Lumia 900 - Portrait, N800 - Portrait, N810 - Portrait, N900 - Portrait, 520 - Portrait/ Samsung Galaxy S - Portrait, SII - Portrait, W/ - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 320px) {
+
+}
+
+/* LG Optimus One - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 213px) {
+	.AZZARO { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.azzaro_ep_men { background-position: 0px 0px; }
+	.azzaro_ep_women { background-position: 0px -30px; }
+	.azzaro_et_men { background-position: 0px -120px; }
+	.azzaro_et_women { background-position: 0px -180px; }
+
+	.BVLGARI { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.bvlgari_ep_men { background-position: 0px 0px; }
+	.bvlgari_ep_women { background-position: 0px -30px; }
+	.bvlgari_et_men { background-position: 0px -120px; }
+	.bvlgari_et_women { background-position: 0px -180px; }
+
+	.BURBERRY { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.burberry_ep_men { background-position: 0px 0px; }
+	.burberry_ep_women { background-position: 0px -30px; }
+	.burberry_et_men { background-position: 0px -120px; }
+	.burberry_et_women { background-position: 0px -180px; }
+
+	.CALVINKLEIN { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.calvinklein_ep_men { background-position: 0px 0px; }
+	.calvinklein_ep_women { background-position: 0px -30px; }
+	.calvinklein_et_men { background-position: 0px -120px; }
+	.calvinklein_et_women { background-position: 0px -180px; }
+
+	.CHANEL { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.chanel_ep_men { background-position: 0px 0px; }
+	.chanel_ep_women { background-position: 0px -30px; }
+	.chanel_et_men { background-position: 0px -120px; }
+	.chanel_et_women { background-position: 0px -180px; }
+
+	.DAVIDOFF { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.davidoff_ep_men { background-position: 0px 0px; }
+	.davidoff_ep_women { background-position: 0px -30px; }
+	.davidoff_et_men { background-position: 0px -120px; }
+	.davidoff_et_women { background-position: 0px -180px; }
+
+	.DIOR { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.dior_ep_men { background-position: 0px 0px; }
+	.dior_ep_women { background-position: 0px -30px; }
+	.dior_et_men { background-position: 0px -120px; }
+	.dior_et_women { background-position: 0px -180px; }
+
+	.ESCADA { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.escada_ep_men { background-position: 0px 0px; }
+	.escada_ep_women { background-position: 0px -30px; }
+	.escada_et_men { background-position: 0px -120px; }
+	.escada_et_women { background-position: 0px -180px; }
+
+	.ESTEELAUDER { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.esteelauder_ep_men { background-position: 0px 0px; }
+	.esteelauder_ep_women { background-position: 0px -30px; }
+	.esteelauder_et_men { background-position: 0px -120px; }
+	.esteelauder_et_women { background-position: 0px -180px; }
+
+	.GIORGIOARMANI { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.giorgioarmani_ep_men { background-position: 0px 0px; }
+	.giorgioarmani_ep_women { background-position: 0px -30px; }
+	.giorgioarmani_et_men { background-position: 0px -120px; }
+	.giorgioarmani_et_women { background-position: 0px -180px; }
+
+	.GIVENCHY { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.givenchy_ep_men { background-position: 0px 0px; }
+	.givenchy_ep_women { background-position: 0px -30px; }
+	.givenchy_et_men { background-position: 0px -120px; }
+	.givenchy_et_women { background-position: 0px -180px; }
+
+	.GUCCI { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.gucci_ep_men { background-position: 0px 0px; }
+	.gucci_ep_women { background-position: 0px -30px; }
+	.gucci_et_men { background-position: 0px -120px; }
+	.gucci_et_women { background-position: 0px -180px; }
+
+	.HUGOBOSS { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.hugoboss_ep_men { background-position: 0px 0px; }
+	.hugoboss_ep_women { background-position: 0px -30px; }
+	.hugoboss_et_men { background-position: 0px -120px; }
+	.hugoboss_et_women { background-position: 0px -180px; }
+
+	.ISSEYMIYAKE { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.isseymiyake_ep_men { background-position: 0px 0px; }
+	.isseymiyake_ep_women { background-position: 0px -30px; }
+	.isseymiyake_et_men { background-position: 0px -120px; }
+	.isseymiyake_et_women { background-position: 0px -180px; }
+
+	.LACOSTE { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.lacoste_ep_men { background-position: 0px 0px; }
+	.lacoste_ep_women { background-position: 0px -30px; }
+	.lacoste_et_men { background-position: 0px -120px; }
+	.lacoste_et_women { background-position: 0px -180px; }
+
+	.PRADA { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.prada_ep_men { background-position: 0px 0px; }
+	.prada_ep_women { background-position: 0px -30px; }
+	.prada_et_men { background-position: 0px -120px; }
+	.prada_et_women { background-position: 0px -180px; }
+
+	.RALPHLAUREN { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.ralphlauren_ep_men { background-position: 0px 0px; }
+	.ralphlauren_ep_women { background-position: 0px -30px; }
+	.ralphlauren_et_men { background-position: 0px -120px; }
+	.ralphlauren_et_women { background-position: 0px -180px; }
+
+	.VERSACE { background-image: url('../../images/list/fragrance/fra_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
+	.versace_ep_men { background-position: 0px 0px; }
+	.versace_ep_women { background-position: 0px -30px; }
+	.versace_et_men { background-position: 0px -120px; }
+	.versace_et_women { background-position: 0px -180px; }
+}
+/*************************************************************************@media query - end********************************************************/

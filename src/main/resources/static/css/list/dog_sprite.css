@@ -1,0 +1,677 @@
+.Herding_Group { background-image: url('../../images/list/dog/herdingGroup_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.AustralianCattleDog { background-position: 0px 0px; }
+.AustralianKelpi { background-position: 0px -60px; }
+.AustralinaShepherd { background-position: 0px -120px; }
+.BeardedCollie { background-position: 0px -180px; }
+.BelgianMalinois { background-position: 0px -240px; }
+.BelgianSheepdogOrGroenendael { background-position: 0px -300px; }
+.BorderCollie { background-position: 0px -360px; }
+.BouvierDesFlandres { background-position: 0px -420px; }
+.Briard { background-position: 0px -480px; }
+.CardiganWelshCorgi { background-position: 0px -540px; }
+.Collie_Rough { background-position: 0px -600px; }
+.Collie_Smooth { background-position: 0px -660px; }
+.GermanShepherd { background-position: 0px -720px; }
+.HimalayanSheepDog { background-position: 0px -780px; }
+.OldEnglishSheepdog { background-position: 0px -840px; }
+.PembrokeWelshCorgi { background-position: 0px -900px; }
+.Puli { background-position: 0px -960px; }
+.ShetlandSheepdog { background-position: 0px -1020px; }
+
+.Hound_Group { background-image: url('../../images/list/dog/houndGroup_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.AfghanHound { background-position: 0px 0px; }
+.AmericanFoxhound { background-position: 0px -60px; }
+.Basenji { background-position: 0px -120px; }
+.BassetHound { background-position: 0px -180px; }
+.Beagle { background-position: 0px -240px; }
+.BlackAndTanCoonhound { background-position: 0px -300px; }
+.BloodHound { background-position: 0px -360px; }
+.Borzoi { background-position: 0px -420px; }
+.Dachshund_LSH { background-position: 0px -480px; }
+.EnglishFoxhound { background-position: 0px -540px; }
+.Greyhound { background-position: 0px -600px; }
+.Harrier { background-position: 0px -660px; }
+.IbizanHound { background-position: 0px -720px; }
+.IrishWolfhound { background-position: 0px -780px; }
+.NorwegianElkhound { background-position: 0px -840px; }
+.PharaohHound { background-position: 0px -900px; }
+.RhodesianRidgeback { background-position: 0px -960px; }
+.Saluki { background-position: 0px -1020px; }
+.ScottishDeerhound { background-position: 0px -1080px; }
+.Sloughi { background-position: 0px -1140px; }
+.ThaiRidgeback { background-position: 0px -1200px; }
+.Whippet { background-position: 0px -1260px; }
+
+.Native_Indian_Group { background-image: url('../../images/list/dog/nativeIndianGroup_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CaravanHound { background-position: 0px 0px; }
+.Chippiparai { background-position: 0px -60px; }
+.Combai { background-position: 0px -120px; }
+.Indian_Mastiff { background-position: 0px -180px; }
+.Kanni { background-position: 0px -240px; }
+.MudholHound { background-position: 0px -300px; }
+.RajapalayamDog { background-position: 0px -360px; }
+.RampurHound { background-position: 0px -420px; }
+
+.Non_Sporting_Group { background-image: url('../../images/list/dog/nonSportingGroup_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.BichonFrise { background-position: 0px 0px; }
+.BostonTerrier { background-position: 0px -60px; }
+.Bulldog { background-position: 0px -120px; }
+.ChineseShar-Pei { background-position: 0px -180px; }
+.ChowChow { background-position: 0px -240px; }
+.Dalmatian { background-position: 0px -300px; }
+.FinnishSpitz { background-position: 0px -360px; }
+.FrenchBulldog { background-position: 0px -420px; }
+.Keeshond { background-position: 0px -480px; }
+.LhasaApso { background-position: 0px -540px; }
+.Lowchen { background-position: 0px -600px; }
+.Poodle_Standard { background-position: 0px -660px; }
+.Schipperke { background-position: 0px -720px; }
+.SharPei { background-position: 0px -780px; }
+.ShibaInu { background-position: 0px -840px; }
+.TibetanSpaniel { background-position: 0px -900px; }
+.TibetanTerrier { background-position: 0px -960px; }
+
+.Sporting_Group { background-image: url('../../images/list/dog/sportingGroup_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.AmericanWaterSpaniel { background-position: 0px 0px; }
+.ClumnerSpaniel { background-position: 0px -60px; }
+.CockerSpaniel { background-position: 0px -120px; }
+.CurlyCoatedRetriever { background-position: 0px -180px; }
+.EnglishCockerSpaniel { background-position: 0px -240px; }
+.EnglishSetter { background-position: 0px -300px; }
+.EnglsihSpringerSpaniel { background-position: 0px -360px; }
+.FieldSpaniel { background-position: 0px -420px; }
+.FlatCoatedRetriever { background-position: 0px -480px; }
+.GermanShort-HairedPointer { background-position: 0px -540px; }
+.GermanWire-HairedPointer { background-position: 0px -600px; }
+.GoldenRetriever { background-position: 0px -660px; }
+.GordonSetter { background-position: 0px -720px; }
+.IrishSetter { background-position: 0px -780px; }
+.IrishWaterSpaniel { background-position: 0px -840px; }
+.LabradorRetriever { background-position: 0px -900px; }
+.Pointer { background-position: 0px -960px; }
+.SussexSpaniel { background-position: 0px -1020px; }
+.Vizsla { background-position: 0px -1080px; }
+.Weimaraner { background-position: 0px -1140px; }
+.WelshSpringerSpaniel { background-position: 0px -1200px; }
+.WirehairedPointingGriffon { background-position: 0px -1260px; }
+
+.Terrier_Group { background-image: url('../../images/list/dog/terrierGroup_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.AirdaleTerrier { background-position: 0px 0px; }
+.AmericanStaffordshireTerrier { background-position: 0px -60px; }
+.AustralianTerrier { background-position: 0px -120px; }
+.BedlingtonTerrier { background-position: 0px -180px; }
+.BorderTerrier { background-position: 0px -240px; }
+.BullTerrier { background-position: 0px -300px; }
+.Cairnterrier { background-position: 0px -360px; }
+.DandieDinmontTerrier { background-position: 0px -420px; }
+.FoxTerrier_Smooth { background-position: 0px -480px; }
+.FoxTerrier_Wire { background-position: 0px -540px; }
+.GlenOfImaalTerrier { background-position: 0px -600px; }
+.IrishTerrier { background-position: 0px -660px; }
+.JackRussellTerrier { background-position: 0px -720px; }
+.KerryBlueTerrier { background-position: 0px -780px; }
+.LakelandTerrier { background-position: 0px -840px; }
+.ManchesterTerrier { background-position: 0px -900px; }
+.MiniatureBullTerrier { background-position: 0px -960px; }
+.MiniatureSchnauzer { background-position: 0px -1020px; }
+.NorflokTerrier { background-position: 0px -1080px; }
+.NorwichTerrier { background-position: 0px -1140px; }
+.ParsonRusselTerrier { background-position: 0px -1200px; }
+.PitBullAmerican { background-position: 0px -1260px; }
+.ScottishTerrier { background-position: 0px -1320px; }
+.SealyhamTerrier { background-position: 0px -1380px; }
+.SkyeTerrier { background-position: 0px -1440px; }
+.SoftCoatedWheatenTerrier { background-position: 0px -1500px; }
+.StaffordshireBullTerrier { background-position: 0px -1560px; }
+.WelshTerrier { background-position: 0px -1620px; }
+.WestHighlandWhiteTerrier { background-position: 0px -1680px; }
+
+.Toy_Group { background-image: url('../../images/list/dog/toyGroup_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.BrusselsGriffon { background-position: 0px 0px; }
+.CavalierKingCharlesSpaniel { background-position: 0px -60px; }
+.Chihuahua { background-position: 0px -120px; }
+.ChineseCrestedDog { background-position: 0px -180px; }
+.EnglsihToySpaniel { background-position: 0px -240px; }
+.EnglsihToyterrierorToyManchesterTerrier { background-position: 0px -300px; }
+.GermanSpitz { background-position: 0px -360px; }
+.ItalianGreyhound { background-position: 0px -420px; }
+.JapaneseChin { background-position: 0px -480px; }
+.Maltese { background-position: 0px -540px; }
+.MiniaturePinscher { background-position: 0px -600px; }
+.Papillon { background-position: 0px -660px; }
+.Pekingese { background-position: 0px -720px; }
+.Pomeranian { background-position: 0px -780px; }
+.Pug { background-position: 0px -840px; }
+.ShihTzu { background-position: 0px -900px; }
+.SilkyTerrier { background-position: 0px -960px; }
+.ToyFoxTerrier { background-position: 0px -1020px; }
+.ToyManchesterTerrier { background-position: 0px -1080px; }
+.ToyPoodle { background-position: 0px -1140px; }
+.YorkshireTerrier { background-position: 0px -1200px; }
+
+.Working_Group { background-image: url('../../images/list/dog/workingGroup_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Akita { background-position: 0px 0px; }
+.AlaskanMalamute { background-position: 0px -60px; }
+.AnatolianShepherd { background-position: 0px -120px; }
+.BerneseMountainDog { background-position: 0px -180px; }
+.BlackRussianTerrier { background-position: 0px -240px; }
+.Boxer { background-position: 0px -300px; }
+.Bullmastiff { background-position: 0px -360px; }
+.Doberman { background-position: 0px -420px; }
+.DoguedeBordeaux_FrenchMastiff { background-position: 0px -480px; }
+.FilaBrasileiro_BrazilianMastiff { background-position: 0px -540px; }
+.GaintSchnauzer { background-position: 0px -600px; }
+.GermanPinscher { background-position: 0px -660px; }
+.GreatDane { background-position: 0px -720px; }
+.GreaterSwissMountainDog { background-position: 0px -780px; }
+.GreatPyrenees { background-position: 0px -840px; }
+.Komondor { background-position: 0px -900px; }
+.Leonberger { background-position: 0px -960px; }
+.Mastiff { background-position: 0px -1020px; }
+.NeapolitanMastiff { background-position: 0px -1080px; }
+.Newfoundland { background-position: 0px -1140px; }
+.Rottweiler { background-position: 0px -1200px; }
+.SaintBernard { background-position: 0px -1260px; }
+.Samoyed { background-position: 0px -1320px; }
+.SiberianHusky { background-position: 0px -1380px; }
+.StandardSchnauzer { background-position: 0px -1440px; }
+.TibetanMastiff { background-position: 0px -1500px; }
+
+/*************************************************************************@media query - begin******************************************************/
+/* Amazon kindle fire - hd * 8.9" - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 2560px) {
+
+}
+
+/* Desktop - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1920px) {
+
+}
+
+/* Amazon kindle fire - hd * 8.9" - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 1600px) {
+
+}
+
+/* Laptop with HiDPI screen - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1440px) {
+
+}
+
+/* Desktop - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1366px) {
+
+}
+
+/* Google Nexus 10 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1280px) {
+
+}
+
+/* Amazon Kindle Fire(First Generation) - Landscape/ Apple iPad 1, 2, 3, 4, Mini - Landscape/ BlackBerry PlayBook - Landscape/ Samsung Galaxy Tab - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1024px) {
+
+}
+
+/* Google Nexus 7 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 960px) {
+
+}
+
+/* Google Nexus 10 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 800px) {
+
+}
+
+/* Apple iPad, iPad Mini - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 768px) {
+
+}
+/* Apple iPhone 6 Plus - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 736px) {
+
+}
+/* Google Nexus 6 - Landscape, Google Nexus 6P - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 732px) {
+
+}
+
+/*Motorola Droid Razr HD*/
+@media only screen and /*!YUI-Compressor */ (max-width: 720px) {
+
+}
+
+/* Apple iPhone 6 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 667px) {
+
+}
+
+/* BlackBerry Z30 - Landscape, Galaxy Note 3 - Landscape,  Galaxy Note II - Landscape, Galaxy S III - Landscape, LG Optimus L70 - Landscape, Google Nexus 4 - Landscape, Google Nexus 5 - Landscape, Nokia N9 - Landscape, Galaxy S5 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 640px) {
+
+}
+
+/* BlackBerry Playbook - Portrait, Google Nexus 7 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 600px) {
+
+}
+
+/* Apple iPhone 5 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 568px) {
+
+}
+
+/* Motorola Droid 3, Droid 4, Droid Razr, Atrix 4G, Atrix 2 */
+@media only screen and /*!YUI-Compressor */ (max-width: 540px) {
+
+}
+
+/* Nokia Lumia 520 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 533px) {
+
+}
+
+/* Apple iPhone 4 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 480px) {
+
+}
+
+/* LG Optimus LTE - Portrait, Optimus 4X HD - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 424px) {
+	.Herding_Group { background-image: url('../../images/list/dog/herdingGroup_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.AustralianCattleDog { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px 0px; }
+	.AustralianKelpi { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -40px; }
+	.AustralinaShepherd { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -80px; }
+	.BeardedCollie { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -120px; }
+	.BelgianMalinois { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -160px; }
+	.belgianSheepdogOrGroenendael { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -200px; }
+	.BorderCollie { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -240px; }
+	.BouvierDesFlandres { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -280px; }
+	.Briard { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -320px; }
+	.CardiganWelshCorgi { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -360px; }
+	.Collie_Rough { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -400px; }
+	.Collie_Smooth { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -440px; }
+	.GermanShepherd { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -480px; }
+	.HimalayanSheepDog { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -520px; }
+	.OldEnglishSheepdog { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -560px; }
+	.PembrokeWelshCorgi { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -600px; }
+	.Puli { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -640px; }
+	.ShetlandSheepdog { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -680px; }
+
+	.Hound_Group { background-image: url('../../images/list/dog/houndGroup_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.AfghanHound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px 0px; }
+	.AmericanFoxhound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -40px; }
+	.Basenji { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -80px; }
+	.BassetHound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -120px; }
+	.Beagle { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -160px; }
+	.BlackAndTanCoonhound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -200px; }
+	.BloodHound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -240px; }
+	.Borzoi { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -280px; }
+	.Dachshund_LSH { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -320px; }
+	.EnglishFoxhound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -360px; }
+	.Greyhound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -400px; }
+	.Harrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -440px; }
+	.IbizanHound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -480px; }
+	.IrishWolfhound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -520px; }
+	.NorwegianElkhound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -560px; }
+	.PharaohHound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -600px; }
+	.RhodesianRidgeback { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -640px; }
+	.Saluki { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -680px; }
+	.ScottishDeerhound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -720px; }
+	.Sloughi { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -760px; }
+	.ThaiRidgeback { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -800px; }
+	.Whippet { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -840px; }
+
+	.Native_Indian_Group { background-image: url('../../images/list/dog/nativeIndianGroup_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.CaravanHound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px 0px; }
+	.Chippiparai { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -40px; }
+	.Combai { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -80px; }
+	.Indian_Mastiff { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -120px; }
+	.Kanni { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -160px; }
+	.MudholHound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -200px; }
+	.RajapalayamDog { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -240px; }
+	.RampurHound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -280px; }
+
+	.Non_Sporting_Group { background-image: url('../../images/list/dog/nonSportingGroup_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.BichonFrise { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px 0px; }
+	.BostonTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -40px; }
+	.Bulldog { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -80px; }
+	.ChineseShar-Pei { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -120px; }
+	.ChowChow { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -160px; }
+	.Dalmatian { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -200px; }
+	.FinnishSpitz { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -240px; }
+	.FrenchBulldog { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -280px; }
+	.Keeshond { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -320px; }
+	.LhasaApso { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -360px; }
+	.Lowchen { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -400px; }
+	.Poodle_Standard { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -440px; }
+	.Schipperke { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -480px; }
+	.SharPei { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -520px; }
+	.ShibaInu { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -560px; }
+	.TibetanSpaniel { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -600px; }
+	.TibetanTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -640px; }
+
+	.Sporting_Group { background-image: url('../../images/list/dog/sportingGroup_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.AmericanWaterSpaniel { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px 0px; }
+	.ClumnerSpaniel { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -40px; }
+	.CockerSpaniel { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -80px; }
+	.CurlyCoatedRetriever { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -120px; }
+	.EnglishCockerSpaniel { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -160px; }
+	.EnglishSetter { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -200px; }
+	.EnglsihSpringerSpaniel { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -240px; }
+	.FieldSpaniel { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -280px; }
+	.FlatCoatedRetriever { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -320px; }
+	.GermanShort-HairedPointer { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -360px; }
+	.GermanWire-HairedPointer { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -400px; }
+	.GoldenRetriever { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -440px; }
+	.GordonSetter { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -480px; }
+	.IrishSetter { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -520px; }
+	.IrishWaterSpaniel { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -560px; }
+	.LabradorRetriever { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -600px; }
+	.Pointer { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -640px; }
+	.SussexSpaniel { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -680px; }
+	.Vizsla { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -720px; }
+	.Weimaraner { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -760px; }
+	.WelshSpringerSpaniel { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -800px; }
+	.WirehairedPointingGriffon { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -840px; }
+
+	.Terrier_Group { background-image: url('../../images/list/dog/terrierGroup_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.AirdaleTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px 0px; }
+	.AmericanStaffordshireTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -40px; }
+	.AustralianTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -80px; }
+	.BedlingtonTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -120px; }
+	.BorderTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -160px; }
+	.BullTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -200px; }
+	.Cairnterrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -240px; }
+	.DandieDinmontTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -280px; }
+	.FoxTerrier_Smooth { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -320px; }
+	.FoxTerrier_Wire { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -360px; }
+	.GlenOfImaalTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -400px; }
+	.IrishTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -440px; }
+	.JackRussellTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -480px; }
+	.KerryBlueTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -520px; }
+	.LakelandTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -560px; }
+	.ManchesterTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -600px; }
+	.MiniatureBullTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -640px; }
+	.MiniatureSchnauzer { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -680px; }
+	.NorflokTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -720px; }
+	.NorwichTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -760px; }
+	.ParsonRusselTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -800px; }
+	.PitBullAmerican { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -840px; }
+	.ScottishTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -880px; }
+	.SealyhamTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -920px; }
+	.SkyeTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -960px; }
+	.SoftCoatedWheatenTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -1000px; }
+	.StaffordshireBullTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -1040px; }
+	.WelshTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -1080px; }
+	.WestHighlandWhiteTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -1120px; }
+
+	.Toy_Group { background-image: url('../../images/list/dog/toyGroup_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.BrusselsGriffon { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px 0px; }
+	.CavalierKingCharlesSpaniel { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -40px; }
+	.Chihuahua { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -80px; }
+	.ChineseCrestedDog { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -120px; }
+	.EnglsihToySpaniel { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -160px; }
+	.EnglsihToyterrierorToyManchesterTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -200px; }
+	.GermanSpitz { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -240px; }
+	.ItalianGreyhound { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -280px; }
+	.JapaneseChin { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -320px; }
+	.Maltese { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -360px; }
+	.MiniaturePinscher { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -400px; }
+	.Papillon { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -440px; }
+	.Pekingese { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -480px; }
+	.Pomeranian { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -520px; }
+	.Pug { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -560px; }
+	.ShihTzu { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -600px; }
+	.SilkyTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -640px; }
+	.ToyFoxTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -680px; }
+	.ToyManchesterTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -720px; }
+	.ToyPoodle { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -760px; }
+	.YorkshireTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -800px; }
+
+	.Working_Group { background-image: url('../../images/list/dog/workingGroup_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Akita { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px 0px; }
+	.AlaskanMalamute { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -40px; }
+	.AnatolianShepherd { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -80px; }
+	.BerneseMountainDog { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -120px; }
+	.BlackRussianTerrier { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -160px; }
+	.Boxer { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -200px; }
+	.Bullmastiff { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -240px; }
+	.Doberman { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -280px; }
+	.DoguedeBordeaux_FrenchMastiff { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -320px; }
+	.FilaBrasileiro_BrazilianMastiff { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -360px; }
+	.GaintSchnauzer { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -400px; }
+	.GermanPinscher { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -440px; }
+	.GreatDane { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -480px; }
+	.GreaterSwissMountainDog { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -520px; }
+	.GreatPyrenees { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -560px; }
+	.Komondor { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -600px; }
+	.Leonberger { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -640px; }
+	.Mastiff { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -680px; }
+	.NeapolitanMastiff { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -720px; }
+	.Newfoundland { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -760px; }
+	.Rottweiler { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -800px; }
+	.SaintBernard { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -840px; }
+	.Samoyed { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -880px; }
+	.SiberianHusky { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -920px; }
+	.StandardSchnauzer { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -960px; }
+	.TibetanMastiff { width: 40px; height: 40px; position: relative; z-index: 99; background-position: 0px -1000px; }
+}
+
+/* Apple iPhone 6 Plus - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 414px) {
+
+}
+
+/* Google Nexus 5X - Portrait, Google Nexus 6 - Portrait, Google Nexus 6P - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 412px) {
+
+}
+
+/* Samsung Galaxy Note - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 400px) {
+
+}
+
+/* BlackBerry Z10 - Portrait, Google Nexus 4 - Portrait, LG Optimus G - Portrait, LG Optimus L70 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 384px) {
+
+}
+
+/* Apple iPhone 6 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 375px) {
+
+}
+
+/* BlackBerry Z30 - Portrait, Google Nexus 5 - Portrait, Galaxy Note 3 - Portrait, Galaxy Note II - Portrait, Galaxy S III - Portrait, Galaxy S5 - Portrait, HTC One X - Portrait, EVO LTE - Portrait, HTC Sensation - Portrait, EVO 3D - Portrait, Nokia N9 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 360px) {
+
+}
+
+/* Apple iPhone 3GS - Portrait, iPhone 4 - Portrait, iPhone 5 - Portrait/ Google Nexus S - Portrait/ HTC Evo - Portrait, Touch HD - Portrait, Desire HD - Portrait, Desire - Portrait/ LG Optimus 2X - Portrait, Optimus 3D - Portrait, Optimus Black - Portrait/  Motorola Defy - Portrait, Droid - Portrait, Droid X - Portrait, Milestone - Portrait/ Nokia Lumia 7X0 - Portrait, Lumia 8XX - Portrait, Lumia 900 - Portrait, N800 - Portrait, N810 - Portrait, N900 - Portrait, 520 - Portrait/ Samsung Galaxy S - Portrait, SII - Portrait, W/ - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 320px) {
+
+}
+
+/* LG Optimus One - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 213px) {
+	.Herding_Group { background-image: url('../../images/list/dog/herdingGroup_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.AustralianCattleDog { background-position: 0px 0px; }
+	.AustralianKelpi { background-position: 0px -30px; }
+	.AustralinaShepherd { background-position: 0px -60px; }
+	.BeardedCollie { background-position: 0px -90px; }
+	.BelgianMalinois { background-position: 0px -120px; }
+	.belgianSheepdogOrGroenendael { background-position: 0px -150px; }
+	.BorderCollie { background-position: 0px -180px; }
+	.BouvierDesFlandres { background-position: 0px -210px; }
+	.Briard { background-position: 0px -240px; }
+	.CardiganWelshCorgi { background-position: 0px -270px; }
+	.Collie_Rough { background-position: 0px -300px; }
+	.Collie_Smooth { background-position: 0px -330px; }
+	.GermanShepherd { background-position: 0px -360px; }
+	.HimalayanSheepDog { background-position: 0px -390px; }
+	.OldEnglishSheepdog { background-position: 0px -420px; }
+	.PembrokeWelshCorgi { background-position: 0px -450px; }
+	.Puli { background-position: 0px -480px; }
+	.ShetlandSheepdog { background-position: 0px -510px; }
+
+	.Hound_Group { background-image: url('../../images/list/dog/houndGroup_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.AfghanHound { background-position: 0px 0px; }
+	.AmericanFoxhound { background-position: 0px -30px; }
+	.Basenji { background-position: 0px -60px; }
+	.BassetHound { background-position: 0px -90px; }
+	.Beagle { background-position: 0px -120px; }
+	.BlackAndTanCoonhound { background-position: 0px -150px; }
+	.BloodHound { background-position: 0px -180px; }
+	.Borzoi { background-position: 0px -210px; }
+	.Dachshund_LSH { background-position: 0px -240px; }
+	.EnglishFoxhound { background-position: 0px -270px; }
+	.Greyhound { background-position: 0px -300px; }
+	.Harrier { background-position: 0px -330px; }
+	.IbizanHound { background-position: 0px -360px; }
+	.IrishWolfhound { background-position: 0px -390px; }
+	.NorwegianElkhound { background-position: 0px -420px; }
+	.PharaohHound { background-position: 0px -450px; }
+	.RhodesianRidgeback { background-position: 0px -480px; }
+	.Saluki { background-position: 0px -510px; }
+	.ScottishDeerhound { background-position: 0px -540px; }
+	.Sloughi { background-position: 0px -570px; }
+	.ThaiRidgeback { background-position: 0px -600px; }
+	.Whippet { background-position: 0px -630px; }
+
+	.Native_Indian_Group { background-image: url('../../images/list/dog/nativeIndianGroup_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.CaravanHound { background-position: 0px 0px; }
+	.Chippiparai { background-position: 0px -30px; }
+	.Combai { background-position: 0px -60px; }
+	.Indian_Mastiff { background-position: 0px -90px; }
+	.Kanni { background-position: 0px -120px; }
+	.MudholHound { background-position: 0px -150px; }
+	.RajapalayamDog { background-position: 0px -180px; }
+	.RampurHound { background-position: 0px -210px; }
+
+	.Non_Sporting_Group { background-image: url('../../images/list/dog/nonSportingGroup_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.BichonFrise { background-position: 0px 0px; }
+	.BostonTerrier { background-position: 0px -30px; }
+	.Bulldog { background-position: 0px -60px; }
+	.ChineseShar-Pei { background-position: 0px -90px; }
+	.ChowChow { background-position: 0px -120px; }
+	.Dalmatian { background-position: 0px -150px; }
+	.FinnishSpitz { background-position: 0px -180px; }
+	.FrenchBulldog { background-position: 0px -210px; }
+	.Keeshond { background-position: 0px -240px; }
+	.LhasaApso { background-position: 0px -270px; }
+	.Lowchen { background-position: 0px -300px; }
+	.Poodle_Standard { background-position: 0px -330px; }
+	.Schipperke { background-position: 0px -360px; }
+	.SharPei { background-position: 0px -390px; }
+	.ShibaInu { background-position: 0px -420px; }
+	.TibetanSpaniel { background-position: 0px -450px; }
+	.TibetanTerrier { background-position: 0px -480px; }
+
+	.Sporting_Group { background-image: url('../../images/list/dog/sportingGroup_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.AmericanWaterSpaniel { background-position: 0px 0px; }
+	.ClumnerSpaniel { background-position: 0px -30px; }
+	.CockerSpaniel { background-position: 0px -60px; }
+	.CurlyCoatedRetriever { background-position: 0px -90px; }
+	.EnglishCockerSpaniel { background-position: 0px -120px; }
+	.EnglishSetter { background-position: 0px -150px; }
+	.EnglsihSpringerSpaniel { background-position: 0px -180px; }
+	.FieldSpaniel { background-position: 0px -210px; }
+	.FlatCoatedRetriever { background-position: 0px -240px; }
+	.GermanShort-HairedPointer { background-position: 0px -270px; }
+	.GermanWire-HairedPointer { background-position: 0px -300px; }
+	.GoldenRetriever { background-position: 0px -330px; }
+	.GordonSetter { background-position: 0px -360px; }
+	.IrishSetter { background-position: 0px -390px; }
+	.IrishWaterSpaniel { background-position: 0px -420px; }
+	.LabradorRetriever { background-position: 0px -450px; }
+	.Pointer { background-position: 0px -480px; }
+	.SussexSpaniel { background-position: 0px -510px; }
+	.Vizsla { background-position: 0px -540px; }
+	.Weimaraner { background-position: 0px -570px; }
+	.WelshSpringerSpaniel { background-position: 0px -600px; }
+	.WirehairedPointingGriffon { background-position: 0px -630px; }
+
+	.Terrier_Group { background-image: url('../../images/list/dog/terrierGroup_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.AirdaleTerrier { background-position: 0px 0px; }
+	.AmericanStaffordshireTerrier { background-position: 0px -30px; }
+	.AustralianTerrier { background-position: 0px -60px; }
+	.BedlingtonTerrier { background-position: 0px -90px; }
+	.BorderTerrier { background-position: 0px -120px; }
+	.BullTerrier { background-position: 0px -150px; }
+	.Cairnterrier { background-position: 0px -180px; }
+	.DandieDinmontTerrier { background-position: 0px -210px; }
+	.FoxTerrier_Smooth { background-position: 0px -240px; }
+	.FoxTerrier_Wire { background-position: 0px -270px; }
+	.GlenOfImaalTerrier { background-position: 0px -300px; }
+	.IrishTerrier { background-position: 0px -330px; }
+	.JackRussellTerrier { background-position: 0px -360px; }
+	.KerryBlueTerrier { background-position: 0px -390px; }
+	.LakelandTerrier { background-position: 0px -420px; }
+	.ManchesterTerrier { background-position: 0px -450px; }
+	.MiniatureBullTerrier { background-position: 0px -480px; }
+	.MiniatureSchnauzer { background-position: 0px -510px; }
+	.NorflokTerrier { background-position: 0px -540px; }
+	.NorwichTerrier { background-position: 0px -570px; }
+	.ParsonRusselTerrier { background-position: 0px -600px; }
+	.PitBullAmerican { background-position: 0px -630px; }
+	.ScottishTerrier { background-position: 0px -660px; }
+	.SealyhamTerrier { background-position: 0px -690px; }
+	.SkyeTerrier { background-position: 0px -720px; }
+	.SoftCoatedWheatenTerrier { background-position: 0px -750px; }
+	.StaffordshireBullTerrier { background-position: 0px -780px; }
+	.WelshTerrier { background-position: 0px -810px; }
+	.WestHighlandWhiteTerrier { background-position: 0px -840px; }
+
+	.Toy_Group { background-image: url('../../images/list/dog/toyGroup_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.BrusselsGriffon { background-position: 0px 0px; }
+	.CavalierKingCharlesSpaniel { background-position: 0px -30px; }
+	.Chihuahua { background-position: 0px -60px; }
+	.ChineseCrestedDog { background-position: 0px -90px; }
+	.EnglsihToySpaniel { background-position: 0px -120px; }
+	.EnglsihToyterrierorToyManchesterTerrier { background-position: 0px -150px; }
+	.GermanSpitz { background-position: 0px -180px; }
+	.ItalianGreyhound { background-position: 0px -210px; }
+	.JapaneseChin { background-position: 0px -240px; }
+	.Maltese { background-position: 0px -270px; }
+	.MiniaturePinscher { background-position: 0px -300px; }
+	.Papillon { background-position: 0px -330px; }
+	.Pekingese { background-position: 0px -360px; }
+	.Pomeranian { background-position: 0px -390px; }
+	.Pug { background-position: 0px -420px; }
+	.ShihTzu { background-position: 0px -450px; }
+	.SilkyTerrier { background-position: 0px -480px; }
+	.ToyFoxTerrier { background-position: 0px -510px; }
+	.ToyManchesterTerrier { background-position: 0px -540px; }
+	.ToyPoodle { background-position: 0px -570px; }
+	.YorkshireTerrier { background-position: 0px -600px; }
+
+	.Working_Group { background-image: url('../../images/list/dog/workingGroup_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Akita { background-position: 0px 0px; }
+	.AlaskanMalamute { background-position: 0px -30px; }
+	.AnatolianShepherd { background-position: 0px -60px; }
+	.BerneseMountainDog { background-position: 0px -90px; }
+	.BlackRussianTerrier { background-position: 0px -120px; }
+	.Boxer { background-position: 0px -150px; }
+	.Bullmastiff { background-position: 0px -180px; }
+	.Doberman { background-position: 0px -210px; }
+	.DoguedeBordeaux_FrenchMastiff { background-position: 0px -240px; }
+	.FilaBrasileiro_BrazilianMastiff { background-position: 0px -270px; }
+	.GaintSchnauzer { background-position: 0px -300px; }
+	.GermanPinscher { background-position: 0px -330px; }
+	.GreatDane { background-position: 0px -360px; }
+	.GreaterSwissMountainDog { background-position: 0px -390px; }
+	.GreatPyrenees { background-position: 0px -420px; }
+	.Komondor { background-position: 0px -450px; }
+	.Leonberger { background-position: 0px -480px; }
+	.Mastiff { background-position: 0px -510px; }
+	.NeapolitanMastiff { background-position: 0px -540px; }
+	.Newfoundland { background-position: 0px -570px; }
+	.Rottweiler { background-position: 0px -600px; }
+	.SaintBernard { background-position: 0px -630px; }
+	.Samoyed { background-position: 0px -660px; }
+	.SiberianHusky { background-position: 0px -690px; }
+	.StandardSchnauzer { background-position: 0px -720px; }
+	.TibetanMastiff { background-position: 0px -750px; }
+}
+/*************************************************************************@media query - end********************************************************/

@@ -1,0 +1,16 @@
+.left-side {
+	/*background-color: pink;*/
+	width: 25%;
+	height: auto;
+	min-height: 60vh;
+	float:left;
+	margin-top: 2px;
+}
+.right-side {
+	/*background-color: cyan;*/
+	width: 75%;
+	height: auto;
+	min-height: 60vh;
+	float:left;
+	margin-top: 2px;
+}

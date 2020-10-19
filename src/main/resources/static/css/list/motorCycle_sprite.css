@@ -1,0 +1,710 @@
+.Aprilia_MC { background-image: url('../../images/list/motorCycle/aprilia_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Caponord1200ABS { background-position: 0px 0px; }
+.Caponord1200ABSADD { background-position: 0px -60px; }
+.DORSODURO1200ATC-ABS { background-position: 0px -120px; }
+.MANA850GT { background-position: 0px -180px; }
+.RSV4FACTORYABS { background-position: 0px -240px; }
+.RSV4RABS { background-position: 0px -300px; }
+.SRV850 { background-position: 0px -360px; }
+.SRV850ATC-ABS { background-position: 0px -420px; }
+.TUONOV4RAPRC { background-position: 0px -480px; }
+
+.Bajaj_MC { background-image: url('../../images/list/motorCycle/bajaj_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Avenger220DTS-i { background-position: 0px 0px; }
+.CT100 { background-position: 0px -60px; }
+.Discover100 { background-position: 0px -120px; }
+.Discover100M { background-position: 0px -180px; }
+.Discover125M { background-position: 0px -240px; }
+.NewDiscover125 { background-position: 0px -300px; }
+.NewDiscover150 { background-position: 0px -360px; }
+.Ninja300 { background-position: 0px -420px; }
+.Ninja650R { background-position: 0px -480px; }
+.Platina100 { background-position: 0px -540px; }
+.Platina100ES { background-position: 0px -600px; }
+.Pulsar135LS { background-position: 0px -660px; }
+.Pulsar150 { background-position: 0px -720px; }
+.Pulsar180 { background-position: 0px -780px; }
+.Pulsar200NS { background-position: 0px -840px; }
+.Pulsar220 { background-position: 0px -900px; }
+.PulsarAS200-150 { background-position: 0px -960px; }
+.PulsarRS200 { background-position: 0px -1020px; }
+
+.DskBenelli_MC { background-image: url('../../images/list/motorCycle/dskBenelli_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.TNT300 { background-position: 0px 0px; }
+.TNT600GT { background-position: 0px -60px; }
+.TNT600i { background-position: 0px -120px; }
+.TNT899 { background-position: 0px -180px; }
+.TNTR { background-position: 0px -240px; }
+
+.Ducati_MC { background-image: url('../../images/list/motorCycle/ducati_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Diavel { background-position: 0px 0px; }
+.DiavelCarbon { background-position: 0px -60px; }
+.DiavelTitanium { background-position: 0px -120px; }
+.Hypermotard { background-position: 0px -180px; }
+.Hyperstrada { background-position: 0px -240px; }
+.Monster-S2R { background-position: 0px -300px; }
+.Monster795 { background-position: 0px -360px; }
+.Superbike-1299Panigale { background-position: 0px -420px; }
+.Superbike-1299PanigaleS { background-position: 0px -480px; }
+.Superbike-899Panigale { background-position: 0px -540px; }
+.Superbike-PanigaleR { background-position: 0px -600px; }
+
+.HarleyDavidson_MC { background-image: url('../../images/list/motorCycle/harleyDavidson_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CVOLimited { background-position: 0px 0px; }
+.Dyna-FatBob { background-position: 0px -60px; }
+.Dyna-StreetBob { background-position: 0px -120px; }
+.Softail-Breakout { background-position: 0px -180px; }
+.Softail-FatBoy { background-position: 0px -240px; }
+.Softail-HeritageSoftailClassic { background-position: 0px -300px; }
+.Sportster-Forty-Eight { background-position: 0px -360px; }
+.Sportster-Iron883 { background-position: 0px -420px; }
+.Sportster-SuperLow { background-position: 0px -480px; }
+.Street750 { background-position: 0px -540px; }
+.Touring-StreetGlideSpecial { background-position: 0px -600px; }
+.V-Rod-NightRodSpecial { background-position: 0px -660px; }
+
+.Hero_MC { background-image: url('../../images/list/motorCycle/hero_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Achiever { background-position: 0px 0px; }
+.Glamour { background-position: 0px -60px; }
+.GlamourProgrammedFI { background-position: 0px -120px; }
+.HFDawn { background-position: 0px -180px; }
+.HFDeluxe { background-position: 0px -240px; }
+.HFDeluxeEco { background-position: 0px -300px; }
+.Hunk { background-position: 0px -360px; }
+.Ignitor { background-position: 0px -420px; }
+.Impulse { background-position: 0px -480px; }
+.Karizma { background-position: 0px -540px; }
+.KarizmaZMR { background-position: 0px -600px; }
+.PassionPRO { background-position: 0px -660px; }
+.PassionPROTR { background-position: 0px -720px; }
+.PassionXPRO { background-position: 0px -780px; }
+.SplendoriSmart { background-position: 0px -840px; }
+.SplendorPlus { background-position: 0px -900px; }
+.SplendorPRO { background-position: 0px -960px; }
+.SplendorPROClassic { background-position: 0px -1020px; }
+.SuperSplendor { background-position: 0px -1080px; }
+.Xtreme { background-position: 0px -1140px; }
+.XtremeSports { background-position: 0px -1200px; }
+
+.Honda_MC { background-image: url('../../images/list/motorCycle/honda_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CB1000R { background-position: 0px 0px; }
+.CBFStunner { background-position: 0px -60px; }
+.CBR1000RR { background-position: 0px -120px; }
+.CBR150R { background-position: 0px -180px; }
+.CBR250R { background-position: 0px -240px; }
+.CBShine { background-position: 0px -300px; }
+.CBTrigger { background-position: 0px -360px; }
+.CBTwister { background-position: 0px -420px; }
+.CBUnicorn160 { background-position: 0px -480px; }
+.CD110Dream { background-position: 0px -540px; }
+.DreamNeo { background-position: 0px -600px; }
+.DreamYuga { background-position: 0px -660px; }
+.GoldWing { background-position: 0px -720px; }
+.Livo { background-position: 0px -780px; }
+.VFR1200F { background-position: 0px -840px; }
+.VT1300CX { background-position: 0px -900px; }
+
+.Hyosung_MC { background-image: url('../../images/list/motorCycle/hyosung_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Aquila250 { background-position: 0px 0px; }
+.AquilaPro { background-position: 0px -60px; }
+.GT250R { background-position: 0px -120px; }
+.GT650N { background-position: 0px -180px; }
+.GT650R { background-position: 0px -240px; }
+.ST7 { background-position: 0px -300px; }
+
+.Indian_MC { background-image: url('../../images/list/motorCycle/indian_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.ChiefClassic { background-position: 0px 0px; }
+.ChiefDarkHorse { background-position: 0px -60px; }
+.Chieftain { background-position: 0px -120px; }
+.ChiefVintage { background-position: 0px -180px; }
+.Roadmaster { background-position: 0px -240px; }
+.Scout { background-position: 0px -300px; }
+
+.KTM_MC { background-image: url('../../images/list/motorCycle/ktm_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Duke200 { background-position: 0px 0px; }
+.Duke390 { background-position: 0px -60px; }
+.RC200 { background-position: 0px -120px; }
+.RC390 { background-position: 0px -180px; }
+
+.Mahindra_MC { background-image: url('../../images/list/motorCycle/mahindra_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Centuro { background-position: 0px 0px; }
+.CenturoRockstar { background-position: 0px -60px; }
+.Pantero { background-position: 0px -120px; }
+
+.RoyalEnfield_MC { background-image: url('../../images/list/motorCycle/royalEnfield_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Bullet350 { background-position: 0px 0px; }
+.Bullet500 { background-position: 0px -60px; }
+.BulletElectra { background-position: 0px -120px; }
+.Classic350 { background-position: 0px -180px; }
+.Classic500 { background-position: 0px -240px; }
+.ClassicBattleGreen { background-position: 0px -300px; }
+.ClassicChrome { background-position: 0px -360px; }
+.ClassicDesertStorm { background-position: 0px -420px; }
+.ContinentalGT { background-position: 0px -480px; }
+.Thunderbird350 { background-position: 0px -540px; }
+.Thunderbird500 { background-position: 0px -600px; }
+
+.Suzuki_MC { background-image: url('../../images/list/motorCycle/suzuki_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Bandit1250SA { background-position: 0px 0px; }
+.Gixxer { background-position: 0px -60px; }
+.GixxerSF { background-position: 0px -120px; }
+.GS150R { background-position: 0px -180px; }
+.GSX-R1000ABS { background-position: 0px -240px; }
+.GSX-S1000ABS { background-position: 0px -300px; }
+.GSX-S1000FABS { background-position: 0px -360px; }
+.Hayabusa { background-position: 0px -420px; }
+.HayabusaZ { background-position: 0px -480px; }
+.Hayate { background-position: 0px -540px; }
+.IntruderM1800R-BOSS { background-position: 0px -600px; }
+.IntruderM1800R { background-position: 0px -660px; }
+.IntruderM800 { background-position: 0px -720px; }
+.SlingshotPlus { background-position: 0px -780px; }
+.V-Strom { background-position: 0px -840px; }
+
+.TVS_MC { background-image: url('../../images/list/motorCycle/tvs_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Apache160 { background-position: 0px 0px; }
+.Apache180 { background-position: 0px -60px; }
+.ApacheRTR180ABS { background-position: 0px -120px; }
+.Jive { background-position: 0px -180px; }
+.MAX4R { background-position: 0px -240px; }
+.Phoenix125 { background-position: 0px -300px; }
+.Sport { background-position: 0px -360px; }
+.StarCityPlus { background-position: 0px -420px; }
+
+.Yamaha_MC { background-image: url('../../images/list/motorCycle/yamaha_mc_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CRUX { background-position: 0px 0px; }
+.FAZER { background-position: 0px -60px; }
+.FAZERFIVER2 { background-position: 0px -120px; }
+.FZ { background-position: 0px -180px; }
+.FZFIVER2 { background-position: 0px -240px; }
+.FZS { background-position: 0px -300px; }
+.FZSFIVER2 { background-position: 0px -360px; }
+.SALUTO { background-position: 0px -420px; }
+.SS125 { background-position: 0px -480px; }
+.SZ-RR { background-position: 0px -540px; }
+.SZ-RRVER2 { background-position: 0px -600px; }
+.SZ-S { background-position: 0px -660px; }
+.YBR110 { background-position: 0px -720px; }
+.YBR125 { background-position: 0px -780px; }
+.YZFR15VER2 { background-position: 0px -840px; }
+
+/*************************************************************************@media query - begin******************************************************/
+/* Amazon kindle fire - hd * 8.9" - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 2560px) {
+
+}
+
+/* Desktop - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1920px) {
+
+}
+
+/* Amazon kindle fire - hd * 8.9" - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 1600px) {
+
+}
+
+/* Laptop with HiDPI screen - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1440px) {
+
+}
+
+/* Desktop - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1366px) {
+
+}
+
+/* Google Nexus 10 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1280px) {
+
+}
+
+/* Amazon Kindle Fire(First Generation) - Landscape/ Apple iPad 1, 2, 3, 4, Mini - Landscape/ BlackBerry PlayBook - Landscape/ Samsung Galaxy Tab - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 1024px) {
+
+}
+
+/* Google Nexus 7 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 960px) {
+
+}
+
+/* Google Nexus 10 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 800px) {
+
+}
+
+/* Apple iPad, iPad Mini - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 768px) {
+
+}
+/* Apple iPhone 6 Plus - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 736px) {
+
+}
+/* Google Nexus 6 - Landscape, Google Nexus 6P - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 732px) {
+
+}
+
+/*Motorola Droid Razr HD*/
+@media only screen and /*!YUI-Compressor */ (max-width: 720px) {
+
+}
+
+/* Apple iPhone 6 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 667px) {
+
+}
+
+/* BlackBerry Z30 - Landscape, Galaxy Note 3 - Landscape,  Galaxy Note II - Landscape, Galaxy S III - Landscape, LG Optimus L70 - Landscape, Google Nexus 4 - Landscape, Google Nexus 5 - Landscape, Nokia N9 - Landscape, Galaxy S5 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 640px) {
+
+}
+
+/* BlackBerry Playbook - Portrait, Google Nexus 7 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 600px) {
+
+}
+
+/* Apple iPhone 5 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 568px) {
+
+}
+
+/* Motorola Droid 3, Droid 4, Droid Razr, Atrix 4G, Atrix 2 */
+@media only screen and /*!YUI-Compressor */ (max-width: 540px) {
+
+}
+
+/* Nokia Lumia 520 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 533px) {
+
+}
+
+/* Apple iPhone 4 - Landscape */
+@media only screen and /*!YUI-Compressor */ (max-width: 480px) {
+
+}
+
+/* LG Optimus LTE - Portrait, Optimus 4X HD - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 424px) {
+	.Aprilia_MC { background-image: url('../../images/list/motorCycle/aprilia_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Caponord1200ABS { background-position: 0px 0px; }
+	.Caponord1200ABSADD { background-position: 0px -40px; }
+	.DORSODURO1200ATC-ABS { background-position: 0px -80px; }
+	.MANA850GT { background-position: 0px -120px; }
+	.RSV4FACTORYABS { background-position: 0px -160px; }
+	.RSV4RABS { background-position: 0px -200px; }
+	.SRV850 { background-position: 0px -240px; }
+	.SRV850ATC-ABS { background-position: 0px -280px; }
+	.TUONOV4RAPRC { background-position: 0px -320px; }
+
+	.Bajaj_MC { background-image: url('../../images/list/motorCycle/bajaj_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Avenger220DTS-i { background-position: 0px 0px; }
+	.CT100 { background-position: 0px -40px; }
+	.Discover100 { background-position: 0px -80px; }
+	.Discover100M { background-position: 0px -120px; }
+	.Discover125M { background-position: 0px -160px; }
+	.NewDiscover125 { background-position: 0px -200px; }
+	.NewDiscover150 { background-position: 0px -240px; }
+	.Ninja300 { background-position: 0px -280px; }
+	.Ninja650R { background-position: 0px -320px; }
+	.Platina100 { background-position: 0px -360px; }
+	.Platina100ES { background-position: 0px -400px; }
+	.Pulsar135LS { background-position: 0px -440px; }
+	.Pulsar150 { background-position: 0px -480px; }
+	.Pulsar180 { background-position: 0px -520px; }
+	.Pulsar200NS { background-position: 0px -560px; }
+	.Pulsar220 { background-position: 0px -600px; }
+	.PulsarAS200-150 { background-position: 0px -640px; }
+	.PulsarRS200 { background-position: 0px -680px; }
+
+	.DskBenelli_MC { background-image: url('../../images/list/motorCycle/dskBenelli_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.TNT300 { background-position: 0px 0px; }
+	.TNT600GT { background-position: 0px -40px; }
+	.TNT600i { background-position: 0px -80px; }
+	.TNT899 { background-position: 0px -120px; }
+	.TNTR { background-position: 0px -160px; }
+
+	.Ducati_MC { background-image: url('../../images/list/motorCycle/ducati_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Diavel { background-position: 0px 0px; }
+	.DiavelCarbon { background-position: 0px -40px; }
+	.DiavelTitanium { background-position: 0px -80px; }
+	.Hypermotard { background-position: 0px -120px; }
+	.Hyperstrada { background-position: 0px -160px; }
+	.Monster-S2R { background-position: 0px -200px; }
+	.Monster795 { background-position: 0px -240px; }
+	.Superbike-1299Panigale { background-position: 0px -280px; }
+	.Superbike-1299PanigaleS { background-position: 0px -320px; }
+	.Superbike-899Panigale { background-position: 0px -360px; }
+	.Superbike-PanigaleR { background-position: 0px -400px; }
+
+	.HarleyDavidson_MC { background-image: url('../../images/list/motorCycle/harleyDavidson_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.CVOLimited { background-position: 0px 0px; }
+	.Dyna-FatBob { background-position: 0px -40px; }
+	.Dyna-StreetBob { background-position: 0px -80px; }
+	.Softail-Breakout { background-position: 0px -120px; }
+	.Softail-FatBoy { background-position: 0px -160px; }
+	.Softail-HeritageSoftailClassic { background-position: 0px -200px; }
+	.Sportster-Forty-Eight { background-position: 0px -240px; }
+	.Sportster-Iron883 { background-position: 0px -280px; }
+	.Sportster-SuperLow { background-position: 0px -320px; }
+	.Street750 { background-position: 0px -360px; }
+	.Touring-StreetGlideSpecial { background-position: 0px -400px; }
+	.V-Rod-NightRodSpecial { background-position: 0px -440px; }
+
+	.Hero_MC { background-image: url('../../images/list/motorCycle/hero_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Achiever { background-position: 0px 0px; }
+	.Glamour { background-position: 0px -40px; }
+	.GlamourProgrammedFI { background-position: 0px -80px; }
+	.HFDawn { background-position: 0px -120px; }
+	.HFDeluxe { background-position: 0px -160px; }
+	.HFDeluxeEco { background-position: 0px -200px; }
+	.Hunk { background-position: 0px -240px; }
+	.Ignitor { background-position: 0px -280px; }
+	.Impulse { background-position: 0px -320px; }
+	.Karizma { background-position: 0px -360px; }
+	.KarizmaZMR { background-position: 0px -400px; }
+	.PassionPRO { background-position: 0px -440px; }
+	.PassionPROTR { background-position: 0px -480px; }
+	.PassionXPRO { background-position: 0px -520px; }
+	.SplendoriSmart { background-position: 0px -560px; }
+	.SplendorPlus { background-position: 0px -600px; }
+	.SplendorPRO { background-position: 0px -640px; }
+	.SplendorPROClassic { background-position: 0px -680px; }
+	.SuperSplendor { background-position: 0px -720px; }
+	.Xtreme { background-position: 0px -760px; }
+	.XtremeSports { background-position: 0px -800px; }
+
+	.Honda_MC { background-image: url('../../images/list/motorCycle/honda_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.CB1000R { background-position: 0px 0px; }
+	.CBFStunner { background-position: 0px -40px; }
+	.CBR1000RR { background-position: 0px -80px; }
+	.CBR150R { background-position: 0px -120px; }
+	.CBR250R { background-position: 0px -160px; }
+	.CBShine { background-position: 0px -200px; }
+	.CBTrigger { background-position: 0px -240px; }
+	.CBTwister { background-position: 0px -280px; }
+	.CBUnicorn160 { background-position: 0px -320px; }
+	.CD110Dream { background-position: 0px -360px; }
+	.DreamNeo { background-position: 0px -400px; }
+	.DreamYuga { background-position: 0px -440px; }
+	.GoldWing { background-position: 0px -480px; }
+	.Livo { background-position: 0px -520px; }
+	.VFR1200F { background-position: 0px -560px; }
+	.VT1300CX { background-position: 0px -600px; }
+
+	.Hyosung_MC { background-image: url('../../images/list/motorCycle/hyosung_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Aquila250 { background-position: 0px 0px; }
+	.AquilaPro { background-position: 0px -40px; }
+	.GT250R { background-position: 0px -80px; }
+	.GT650N { background-position: 0px -120px; }
+	.GT650R { background-position: 0px -160px; }
+	.ST7 { background-position: 0px -200px; }
+
+	.Indian_MC { background-image: url('../../images/list/motorCycle/indian_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.ChiefClassic { background-position: 0px 0px; }
+	.ChiefDarkHorse { background-position: 0px -40px; }
+	.Chieftain { background-position: 0px -80px; }
+	.ChiefVintage { background-position: 0px -120px; }
+	.Roadmaster { background-position: 0px -160px; }
+	.Scout { background-position: 0px -200px; }
+
+	.KTM_MC { background-image: url('../../images/list/motorCycle/ktm_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Duke200 { background-position: 0px 0px; }
+	.Duke390 { background-position: 0px -40px; }
+	.RC200 { background-position: 0px -80px; }
+	.RC390 { background-position: 0px -120px; }
+
+	.Mahindra_MC { background-image: url('../../images/list/motorCycle/mahindra_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Centuro { background-position: 0px 0px; }
+	.CenturoRockstar { background-position: 0px -40px; }
+	.Pantero { background-position: 0px -80px; }
+
+	.RoyalEnfield_MC { background-image: url('../../images/list/motorCycle/royalEnfield_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Bullet350 { background-position: 0px 0px; }
+	.Bullet500 { background-position: 0px -40px; }
+	.BulletElectra { background-position: 0px -80px; }
+	.Classic350 { background-position: 0px -120px; }
+	.Classic500 { background-position: 0px -160px; }
+	.ClassicBattleGreen { background-position: 0px -200px; }
+	.ClassicChrome { background-position: 0px -240px; }
+	.ClassicDesertStorm { background-position: 0px -280px; }
+	.ContinentalGT { background-position: 0px -320px; }
+	.Thunderbird350 { background-position: 0px -360px; }
+	.Thunderbird500 { background-position: 0px -400px; }
+
+	.Suzuki_MC { background-image: url('../../images/list/motorCycle/suzuki_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Bandit1250SA { background-position: 0px 0px; }
+	.Gixxer { background-position: 0px -40px; }
+	.GixxerSF { background-position: 0px -80px; }
+	.GS150R { background-position: 0px -120px; }
+	.GSX-R1000ABS { background-position: 0px -160px; }
+	.GSX-S1000ABS { background-position: 0px -200px; }
+	.GSX-S1000FABS { background-position: 0px -240px; }
+	.Hayabusa { background-position: 0px -280px; }
+	.HayabusaZ { background-position: 0px -320px; }
+	.Hayate { background-position: 0px -360px; }
+	.IntruderM1800R-BOSS { background-position: 0px -400px; }
+	.IntruderM1800R { background-position: 0px -440px; }
+	.IntruderM800 { background-position: 0px -480px; }
+	.SlingshotPlus { background-position: 0px -520px; }
+	.V-Strom { background-position: 0px -560px; }
+
+	.TVS_MC { background-image: url('../../images/list/motorCycle/tvs_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.Apache160 { background-position: 0px 0px; }
+	.Apache180 { background-position: 0px -40px; }
+	.ApacheRTR180ABS { background-position: 0px -80px; }
+	.Jive { background-position: 0px -120px; }
+	.MAX4R { background-position: 0px -160px; }
+	.Phoenix125 { background-position: 0px -200px; }
+	.Sport { background-position: 0px -240px; }
+	.StarCityPlus { background-position: 0px -280px; }
+
+	.Yamaha_MC { background-image: url('../../images/list/motorCycle/yamaha_mc_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
+	.CRUX { background-position: 0px 0px; }
+	.FAZER { background-position: 0px -40px; }
+	.FAZERFIVER2 { background-position: 0px -80px; }
+	.FZ { background-position: 0px -120px; }
+	.FZFIVER2 { background-position: 0px -160px; }
+	.FZS { background-position: 0px -200px; }
+	.FZSFIVER2 { background-position: 0px -240px; }
+	.SALUTO { background-position: 0px -280px; }
+	.SS125 { background-position: 0px -320px; }
+	.SZ-RR { background-position: 0px -360px; }
+	.SZ-RRVER2 { background-position: 0px -400px; }
+	.SZ-S { background-position: 0px -440px; }
+	.YBR110 { background-position: 0px -480px; }
+	.YBR125 { background-position: 0px -520px; }
+	.YZFR15VER2 { background-position: 0px -560px; }
+}
+
+/* Apple iPhone 6 Plus - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 414px) {
+
+}
+
+/* Google Nexus 5X - Portrait, Google Nexus 6 - Portrait, Google Nexus 6P - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 412px) {
+
+}
+
+/* Samsung Galaxy Note - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 400px) {
+
+}
+
+/* BlackBerry Z10 - Portrait, Google Nexus 4 - Portrait, LG Optimus G - Portrait, LG Optimus L70 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 384px) {
+
+}
+
+/* Apple iPhone 6 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 375px) {
+
+}
+
+/* BlackBerry Z30 - Portrait, Google Nexus 5 - Portrait, Galaxy Note 3 - Portrait, Galaxy Note II - Portrait, Galaxy S III - Portrait, Galaxy S5 - Portrait, HTC One X - Portrait, EVO LTE - Portrait, HTC Sensation - Portrait, EVO 3D - Portrait, Nokia N9 - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 360px) {
+
+}
+
+/* Apple iPhone 3GS - Portrait, iPhone 4 - Portrait, iPhone 5 - Portrait/ Google Nexus S - Portrait/ HTC Evo - Portrait, Touch HD - Portrait, Desire HD - Portrait, Desire - Portrait/ LG Optimus 2X - Portrait, Optimus 3D - Portrait, Optimus Black - Portrait/  Motorola Defy - Portrait, Droid - Portrait, Droid X - Portrait, Milestone - Portrait/ Nokia Lumia 7X0 - Portrait, Lumia 8XX - Portrait, Lumia 900 - Portrait, N800 - Portrait, N810 - Portrait, N900 - Portrait, 520 - Portrait/ Samsung Galaxy S - Portrait, SII - Portrait, W/ - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 320px) {
+
+}
+
+/* LG Optimus One - Portrait */
+@media only screen and /*!YUI-Compressor */ (max-width: 213px) {
+	.Aprilia_MC { background-image: url('../../images/list/motorCycle/aprilia_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Caponord1200ABS { background-position: 0px 0px; }
+	.Caponord1200ABSADD { background-position: 0px -30px; }
+	.DORSODURO1200ATC-ABS { background-position: 0px -60px; }
+	.MANA850GT { background-position: 0px -90px; }
+	.RSV4FACTORYABS { background-position: 0px -120px; }
+	.RSV4RABS { background-position: 0px -150px; }
+	.SRV850 { background-position: 0px -180px; }
+	.SRV850ATC-ABS { background-position: 0px -210px; }
+	.TUONOV4RAPRC { background-position: 0px -240px; }
+
+	.Bajaj_MC { background-image: url('../../images/list/motorCycle/bajaj_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Avenger220DTS-i { background-position: 0px 0px; }
+	.CT100 { background-position: 0px -30px; }
+	.Discover100 { background-position: 0px -60px; }
+	.Discover100M { background-position: 0px -90px; }
+	.Discover125M { background-position: 0px -120px; }
+	.NewDiscover125 { background-position: 0px -150px; }
+	.NewDiscover150 { background-position: 0px -180px; }
+	.Ninja300 { background-position: 0px -210px; }
+	.Ninja650R { background-position: 0px -240px; }
+	.Platina100 { background-position: 0px -270px; }
+	.Platina100ES { background-position: 0px -300px; }
+	.Pulsar135LS { background-position: 0px -330px; }
+	.Pulsar150 { background-position: 0px -360px; }
+	.Pulsar180 { background-position: 0px -390px; }
+	.Pulsar200NS { background-position: 0px -420px; }
+	.Pulsar220 { background-position: 0px -450px; }
+	.PulsarAS200-150 { background-position: 0px -480px; }
+	.PulsarRS200 { background-position: 0px -510px; }
+
+	.DskBenelli_MC { background-image: url('../../images/list/motorCycle/dskBenelli_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.TNT300 { background-position: 0px 0px; }
+	.TNT600GT { background-position: 0px -30px; }
+	.TNT600i { background-position: 0px -60px; }
+	.TNT899 { background-position: 0px -90px; }
+	.TNTR { background-position: 0px -120px; }
+
+	.Ducati_MC { background-image: url('../../images/list/motorCycle/ducati_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Diavel { background-position: 0px 0px; }
+	.DiavelCarbon { background-position: 0px -30px; }
+	.DiavelTitanium { background-position: 0px -60px; }
+	.Hypermotard { background-position: 0px -90px; }
+	.Hyperstrada { background-position: 0px -120px; }
+	.Monster-S2R { background-position: 0px -150px; }
+	.Monster795 { background-position: 0px -180px; }
+	.Superbike-1299Panigale { background-position: 0px -210px; }
+	.Superbike-1299PanigaleS { background-position: 0px -240px; }
+	.Superbike-899Panigale { background-position: 0px -270px; }
+	.Superbike-PanigaleR { background-position: 0px -300px; }
+
+	.HarleyDavidson_MC { background-image: url('../../images/list/motorCycle/harleyDavidson_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.CVOLimited { background-position: 0px 0px; }
+	.Dyna-FatBob { background-position: 0px -30px; }
+	.Dyna-StreetBob { background-position: 0px -60px; }
+	.Softail-Breakout { background-position: 0px -90px; }
+	.Softail-FatBoy { background-position: 0px -120px; }
+	.Softail-HeritageSoftailClassic { background-position: 0px -150px; }
+	.Sportster-Forty-Eight { background-position: 0px -180px; }
+	.Sportster-Iron883 { background-position: 0px -210px; }
+	.Sportster-SuperLow { background-position: 0px -240px; }
+	.Street750 { background-position: 0px -270px; }
+	.Touring-StreetGlideSpecial { background-position: 0px -300px; }
+	.V-Rod-NightRodSpecial { background-position: 0px -330px; }
+
+	.Hero_MC { background-image: url('../../images/list/motorCycle/hero_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Achiever { background-position: 0px 0px; }
+	.Glamour { background-position: 0px -30px; }
+	.GlamourProgrammedFI { background-position: 0px -60px; }
+	.HFDawn { background-position: 0px -90px; }
+	.HFDeluxe { background-position: 0px -120px; }
+	.HFDeluxeEco { background-position: 0px -150px; }
+	.Hunk { background-position: 0px -180px; }
+	.Ignitor { background-position: 0px -210px; }
+	.Impulse { background-position: 0px -240px; }
+	.Karizma { background-position: 0px -270px; }
+	.KarizmaZMR { background-position: 0px -300px; }
+	.PassionPRO { background-position: 0px -330px; }
+	.PassionPROTR { background-position: 0px -360px; }
+	.PassionXPRO { background-position: 0px -390px; }
+	.SplendoriSmart { background-position: 0px -420px; }
+	.SplendorPlus { background-position: 0px -450px; }
+	.SplendorPRO { background-position: 0px -480px; }
+	.SplendorPROClassic { background-position: 0px -510px; }
+	.SuperSplendor { background-position: 0px -540px; }
+	.Xtreme { background-position: 0px -570px; }
+	.XtremeSports { background-position: 0px -600px; }
+
+	.Honda_MC { background-image: url('../../images/list/motorCycle/honda_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.CB1000R { background-position: 0px 0px; }
+	.CBFStunner { background-position: 0px -30px; }
+	.CBR1000RR { background-position: 0px -60px; }
+	.CBR150R { background-position: 0px -90px; }
+	.CBR250R { background-position: 0px -120px; }
+	.CBShine { background-position: 0px -150px; }
+	.CBTrigger { background-position: 0px -180px; }
+	.CBTwister { background-position: 0px -210px; }
+	.CBUnicorn160 { background-position: 0px -240px; }
+	.CD110Dream { background-position: 0px -270px; }
+	.DreamNeo { background-position: 0px -300px; }
+	.DreamYuga { background-position: 0px -330px; }
+	.GoldWing { background-position: 0px -360px; }
+	.Livo { background-position: 0px -390px; }
+	.VFR1200F { background-position: 0px -420px; }
+	.VT1300CX { background-position: 0px -450px; }
+
+	.Hyosung_MC { background-image: url('../../images/list/motorCycle/hyosung_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Aquila250 { background-position: 0px 0px; }
+	.AquilaPro { background-position: 0px -30px; }
+	.GT250R { background-position: 0px -60px; }
+	.GT650N { background-position: 0px -90px; }
+	.GT650R { background-position: 0px -120px; }
+	.ST7 { background-position: 0px -150px; }
+
+	.Indian_MC { background-image: url('../../images/list/motorCycle/indian_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.ChiefClassic { background-position: 0px 0px; }
+	.ChiefDarkHorse { background-position: 0px -30px; }
+	.Chieftain { background-position: 0px -60px; }
+	.ChiefVintage { background-position: 0px -90px; }
+	.Roadmaster { background-position: 0px -120px; }
+	.Scout { background-position: 0px -150px; }
+
+	.KTM_MC { background-image: url('../../images/list/motorCycle/ktm_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Duke200 { background-position: 0px 0px; }
+	.Duke390 { background-position: 0px -30px; }
+	.RC200 { background-position: 0px -60px; }
+	.RC390 { background-position: 0px -90px; }
+
+	.Mahindra_MC { background-image: url('../../images/list/motorCycle/mahindra_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Centuro { background-position: 0px 0px; }
+	.CenturoRockstar { background-position: 0px -30px; }
+	.Pantero { background-position: 0px -60px; }
+
+	.RoyalEnfield_MC { background-image: url('../../images/list/motorCycle/royalEnfield_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Bullet350 { background-position: 0px 0px; }
+	.Bullet500 { background-position: 0px -30px; }
+	.BulletElectra { background-position: 0px -60px; }
+	.Classic350 { background-position: 0px -90px; }
+	.Classic500 { background-position: 0px -120px; }
+	.ClassicBattleGreen { background-position: 0px -150px; }
+	.ClassicChrome { background-position: 0px -180px; }
+	.ClassicDesertStorm { background-position: 0px -210px; }
+	.ContinentalGT { background-position: 0px -240px; }
+	.Thunderbird350 { background-position: 0px -270px; }
+	.Thunderbird500 { background-position: 0px -300px; }
+
+	.Suzuki_MC { background-image: url('../../images/list/motorCycle/suzuki_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Bandit1250SA { background-position: 0px 0px; }
+	.Gixxer { background-position: 0px -30px; }
+	.GixxerSF { background-position: 0px -60px; }
+	.GS150R { background-position: 0px -90px; }
+	.GSX-R1000ABS { background-position: 0px -120px; }
+	.GSX-S1000ABS { background-position: 0px -150px; }
+	.GSX-S1000FABS { background-position: 0px -180px; }
+	.Hayabusa { background-position: 0px -210px; }
+	.HayabusaZ { background-position: 0px -240px; }
+	.Hayate { background-position: 0px -270px; }
+	.IntruderM1800R-BOSS { background-position: 0px -300px; }
+	.IntruderM1800R { background-position: 0px -330px; }
+	.IntruderM800 { background-position: 0px -360px; }
+	.SlingshotPlus { background-position: 0px -390px; }
+	.V-Strom { background-position: 0px -420px; }
+
+	.TVS_MC { background-image: url('../../images/list/motorCycle/tvs_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.Apache160 { background-position: 0px 0px; }
+	.Apache180 { background-position: 0px -30px; }
+	.ApacheRTR180ABS { background-position: 0px -60px; }
+	.Jive { background-position: 0px -90px; }
+	.MAX4R { background-position: 0px -120px; }
+	.Phoenix125 { background-position: 0px -150px; }
+	.Sport { background-position: 0px -180px; }
+	.StarCityPlus { background-position: 0px -210px; }
+
+	.Yamaha_MC { background-image: url('../../images/list/motorCycle/yamaha_mc_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
+	.CRUX { background-position: 0px 0px; }
+	.FAZER { background-position: 0px -30px; }
+	.FAZERFIVER2 { background-position: 0px -60px; }
+	.FZ { background-position: 0px -90px; }
+	.FZFIVER2 { background-position: 0px -120px; }
+	.FZS { background-position: 0px -150px; }
+	.FZSFIVER2 { background-position: 0px -180px; }
+	.SALUTO { background-position: 0px -210px; }
+	.SS125 { background-position: 0px -240px; }
+	.SZ-RR { background-position: 0px -270px; }
+	.SZ-RRVER2 { background-position: 0px -300px; }
+	.SZ-S { background-position: 0px -330px; }
+	.YBR110 { background-position: 0px -360px; }
+	.YBR125 { background-position: 0px -390px; }
+	.YZFR15VER2 { background-position: 0px -420px; }
+}
+/*************************************************************************@media query - end********************************************************/

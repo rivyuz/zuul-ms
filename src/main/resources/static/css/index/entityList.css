@@ -1,0 +1,109 @@
+.camera_list ,
+.car_list,
+.Cats_list,
+.dog_list,
+.fitness_center_list,
+.fragrance_list,
+.motor_cycle_list,
+.movie_list,
+.night_life_list,
+.OnlineStore_list,
+.PackersAndMovers_list,
+.restaurant_list,
+.salon_list,
+.scooter_list,
+.spa_center_list,
+.tattoo_parlor_list {
+	border: 1px solid rgba(0, 0, 0, .1);
+	border-radius:3px;
+	display:none;
+	height: auto;
+	left: 37.5%;
+	position: fixed;
+	top: 60px;
+	width: 25%;	
+}
+
+.entity {
+	background-color: white;
+	border: 0px none white !important;
+	border-color: white !important;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 100%;
+	width: auto;
+	height: auto;
+	cursor: pointer;
+	text-align: center;
+	padding: 5px;	
+}
+
+.entity:hover {
+	background-color: lightgrey;
+}
+/*************************************************************************@media query - begin******************************************************/
+@media only screen and /*!YUI-Compressor */ (max-width: 2560px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 1920px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 1600px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 1440px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 1366px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 1280px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 1024px){}
+
+@media only screen and /*!YUI-Compressor */ (max-width: 960px){
+	.camera_list,
+	.car_list,
+	.Cats_list,
+	.dog_list,
+	.fitness_center_list,
+	.fragrance_list,
+	.motor_cycle_list,
+	.movie_list,
+	.night_life_list,
+	.OnlineStore_list,
+	.PackersAndMovers_list,
+	.restaurant_list,
+	.salon_list,
+	.scooter_list,
+	.spa_center_list,
+	.tattoo_parlor_list {
+		left: 0%;
+		width: 100%;
+		overflow-y: scroll;
+		height: 100%;
+		padding-bottom: 65px;
+	}
+}
+
+@media only screen and /*!YUI-Compressor */ (max-width: 854px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 823px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 812px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 800px){}
+
+@media only screen and /*!YUI-Compressor */ (max-width: 768px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 736px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 732px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 731px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 720px){}
+
+@media only screen and /*!YUI-Compressor */ (max-width: 667px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 640px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 600px){}
+
+@media only screen and /*!YUI-Compressor */ (max-width: 568px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 540px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 533px){}
+
+@media only screen and /*!YUI-Compressor */ (max-width: 480px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 424px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 414px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 412px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 411px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 400px){}
+
+@media only screen and /*!YUI-Compressor */ (max-width: 384px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 375px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 360px){}
+@media only screen and /*!YUI-Compressor */ (max-width: 320px){}
+
+@media only screen and /*!YUI-Compressor */ (max-width: 213px){}
+/*************************************************************************@media query - end********************************************************/
