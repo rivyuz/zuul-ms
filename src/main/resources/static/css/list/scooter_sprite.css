@@ -1,8 +1,8 @@
-.Hero_SR { background-image: url('../../images/list/scooter/hero_sr_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Hero_SR { background-image: url('../../images/list/scooter/sctr.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .Maestro { background-position: 0px 0px; }
 .Pleasure { background-position: 0px -60px; }
 
-.Honda_SR { background-image: url('../../images/list/scooter/honda_sr_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Honda_SR { background-image: url('../../images/list/scooter/sctr.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .Activa { background-position: 0px 0px; }
 .Activa_125 { background-position: 0px -60px; }
 .Activa_3G { background-position: 0px -120px; }
@@ -10,13 +10,13 @@
 .Aviator { background-position: 0px -240px; }
 .Dio { background-position: 0px -300px; }
 
-.LML_SR { background-image: url('../../images/list/scooter/lml_sr_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.LML_SR { background-image: url('../../images/list/scooter/sctr.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .NV_2Stroke { background-position: 0px 0px; }
 .NV_4Stroke { background-position: 0px -60px; }
 .StarEuro_150_gearless { background-position: 0px -120px; }
 .StarEuro_200 { background-position: 0px -180px; }
 
-.Mahindra_SR { background-image: url('../../images/list/scooter/mahindra_sr_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Mahindra_SR { background-image: url('../../images/list/scooter/sctr.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .Duro_DZ { background-position: 0px 0px; }
 .Flyte { background-position: 0px -60px; }
 .Gusto { background-position: 0px -120px; }
@@ -24,270 +24,29 @@
 .Rodeo_RZ { background-position: 0px -240px; }
 .Rodeo_UZO_125 { background-position: 0px -300px; }
 
-.Suzuki_SR { background-image: url('../../images/list/scooter/suzuki_sr_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Suzuki_SR { background-image: url('../../images/list/scooter/sctr.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .Access_125 { background-position: 0px 0px; }
 .Access_125_SE { background-position: 0px -60px; }
 .Lets { background-position: 0px -120px; }
 .Swish_125 { background-position: 0px -180px; }
 
-.TVS_SR { background-image: url('../../images/list/scooter/tvs_sr_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.TVS_SR { background-image: url('../../images/list/scooter/sctr.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .Jupiter { background-position: 0px 0px; }
 .Scooty_Pep_Plus { background-position: 0px -60px; }
 .Scooty_Streak { background-position: 0px -120px; }
 .Scooty_Zest_110 { background-position: 0px -180px; }
 .Wego_110 { background-position: 0px -240px; }
 
-.Vespa_SR { background-image: url('../../images/list/scooter/vespa_sr_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Vespa_SR { background-image: url('../../images/list/scooter/sctr.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .Elegante { background-position: 0px 0px; }
 .S { background-position: 0px -60px; }
 .Vespa { background-position: 0px -120px; }
 .VX { background-position: 0px -180px; }
 
-.Yamaha_SR { background-image: url('../../images/list/scooter/yamaha_sr_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.Yamaha_SR { background-image: url('../../images/list/scooter/sctr.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .Alpha { background-position: 0px 0px; }
 .Fascino { background-position: 0px -60px; }
 .Ray { background-position: 0px -120px; }
 .Ray_Z { background-position: 0px -180px; }
 
 /*************************************************************************@media query - begin******************************************************/
-/* Amazon kindle fire - hd * 8.9" - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 2560px) {
-
-}
-
-/* Desktop - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 1920px) {
-
-}
-
-/* Amazon kindle fire - hd * 8.9" - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 1600px) {
-
-}
-
-/* Laptop with HiDPI screen - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 1440px) {
-
-}
-
-/* Desktop - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 1366px) {
-
-}
-
-/* Google Nexus 10 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 1280px) {
-
-}
-
-/* Amazon Kindle Fire(First Generation) - Landscape/ Apple iPad 1, 2, 3, 4, Mini - Landscape/ BlackBerry PlayBook - Landscape/ Samsung Galaxy Tab - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 1024px) {
-
-}
-
-/* Google Nexus 7 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 960px) {
-
-}
-
-/* Google Nexus 10 - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 800px) {
-
-}
-
-/* Apple iPad, iPad Mini - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 768px) {
-
-}
-/* Apple iPhone 6 Plus - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 736px) {
-
-}
-/* Google Nexus 6 - Landscape, Google Nexus 6P - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 732px) {
-
-}
-
-/*Motorola Droid Razr HD*/
-@media only screen and /*!YUI-Compressor */ (max-width: 720px) {
-
-}
-
-/* Apple iPhone 6 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 667px) {
-
-}
-
-/* BlackBerry Z30 - Landscape, Galaxy Note 3 - Landscape,  Galaxy Note II - Landscape, Galaxy S III - Landscape, LG Optimus L70 - Landscape, Google Nexus 4 - Landscape, Google Nexus 5 - Landscape, Nokia N9 - Landscape, Galaxy S5 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 640px) {
-
-}
-
-/* BlackBerry Playbook - Portrait, Google Nexus 7 - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 600px) {
-
-}
-
-/* Apple iPhone 5 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 568px) {
-
-}
-
-/* Motorola Droid 3, Droid 4, Droid Razr, Atrix 4G, Atrix 2 */
-@media only screen and /*!YUI-Compressor */ (max-width: 540px) {
-
-}
-
-/* Nokia Lumia 520 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 533px) {
-
-}
-
-/* Apple iPhone 4 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 480px) {
-
-}
-
-/* LG Optimus LTE - Portrait, Optimus 4X HD - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 424px) {
-	.Hero_SR { background-image: url('../../images/list/scooter/hero_sr_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.Maestro { background-position: 0px 0px; }
-	.Pleasure { background-position: 0px -40px; }
-
-	.Honda_SR { background-image: url('../../images/list/scooter/honda_sr_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.Activa { background-position: 0px 0px; }
-	.Activa_125 { background-position: 0px -40px; }
-	.Activa_3G { background-position: 0px -80px; }
-	.Activa_i { background-position: 0px -120px; }
-	.Aviator { background-position: 0px -160px; }
-	.Dio { background-position: 0px -200px; }
-
-	.LML_SR { background-image: url('../../images/list/scooter/lml_sr_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.NV_2Stroke { background-position: 0px 0px; }
-	.NV_4Stroke { background-position: 0px -40px; }
-	.StarEuro_150_gearless { background-position: 0px -80px; }
-	.StarEuro_200 { background-position: 0px -120px; }
-
-	.Mahindra_SR { background-image: url('../../images/list/scooter/mahindra_sr_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.Duro_DZ { background-position: 0px 0px; }
-	.Flyte { background-position: 0px -40px; }
-	.Gusto { background-position: 0px -80px; }
-	.Kine { background-position: 0px -120px; }
-	.Rodeo_RZ { background-position: 0px -160px; }
-	.Rodeo_UZO_125 { background-position: 0px -200px; }
-
-	.Suzuki_SR { background-image: url('../../images/list/scooter/suzuki_sr_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.Access_125 { background-position: 0px 0px; }
-	.Access_125_SE { background-position: 0px -40px; }
-	.Lets { background-position: 0px -80px; }
-	.Swish_125 { background-position: 0px -120px; }
-
-	.TVS_SR { background-image: url('../../images/list/scooter/tvs_sr_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.Jupiter { background-position: 0px 0px; }
-	.Scooty_Pep_Plus { background-position: 0px -40px; }
-	.Scooty_Streak { background-position: 0px -80px; }
-	.Scooty_Zest_110 { background-position: 0px -120px; }
-	.Wego_110 { background-position: 0px -160px; }
-
-	.Vespa_SR { background-image: url('../../images/list/scooter/vespa_sr_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.Elegante { background-position: 0px 0px; }
-	.S { background-position: 0px -40px; }
-	.Vespa { background-position: 0px -80px; }
-	.VX { background-position: 0px -120px; }
-
-	.Yamaha_SR { background-image: url('../../images/list/scooter/yamaha_sr_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.Alpha { background-position: 0px 0px; }
-	.Fascino { background-position: 0px -40px; }
-	.Ray { background-position: 0px -80px; }
-	.Ray_Z { background-position: 0px -120px; }
-}
-
-/* Apple iPhone 6 Plus - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 414px) {
-
-}
-
-/* Google Nexus 5X - Portrait, Google Nexus 6 - Portrait, Google Nexus 6P - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 412px) {
-
-}
-
-/* Samsung Galaxy Note - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 400px) {
-
-}
-
-/* BlackBerry Z10 - Portrait, Google Nexus 4 - Portrait, LG Optimus G - Portrait, LG Optimus L70 - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 384px) {
-
-}
-
-/* Apple iPhone 6 - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 375px) {
-
-}
-
-/* BlackBerry Z30 - Portrait, Google Nexus 5 - Portrait, Galaxy Note 3 - Portrait, Galaxy Note II - Portrait, Galaxy S III - Portrait, Galaxy S5 - Portrait, HTC One X - Portrait, EVO LTE - Portrait, HTC Sensation - Portrait, EVO 3D - Portrait, Nokia N9 - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 360px) {
-
-}
-
-/* Apple iPhone 3GS - Portrait, iPhone 4 - Portrait, iPhone 5 - Portrait/ Google Nexus S - Portrait/ HTC Evo - Portrait, Touch HD - Portrait, Desire HD - Portrait, Desire - Portrait/ LG Optimus 2X - Portrait, Optimus 3D - Portrait, Optimus Black - Portrait/  Motorola Defy - Portrait, Droid - Portrait, Droid X - Portrait, Milestone - Portrait/ Nokia Lumia 7X0 - Portrait, Lumia 8XX - Portrait, Lumia 900 - Portrait, N800 - Portrait, N810 - Portrait, N900 - Portrait, 520 - Portrait/ Samsung Galaxy S - Portrait, SII - Portrait, W/ - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 320px) {
-
-}
-
-/* LG Optimus One - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 213px) {
-	.Hero_SR { background-image: url('../../images/list/scooter/hero_sr_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.Maestro { background-position: 0px 0px; }
-	.Pleasure { background-position: 0px -30px; }
-
-	.Honda_SR { background-image: url('../../images/list/scooter/honda_sr_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.Activa { background-position: 0px 0px; }
-	.Activa_125 { background-position: 0px -30px; }
-	.Activa_3G { background-position: 0px -60px; }
-	.Activa_i { background-position: 0px -90px; }
-	.Aviator { background-position: 0px -120px; }
-	.Dio { background-position: 0px -150px; }
-
-	.LML_SR { background-image: url('../../images/list/scooter/lml_sr_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.NV_2Stroke { background-position: 0px 0px; }
-	.NV_4Stroke { background-position: 0px -30px; }
-	.StarEuro_150_gearless { background-position: 0px -60px; }
-	.StarEuro_200 { background-position: 0px -90px; }
-
-	.Mahindra_SR { background-image: url('../../images/list/scooter/mahindra_sr_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.Duro_DZ { background-position: 0px 0px; }
-	.Flyte { background-position: 0px -30px; }
-	.Gusto { background-position: 0px -60px; }
-	.Kine { background-position: 0px -90px; }
-	.Rodeo_RZ { background-position: 0px -120px; }
-	.Rodeo_UZO_125 { background-position: 0px -150px; }
-
-	.Suzuki_SR { background-image: url('../../images/list/scooter/suzuki_sr_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.Access_125 { background-position: 0px 0px; }
-	.Access_125_SE { background-position: 0px -30px; }
-	.Lets { background-position: 0px -60px; }
-	.Swish_125 { background-position: 0px -90px; }
-
-	.TVS_SR { background-image: url('../../images/list/scooter/tvs_sr_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.Jupiter { background-position: 0px 0px; }
-	.Scooty_Pep_Plus { background-position: 0px -30px; }
-	.Scooty_Streak { background-position: 0px -60px; }
-	.Scooty_Zest_110 { background-position: 0px -90px; }
-	.Wego_110 { background-position: 0px -120px; }
-
-	.Vespa_SR { background-image: url('../../images/list/scooter/vespa_sr_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.Elegante { background-position: 0px 0px; }
-	.S { background-position: 0px -30px; }
-	.Vespa { background-position: 0px -60px; }
-	.VX { background-position: 0px -90px; }
-
-	.Yamaha_SR { background-image: url('../../images/list/scooter/yamaha_sr_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.Alpha { background-position: 0px 0px; }
-	.Fascino { background-position: 0px -30px; }
-	.Ray { background-position: 0px -60px; }
-	.Ray_Z { background-position: 0px -90px; }
-}
-/*************************************************************************@media query - end********************************************************/

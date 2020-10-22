@@ -1,1948 +1,603 @@
 /************************************************Bangalore Salons BEGIN************************************************/
-.BENGALURU_BBLUNT { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_BBLUNT { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_bblunt_men { background-position: 0px 0px; }
 .bengaluru_bblunt_unisex { background-position: 0px -60px; }
 .bengaluru_bblunt_women { background-position: 0px -120px; }
 
-.BENGALURU_BODYCRAFT { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_BODYCRAFT { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_bodycraft_men { background-position: 0px 0px; }
 .bengaluru_bodycraft_unisex { background-position: 0px -60px; }
 .bengaluru_bodycraft_women { background-position: 0px -120px; }
 
-.BENGALURU_CLUBCITRUS { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_CLUBCITRUS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_clubcitrus_men { background-position: 0px 0px; }
 .bengaluru_clubcitrus_unisex { background-position: 0px -60px; }
 .bengaluru_clubcitrus_women { background-position: 0px -120px; }
 
-.BENGALURU_ENRICH { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_ENRICH { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_enrich_men { background-position: 0px 0px; }
 .bengaluru_enrich_unisex { background-position: 0px -60px; }
 .bengaluru_enrich_women { background-position: 0px -120px; }
 
-.BENGALURU_GREENTRENDS { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_GREENTRENDS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_greentrends_men { background-position: 0px 0px; }
 .bengaluru_greentrends_unisex { background-position: 0px -60px; }
 .bengaluru_greentrends_women { background-position: 0px -120px; }
 
-.BENGALURU_JAWEDHABIB { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_JAWEDHABIB { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_jawedhabib_men { background-position: 0px 0px; }
 .bengaluru_jawedhabib_unisex { background-position: 0px -60px; }
 .bengaluru_jawedhabib_women { background-position: 0px -120px; }
 
-.BENGALURU_JEANCLAUDEBIGUINE { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_JEANCLAUDEBIGUINE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_jeanclaudebiguine_men { background-position: 0px 0px; }
 .bengaluru_jeanclaudebiguine_unisex { background-position: 0px -60px; }
 .bengaluru_jeanclaudebiguine_women { background-position: 0px -120px; }
 
-.BENGALURU_LAKME { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_LAKME { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_lakme_men { background-position: 0px 0px; }
 .bengaluru_lakme_unisex { background-position: 0px -60px; }
 .bengaluru_lakme_women { background-position: 0px -120px; }
 
-.BENGALURU_LIMELITE { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_LIMELITE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_limelite_men { background-position: 0px 0px; }
 .bengaluru_limelite_unisex { background-position: 0px -60px; }
 .bengaluru_limelite_women { background-position: 0px -120px; }
 
-.BENGALURU_NATURALS { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_NATURALS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_naturals_men { background-position: 0px 0px; }
 .bengaluru_naturals_unisex { background-position: 0px -60px; }
 .bengaluru_naturals_women { background-position: 0px -120px; }
 
-.BENGALURU_OHWOW { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_OHWOW { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_ohwow_men { background-position: 0px 0px; }
 .bengaluru_ohwow_unisex { background-position: 0px -60px; }
 .bengaluru_ohwow_women { background-position: 0px -120px; }
 
-.BENGALURU_PLAY { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_PLAY { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_play_men { background-position: 0px 0px; }
 .bengaluru_play_unisex { background-position: 0px -60px; }
 .bengaluru_play_women { background-position: 0px -120px; }
 
-.BENGALURU_ROSSANOFERRETTI { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_ROSSANOFERRETTI { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_rossanoferretti_men { background-position: 0px 0px; }
 .bengaluru_rossanoferretti_unisex { background-position: 0px -60px; }
 .bengaluru_rossanoferretti_women { background-position: 0px -120px; }
 
-.BENGALURU_TONIGUY { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_TONIGUY { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_toniguy_men { background-position: 0px 0px; }
 .bengaluru_toniguy_unisex { background-position: 0px -60px; }
 .bengaluru_toniguy_women { background-position: 0px -120px; }
 
-.BENGALURU_YLG { background-image: url('../../images/list/salon/bengaluru/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
+.BENGALURU_YLG { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99;}
 .bengaluru_ylg_men { background-position: 0px 0px; }
 .bengaluru_ylg_unisex { background-position: 0px -60px; }
 .bengaluru_ylg_women { background-position: 0px -120px; }
 /************************************************Bangalore Salons END***************************************************/
 
 /************************************************Chandigarh Salons BEGIN************************************************/
-.CHANDIGARH_AFFINITY { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_AFFINITY { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_affinity_men { background-position: 0px 0px; }
 .chandigarh_affinity_unisex { background-position: 0px -60px; }
 .chandigarh_affinity_women { background-position: 0px -120px; }
 
-.CHANDIGARH_ATTITUDE { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_ATTITUDE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_attitude_men { background-position: 0px 0px; }
 .chandigarh_attitude_unisex { background-position: 0px -60px; }
 .chandigarh_attitude_women { background-position: 0px -120px; }
 
-.CHANDIGARH_FEMINAPLUS { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_FEMINAPLUS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_feminaplus_men { background-position: 0px 0px; }
 .chandigarh_feminaplus_unisex { background-position: 0px -60px; }
 .chandigarh_feminaplus_women { background-position: 0px -120px; }
 
-.CHANDIGARH_HAIRRAISERZ { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_HAIRRAISERZ { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_hairraiserz_men { background-position: 0px 0px; }
 .chandigarh_hairraiserz_unisex { background-position: 0px -60px; }
 .chandigarh_hairraiserz_women { background-position: 0px -120px; }
 
-.CHANDIGARH_HEADMASTERS { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_HEADMASTERS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_headmasters_men { background-position: 0px 0px; }
 .chandigarh_headmasters_unisex { background-position: 0px -60px; }
 .chandigarh_headmasters_women { background-position: 0px -120px; }
 
-.CHANDIGARH_JAWEDHABIB { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_JAWEDHABIB { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_jawedhabib_men { background-position: 0px 0px; }
 .chandigarh_jawedhabib_unisex { background-position: 0px -60px; }
 .chandigarh_jawedhabib_women { background-position: 0px -120px; }
 
-.CHANDIGARH_LAKME { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_LAKME { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_lakme_men { background-position: 0px 0px; }
 .chandigarh_lakme_unisex { background-position: 0px -60px; }
 .chandigarh_lakme_women { background-position: 0px -120px; }
 
-.CHANDIGARH_LOOKS { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_LOOKS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_looks_men { background-position: 0px 0px; }
 .chandigarh_looks_unisex { background-position: 0px -60px; }
 .chandigarh_looks_women { background-position: 0px -120px; }
 
-.CHANDIGARH_MATRIX { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_MATRIX { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_matrix_men { background-position: 0px 0px; }
 .chandigarh_matrix_unisex { background-position: 0px -60px; }
 .chandigarh_matrix_women { background-position: 0px -120px; }
 
-.CHANDIGARH_STRANDS { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_STRANDS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_strands_men { background-position: 0px 0px; }
 .chandigarh_strands_unisex { background-position: 0px -60px; }
 .chandigarh_strands_women { background-position: 0px -120px; }
 
-.CHANDIGARH_TRESSLOUNGE { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_TRESSLOUNGE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_tresslounge_men { background-position: 0px 0px; }
 .chandigarh_tresslounge_unisex { background-position: 0px -60px; }
 .chandigarh_tresslounge_women { background-position: 0px -120px; }
 
-.CHANDIGARH_VJOHN { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_VJOHN { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_vjohn_men { background-position: 0px 0px; }
 .chandigarh_vjohn_unisex { background-position: 0px -60px; }
 .chandigarh_vjohn_women { background-position: 0px -120px; }
 
-.CHANDIGARH_WAVELENGTH { background-image: url('../../images/list/salon/chandigarh/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHANDIGARH_WAVELENGTH { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chandigarh_wavelength_men { background-position: 0px 0px; }
 .chandigarh_wavelength_unisex { background-position: 0px -60px; }
 .chandigarh_wavelength_women { background-position: 0px -120px; }
 /************************************************Chandigarh Salons END************************************************/
 
 /************************************************Chennai Salons BEGIN*************************************************/
-.CHENNAI_BELLEZZA { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_BELLEZZA { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_bellezza_men { background-position: 0px 0px; }
 .chennai_bellezza_unisex { background-position: 0px -60px; }
 .chennai_bellezza_women { background-position: 0px -120px; }
 
-.CHENNAI_BOUNCE { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_BOUNCE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_bounce_men { background-position: 0px 0px; }
 .chennai_bounce_unisex { background-position: 0px -60px; }
 .chennai_bounce_women { background-position: 0px -120px; }
 
-.CHENNAI_CHILLBREEZE { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_CHILLBREEZE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_chillbreeze_men { background-position: 0px 0px; }
 .chennai_chillbreeze_unisex { background-position: 0px -60px; }
 .chennai_chillbreeze_women { background-position: 0px -120px; }
 
-.CHENNAI_EVERYOUTH { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_EVERYOUTH { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_everyouth_men { background-position: 0px 0px; }
 .chennai_everyouth_unisex { background-position: 0px -60px; }
 .chennai_everyouth_women { background-position: 0px -120px; }
 
-.CHENNAI_GREENTRENDS { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_GREENTRENDS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_greentrends_men { background-position: 0px 0px; }
 .chennai_greentrends_unisex { background-position: 0px -60px; }
 .chennai_greentrends_women { background-position: 0px -120px; }
 
-.CHENNAI_JAWEDHABIB { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_JAWEDHABIB { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_jawedhabib_men { background-position: 0px 0px; }
 .chennai_jawedhabib_unisex { background-position: 0px -60px; }
 .chennai_jawedhabib_women { background-position: 0px -120px; }
 
-.CHENNAI_LAREINA { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_LAREINA { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_lareina_men { background-position: 0px 0px; }
 .chennai_lareina_unisex { background-position: 0px -60px; }
 .chennai_lareina_women { background-position: 0px -120px; }
 
-.CHENNAI_LAKME { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_LAKME { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_lakme_men { background-position: 0px 0px; }
 .chennai_lakme_unisex { background-position: 0px -60px; }
 .chennai_lakme_women { background-position: 0px -120px; }
 
-.CHENNAI_LIMELITE { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_LIMELITE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_limelite_men { background-position: 0px 0px; }
 .chennai_limelite_unisex { background-position: 0px -60px; }
 .chennai_limelite_women { background-position: 0px -120px; }
 
-.CHENNAI_MAHA { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_MAHA { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_maha_men { background-position: 0px 0px; }
 .chennai_maha_unisex { background-position: 0px -60px; }
 .chennai_maha_women { background-position: 0px -120px; }
 
-.CHENNAI_NATURALS { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_NATURALS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_naturals_men { background-position: 0px 0px; }
 .chennai_naturals_unisex { background-position: 0px -60px; }
 .chennai_naturals_women { background-position: 0px -120px; }
 
-.CHENNAI_STUDIO44 { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_STUDIO44 { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_studio44_men { background-position: 0px 0px; }
 .chennai_studio44_unisex { background-position: 0px -60px; }
 .chennai_studio44_women { background-position: 0px -120px; }
 
-.CHENNAI_STUDIOPROFILE { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_STUDIOPROFILE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_studioprofile_men { background-position: 0px 0px; }
 .chennai_studioprofile_unisex { background-position: 0px -60px; }
 .chennai_studioprofile_women { background-position: 0px -120px; }
 
-.CHENNAI_TONIGUY { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_TONIGUY { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_toniguy_men { background-position: 0px 0px; }
 .chennai_toniguy_unisex { background-position: 0px -60px; }
 .chennai_toniguy_women { background-position: 0px -120px; }
 
-.CHENNAI_YLG { background-image: url('../../images/list/salon/chennai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.CHENNAI_YLG { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .chennai_ylg_men { background-position: 0px 0px; }
 .chennai_ylg_unisex { background-position: 0px -60px; }
 .chennai_ylg_women { background-position: 0px -120px; }
 /************************************************Chennai Salons END*************************************************/
 
 /************************************************Delhi Salons BEGIN*************************************************/
-.DELHI_AFFINITY { background-image: url('../../images/list/salon/delhi/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.DELHI_AFFINITY { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .delhi_affinity_men { background-position: 0px 0px; }
 .delhi_affinity_unisex { background-position: 0px -60px; }
 .delhi_affinity_women { background-position: 0px -120px; }
 
-.DELHI_BBLUNT { background-image: url('../../images/list/salon/delhi/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.DELHI_BBLUNT { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .delhi_bblunt_men { background-position: 0px 0px; }
 .delhi_bblunt_unisex { background-position: 0px -60px; }
 .delhi_bblunt_women { background-position: 0px -120px; }
 
-.DELHI_CREME { background-image: url('../../images/list/salon/delhi/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.DELHI_CREME { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .delhi_creme_men { background-position: 0px 0px; }
 .delhi_creme_unisex { background-position: 0px -60px; }
 .delhi_creme_women { background-position: 0px -120px; }
 
-.DELHI_GEETANJALI { background-image: url('../../images/list/salon/delhi/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.DELHI_GEETANJALI { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .delhi_geetanjali_men { background-position: 0px 0px; }
 .delhi_geetanjali_unisex { background-position: 0px -60px; }
 .delhi_geetanjali_women { background-position: 0px -120px; }
 
-.DELHI_GREENTRENDS { background-image: url('../../images/list/salon/delhi/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.DELHI_GREENTRENDS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .delhi_greentrends_men { background-position: 0px 0px; }
 .delhi_greentrends_unisex { background-position: 0px -60px; }
 .delhi_greentrends_women { background-position: 0px -120px; }
 
-.DELHI_JAWEDHABIB { background-image: url('../../images/list/salon/delhi/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.DELHI_JAWEDHABIB { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .delhi_jawedhabib_men { background-position: 0px 0px; }
 .delhi_jawedhabib_unisex { background-position: 0px -60px; }
 .delhi_jawedhabib_women { background-position: 0px -120px; }
 
-.DELHI_LAKME { background-image: url('../../images/list/salon/delhi/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.DELHI_LAKME { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .delhi_lakme_men { background-position: 0px 0px; }
 .delhi_lakme_unisex { background-position: 0px -60px; }
 .delhi_lakme_women { background-position: 0px -120px; }
 
-.DELHI_LOOKS { background-image: url('../../images/list/salon/delhi/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.DELHI_LOOKS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .delhi_looks_men { background-position: 0px 0px; }
 .delhi_looks_unisex { background-position: 0px -60px; }
 .delhi_looks_women { background-position: 0px -120px; }
 
-.DELHI_MONSOON { background-image: url('../../images/list/salon/delhi/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.DELHI_MONSOON { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .delhi_monsoon_men { background-position: 0px 0px; }
 .delhi_monsoon_unisex { background-position: 0px -60px; }
 .delhi_monsoon_women { background-position: 0px -120px; }
 
-.DELHI_NATURALS { background-image: url('../../images/list/salon/delhi/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.DELHI_NATURALS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .delhi_naturals_men { background-position: 0px 0px; }
 .delhi_naturals_unisex { background-position: 0px -60px; }
 .delhi_naturals_women { background-position: 0px -120px; }
 
-.DELHI_STRANDS { background-image: url('../../images/list/salon/delhi/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.DELHI_STRANDS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .delhi_strands_men { background-position: 0px 0px; }
 .delhi_strands_unisex { background-position: 0px -60px; }
 .delhi_strands_women { background-position: 0px -120px; }
 
-.DELHI_TONIGUY { background-image: url('../../images/list/salon/delhi/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.DELHI_TONIGUY { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .delhi_toniguy_men { background-position: 0px 0px; }
 .delhi_toniguy_unisex { background-position: 0px -60px; }
 .delhi_toniguy_women { background-position: 0px -120px; }
 /************************************************Delhi Salons END*****************************************************/
 
 /************************************************Gurgaon Salons BEGIN*************************************************/
-.GURGAON_AFFINITY { background-image: url('../../images/list/salon/gurgaon/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.GURGAON_AFFINITY { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .gurgaon_affinity_men { background-position: 0px 0px; }
 .gurgaon_affinity_unisex { background-position: 0px -60px; }
 .gurgaon_affinity_women { background-position: 0px -120px; }
 
-.GURGAON_BBLUNT { background-image: url('../../images/list/salon/gurgaon/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.GURGAON_BBLUNT { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .gurgaon_bblunt_men { background-position: 0px 0px; }
 .gurgaon_bblunt_unisex { background-position: 0px -60px; }
 .gurgaon_bblunt_women { background-position: 0px -120px; }
 
-.GURGAON_ECSTASY { background-image: url('../../images/list/salon/gurgaon/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.GURGAON_ECSTASY { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .gurgaon_ecstasy_men { background-position: 0px 0px; }
 .gurgaon_ecstasy_unisex { background-position: 0px -60px; }
 .gurgaon_ecstasy_women { background-position: 0px -120px; }
 
-.GURGAON_GEETANJALI { background-image: url('../../images/list/salon/gurgaon/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.GURGAON_GEETANJALI { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .gurgaon_geetanjali_men { background-position: 0px 0px; }
 .gurgaon_geetanjali_unisex { background-position: 0px -60px; }
 .gurgaon_geetanjali_women { background-position: 0px -120px; }
 
-.GURGAON_JAWEDHABIB { background-image: url('../../images/list/salon/gurgaon/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.GURGAON_JAWEDHABIB { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .gurgaon_jawedhabib_men { background-position: 0px 0px; }
 .gurgaon_jawedhabib_unisex { background-position: 0px -60px; }
 .gurgaon_jawedhabib_women { background-position: 0px -120px; }
 
-.GURGAON_LAKME { background-image: url('../../images/list/salon/gurgaon/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.GURGAON_LAKME { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .gurgaon_lakme_men { background-position: 0px 0px; }
 .gurgaon_lakme_unisex { background-position: 0px -60px; }
 .gurgaon_lakme_women { background-position: 0px -120px; }
 
-.GURGAON_LOOKS { background-image: url('../../images/list/salon/gurgaon/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.GURGAON_LOOKS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .gurgaon_looks_men { background-position: 0px 0px; }
 .gurgaon_looks_unisex { background-position: 0px -60px; }
 .gurgaon_looks_women { background-position: 0px -120px; }
 
-.GURGAON_MONSOON { background-image: url('../../images/list/salon/gurgaon/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.GURGAON_MONSOON { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .gurgaon_monsoon_men { background-position: 0px 0px; }
 .gurgaon_monsoon_unisex { background-position: 0px -60px; }
 .gurgaon_monsoon_women { background-position: 0px -120px; }
 
-.GURGAON_NATURALS { background-image: url('../../images/list/salon/gurgaon/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.GURGAON_NATURALS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .gurgaon_naturals_men { background-position: 0px 0px; }
 .gurgaon_naturals_unisex { background-position: 0px -60px; }
 .gurgaon_naturals_women { background-position: 0px -120px; }
 
-.GURGAON_ROSSANOFERRETTI { background-image: url('../../images/list/salon/gurgaon/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.GURGAON_ROSSANOFERRETTI { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .gurgaon_rossanoferretti_men { background-position: 0px 0px; }
 .gurgaon_rossanoferretti_unisex { background-position: 0px -60px; }
 .gurgaon_rossanoferretti_women { background-position: 0px -120px; }
 
-.GURGAON_TANGLES { background-image: url('../../images/list/salon/gurgaon/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.GURGAON_TANGLES { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .gurgaon_tangles_men { background-position: 0px 0px; }
 .gurgaon_tangles_unisex { background-position: 0px -60px; }
 .gurgaon_tangles_women { background-position: 0px -120px; }
 
-.GURGAON_TONIGUY { background-image: url('../../images/list/salon/gurgaon/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.GURGAON_TONIGUY { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .gurgaon_toniguy_men { background-position: 0px 0px; }
 .gurgaon_toniguy_unisex { background-position: 0px -60px; }
 .gurgaon_toniguy_women { background-position: 0px -120px; }
 /************************************************Gurgaon Salons END*************************************************/
 
 /************************************************Hyderabad Salons BEGIN*********************************************/
-.HYDERABAD_BUBBLES { background-image: url('../../images/list/salon/hyderabad/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.HYDERABAD_BUBBLES { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .hyderabad_bubbles_men { background-position: 0px 0px; }
 .hyderabad_bubbles_unisex { background-position: 0px -60px; }
 .hyderabad_bubbles_women { background-position: 0px -120px; }
 
-.HYDERABAD_ENVI { background-image: url('../../images/list/salon/hyderabad/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.HYDERABAD_ENVI { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .hyderabad_envi_men { background-position: 0px 0px; }
 .hyderabad_envi_unisex { background-position: 0px -60px; }
 .hyderabad_envi_women { background-position: 0px -120px; }
 
-.HYDERABAD_GREENTRENDS { background-image: url('../../images/list/salon/hyderabad/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.HYDERABAD_GREENTRENDS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .hyderabad_greentrends_men { background-position: 0px 0px; }
 .hyderabad_greentrends_unisex { background-position: 0px -60px; }
 .hyderabad_greentrends_women { background-position: 0px -120px; }
 
-.HYDERABAD_JAWEDHABIB { background-image: url('../../images/list/salon/hyderabad/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.HYDERABAD_JAWEDHABIB { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .hyderabad_jawedhabib_men { background-position: 0px 0px; }
 .hyderabad_jawedhabib_unisex { background-position: 0px -60px; }
 .hyderabad_jawedhabib_women { background-position: 0px -120px; }
 
-.HYDERABAD_JUICE { background-image: url('../../images/list/salon/hyderabad/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.HYDERABAD_JUICE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .hyderabad_juice_men { background-position: 0px 0px; }
 .hyderabad_juice_unisex { background-position: 0px -60px; }
 .hyderabad_juice_women { background-position: 0px -120px; }
 
-.HYDERABAD_LAKME { background-image: url('../../images/list/salon/hyderabad/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.HYDERABAD_LAKME { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .hyderabad_lakme_men { background-position: 0px 0px; }
 .hyderabad_lakme_unisex { background-position: 0px -60px; }
 .hyderabad_lakme_women { background-position: 0px -120px; }
 
-.HYDERABAD_MIRRORS { background-image: url('../../images/list/salon/hyderabad/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.HYDERABAD_MIRRORS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .hyderabad_mirrors_men { background-position: 0px 0px; }
 .hyderabad_mirrors_unisex { background-position: 0px -60px; }
 .hyderabad_mirrors_women { background-position: 0px -120px; }
 
-.HYDERABAD_NATURALS { background-image: url('../../images/list/salon/hyderabad/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.HYDERABAD_NATURALS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .hyderabad_naturals_men { background-position: 0px 0px; }
 .hyderabad_naturals_unisex { background-position: 0px -60px; }
 .hyderabad_naturals_women { background-position: 0px -120px; }
 
-.HYDERABAD_PARISDESALON { background-image: url('../../images/list/salon/hyderabad/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.HYDERABAD_PARISDESALON { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .hyderabad_parisdesalon_men { background-position: 0px 0px; }
 .hyderabad_parisdesalon_unisex { background-position: 0px -60px; }
 .hyderabad_parisdesalon_women { background-position: 0px -120px; }
 
-.HYDERABAD_TONIGUY { background-image: url('../../images/list/salon/hyderabad/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.HYDERABAD_TONIGUY { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .hyderabad_toniguy_men { background-position: 0px 0px; }
 .hyderabad_toniguy_unisex { background-position: 0px -60px; }
 .hyderabad_toniguy_women { background-position: 0px -120px; }
 /************************************************Hyderabad Salons END*********************************************/
 
 /************************************************Kolkata Salons BEGIN*********************************************/
-.KOLKATA_BEBONNIE { background-image: url('../../images/list/salon/kolkata/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.KOLKATA_BEBONNIE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .kolkata_bebonnie_men { background-position: 0px 0px; }
 .kolkata_bebonnie_unisex { background-position: 0px -60px; }
 .kolkata_bebonnie_women { background-position: 0px -120px; }
 
-.KOLKATA_BESTYLISH { background-image: url('../../images/list/salon/kolkata/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.KOLKATA_BESTYLISH { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .kolkata_bestylish_men { background-position: 0px 0px; }
 .kolkata_bestylish_unisex { background-position: 0px -60px; }
 .kolkata_bestylish_women { background-position: 0px -120px; }
 
-.KOLKATA_COLORS { background-image: url('../../images/list/salon/kolkata/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.KOLKATA_COLORS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .kolkata_colors_men { background-position: 0px 0px; }
 .kolkata_colors_unisex { background-position: 0px -60px; }
 .kolkata_colors_women { background-position: 0px -120px; }
 
-.KOLKATA_EYECATCHERS { background-image: url('../../images/list/salon/kolkata/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.KOLKATA_EYECATCHERS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .kolkata_eyecatchers_men { background-position: 0px 0px; }
 .kolkata_eyecatchers_unisex { background-position: 0px -60px; }
 .kolkata_eyecatchers_women { background-position: 0px -120px; }
 
-.KOLKATA_GREENTRENDS { background-image: url('../../images/list/salon/kolkata/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.KOLKATA_GREENTRENDS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .kolkata_greentrends_men { background-position: 0px 0px; }
 .kolkata_greentrends_unisex { background-position: 0px -60px; }
 .kolkata_greentrends_women { background-position: 0px -120px; }
 
-.KOLKATA_HEADTURNERS { background-image: url('../../images/list/salon/kolkata/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.KOLKATA_HEADTURNERS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .kolkata_headturners_men { background-position: 0px 0px; }
 .kolkata_headturners_unisex { background-position: 0px -60px; }
 .kolkata_headturners_women { background-position: 0px -120px; }
 
-.KOLKATA_JAWEDHABIB { background-image: url('../../images/list/salon/kolkata/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.KOLKATA_JAWEDHABIB { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .kolkata_jawedhabib_men { background-position: 0px 0px; }
 .kolkata_jawedhabib_unisex { background-position: 0px -60px; }
 .kolkata_jawedhabib_women { background-position: 0px -120px; }
 
-.KOLKATA_JUICE { background-image: url('../../images/list/salon/kolkata/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.KOLKATA_JUICE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .kolkata_juice_men { background-position: 0px 0px; }
 .kolkata_juice_unisex { background-position: 0px -60px; }
 .kolkata_juice_women { background-position: 0px -120px; }
 
-.KOLKATA_JUNETOMKYNS { background-image: url('../../images/list/salon/kolkata/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.KOLKATA_JUNETOMKYNS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .kolkata_junetomkyns_men { background-position: 0px 0px; }
 .kolkata_junetomkyns_unisex { background-position: 0px -60px; }
 .kolkata_junetomkyns_women { background-position: 0px -120px; }
 
-.KOLKATA_LAKME { background-image: url('../../images/list/salon/kolkata/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.KOLKATA_LAKME { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .kolkata_lakme_men { background-position: 0px 0px; }
 .kolkata_lakme_unisex { background-position: 0px -60px; }
 .kolkata_lakme_women { background-position: 0px -120px; }
 
-.KOLKATA_NATURALS { background-image: url('../../images/list/salon/kolkata/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.KOLKATA_NATURALS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .kolkata_naturals_men { background-position: 0px 0px; }
 .kolkata_naturals_unisex { background-position: 0px -60px; }
 .kolkata_naturals_women { background-position: 0px -120px; }
 
-.KOLKATA_RIGHTANGLE { background-image: url('../../images/list/salon/kolkata/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.KOLKATA_RIGHTANGLE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .kolkata_rightangle_men { background-position: 0px 0px; }
 .kolkata_rightangle_unisex { background-position: 0px -60px; }
 .kolkata_rightangle_women { background-position: 0px -120px; }
 /************************************************Kolkata Salons END*********************************************/
 
 /************************************************Mumbai Salons BEGIN********************************************/
-.MUMBAI_BBLUNT { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_BBLUNT { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_bblunt_men { background-position: 0px 0px; }
 .mumbai_bblunt_unisex { background-position: 0px -60px; }
 .mumbai_bblunt_women { background-position: 0px -120px; }
 
-.MUMBAI_CHRISTIAANGEORGIO { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_CHRISTIAANGEORGIO { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_christiaangeorgio_men { background-position: 0px 0px; }
 .mumbai_christiaangeorgio_unisex { background-position: 0px -60px; }
 .mumbai_christiaangeorgio_women { background-position: 0px -120px; }
 
-.MUMBAI_ENRICH { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_ENRICH { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_enrich_men { background-position: 0px 0px; }
 .mumbai_enrich_unisex { background-position: 0px -60px; }
 .mumbai_enrich_women { background-position: 0px -120px; }
 
-.MUMBAI_ENVI { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_ENVI { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_envi_men { background-position: 0px 0px; }
 .mumbai_envi_unisex { background-position: 0px -60px; }
 .mumbai_envi_women { background-position: 0px -120px; }
 
-.MUMBAI_FAHRENHEIT { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_FAHRENHEIT { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_fahrenheit_men { background-position: 0px 0px; }
 .mumbai_fahrenheit_unisex { background-position: 0px -60px; }
 .mumbai_fahrenheit_women { background-position: 0px -120px; }
 
-.MUMBAI_JAWEDHABIB { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_JAWEDHABIB { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_jawedhabib_men { background-position: 0px 0px; }
 .mumbai_jawedhabib_unisex { background-position: 0px -60px; }
 .mumbai_jawedhabib_women { background-position: 0px -120px; }
 
-.MUMBAI_JAZZUP { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_JAZZUP { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_jazzup_men { background-position: 0px 0px; }
 .mumbai_jazzup_unisex { background-position: 0px -60px; }
 .mumbai_jazzup_women { background-position: 0px -120px; }
 
-.MUMBAI_JEANCLAUDEBIGUINE { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_JEANCLAUDEBIGUINE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_jeanclaudebiguine_men { background-position: 0px 0px; }
 .mumbai_jeanclaudebiguine_unisex { background-position: 0px -60px; }
 .mumbai_jeanclaudebiguine_women { background-position: 0px -120px; }
 
-.MUMBAI_JUICE { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_JUICE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_juice_men { background-position: 0px 0px; }
 .mumbai_juice_unisex { background-position: 0px -60px; }
 .mumbai_juice_women { background-position: 0px -120px; }
 
-.MUMBAI_LAKME { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_LAKME { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_lakme_men { background-position: 0px 0px; }
 .mumbai_lakme_unisex { background-position: 0px -60px; }
 .mumbai_lakme_women { background-position: 0px -120px; }
 
-.MUMBAI_MADOWOT { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_MADOWOT { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_madowot_men { background-position: 0px 0px; }
 .mumbai_madowot_unisex { background-position: 0px -60px; }
 .mumbai_madowot_women { background-position: 0px -120px; }
 
-.MUMBAI_NATURALS { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_NATURALS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_naturals_men { background-position: 0px 0px; }
 .mumbai_naturals_unisex { background-position: 0px -60px; }
 .mumbai_naturals_women { background-position: 0px -120px; }
 
-.MUMBAI_ROSSANOFERRETTI { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_ROSSANOFERRETTI { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_rossanoferretti_men { background-position: 0px 0px; }
 .mumbai_rossanoferretti_unisex { background-position: 0px -60px; }
 .mumbai_rossanoferretti_women { background-position: 0px -120px; }
 
-.MUMBAI_SAKS { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_SAKS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_saks_men { background-position: 0px 0px; }
 .mumbai_saks_unisex { background-position: 0px -60px; }
 .mumbai_saks_women { background-position: 0px -120px; }
 
-.MUMBAI_TONIGUY { background-image: url('../../images/list/salon/mumbai/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.MUMBAI_TONIGUY { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .mumbai_toniguy_men { background-position: 0px 0px; }
 .mumbai_toniguy_unisex { background-position: 0px -60px; }
 .mumbai_toniguy_women { background-position: 0px -120px; }
 /************************************************Mumbai Salons END********************************************/
 
 /************************************************Pune Salons BEGIN********************************************/
-.PUNE_APPLE { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_APPLE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_apple_men { background-position: 0px 0px; }
 .pune_apple_unisex { background-position: 0px -60px; }
 .pune_apple_women { background-position: 0px -120px; }
 
-.PUNE_BBLUNT { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_BBLUNT { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_bblunt_men { background-position: 0px 0px; }
 .pune_bblunt_unisex { background-position: 0px -60px; }
 .pune_bblunt_women { background-position: 0px -120px; }
 
-.PUNE_ENRICH { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_ENRICH { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_enrich_men { background-position: 0px 0px; }
 .pune_enrich_unisex { background-position: 0px -60px; }
 .pune_enrich_women { background-position: 0px -120px; }
 
-.PUNE_ENVI { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_ENVI { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_envi_men { background-position: 0px 0px; }
 .pune_envi_unisex { background-position: 0px -60px; }
 .pune_envi_women { background-position: 0px -120px; }
 
-.PUNE_FAHRENHEIT { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_FAHRENHEIT { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_fahrenheit_men { background-position: 0px 0px; }
 .pune_fahrenheit_unisex { background-position: 0px -60px; }
 .pune_fahrenheit_women { background-position: 0px -120px; }
 
-.PUNE_HAIR2ORDER { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_HAIR2ORDER { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_hair2order_men { background-position: 0px 0px; }
 .pune_hair2order_unisex { background-position: 0px -60px; }
 .pune_hair2order_women { background-position: 0px -120px; }
 
-.PUNE_JAWEDHABIB { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_JAWEDHABIB { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_jawedhabib_men { background-position: 0px 0px; }
 .pune_jawedhabib_unisex { background-position: 0px -60px; }
 .pune_jawedhabib_women { background-position: 0px -120px; }
 
-.PUNE_JAZZUP { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_JAZZUP { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_jazzup_men { background-position: 0px 0px; }
 .pune_jazzup_unisex { background-position: 0px -60px; }
 .pune_jazzup_women { background-position: 0px -120px; }
 
-.PUNE_JUICE { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_JUICE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_juice_men { background-position: 0px 0px; }
 .pune_juice_unisex { background-position: 0px -60px; }
 .pune_juice_women { background-position: 0px -120px; }
 
-.PUNE_LAKME { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_LAKME { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_lakme_men { background-position: 0px 0px; }
 .pune_lakme_unisex { background-position: 0px -60px; }
 .pune_lakme_women { background-position: 0px -120px; }
 
-.PUNE_NATURALS { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_NATURALS { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_naturals_men { background-position: 0px 0px; }
 .pune_naturals_unisex { background-position: 0px -60px; }
 .pune_naturals_women { background-position: 0px -120px; }
 
-.PUNE_THEGAZELLE { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_THEGAZELLE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_thegazelle_men { background-position: 0px 0px; }
 .pune_thegazelle_unisex { background-position: 0px -60px; }
 .pune_thegazelle_women { background-position: 0px -120px; }
 
-.PUNE_VOGUE { background-image: url('../../images/list/salon/pune/sal_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
+.PUNE_VOGUE { background-image: url('../../images/list/salon/sal.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative; z-index: 99; }
 .pune_vogue_men { background-position: 0px 0px; }
 .pune_vogue_unisex { background-position: 0px -60px; }
 .pune_vogue_women { background-position: 0px -120px; }
 /************************************************Pune Salons END********************************************/
 /*************************************************************************@media query - begin******************************************************/
-/* Amazon kindle fire - hd * 8.9" - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 2560px) {
-
-}
-
-/* Desktop - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 1920px) {
-
-}
-
-/* Amazon kindle fire - hd * 8.9" - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 1600px) {
-
-}
-
-/* Laptop with HiDPI screen - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 1440px) {
-
-}
-
-/* Desktop - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 1366px) {
-
-}
-
-/* Google Nexus 10 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 1280px) {
-
-}
-
-/* Amazon Kindle Fire(First Generation) - Landscape/ Apple iPad 1, 2, 3, 4, Mini - Landscape/ BlackBerry PlayBook - Landscape/ Samsung Galaxy Tab - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 1024px) {
-
-}
-
-/* Google Nexus 7 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 960px) {
-
-}
-
-/* Google Nexus 10 - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 800px) {
-
-}
-
-/* Apple iPad, iPad Mini - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 768px) {
-
-}
-/* Apple iPhone 6 Plus - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 736px) {
-
-}
-/* Google Nexus 6 - Landscape, Google Nexus 6P - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 732px) {
-
-}
-
-/*Motorola Droid Razr HD*/
-@media only screen and /*!YUI-Compressor */ (max-width: 720px) {
-
-}
-
-/* Apple iPhone 6 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 667px) {
-
-}
-
-/* BlackBerry Z30 - Landscape, Galaxy Note 3 - Landscape,  Galaxy Note II - Landscape, Galaxy S III - Landscape, LG Optimus L70 - Landscape, Google Nexus 4 - Landscape, Google Nexus 5 - Landscape, Nokia N9 - Landscape, Galaxy S5 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 640px) {
-
-}
-
-/* BlackBerry Playbook - Portrait, Google Nexus 7 - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 600px) {
-
-}
-
-/* Apple iPhone 5 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 568px) {
-
-}
-
-/* Motorola Droid 3, Droid 4, Droid Razr, Atrix 4G, Atrix 2 */
-@media only screen and /*!YUI-Compressor */ (max-width: 540px) {
-
-}
-
-/* Nokia Lumia 520 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 533px) {
-
-}
-
-/* Apple iPhone 4 - Landscape */
-@media only screen and /*!YUI-Compressor */ (max-width: 480px) {
-
-}
-
-/* LG Optimus LTE - Portrait, Optimus 4X HD - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 424px) {
-	/************************************************Bangalore Salons BEGIN************************************************/
-	.BENGALURU_BBLUNT { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_bblunt_men { background-position: 0px 0px; }
-	.bengaluru_bblunt_unisex { background-position: 0px -40px; }
-	.bengaluru_bblunt_women { background-position: 0px -80px; }
-
-	.BENGALURU_BODYCRAFT { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_bodycraft_men { background-position: 0px 0px; }
-	.bengaluru_bodycraft_unisex { background-position: 0px -40px; }
-	.bengaluru_bodycraft_women { background-position: 0px -80px; }
-
-	.BENGALURU_CLUBCITRUS { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_clubcitrus_men { background-position: 0px 0px; }
-	.bengaluru_clubcitrus_unisex { background-position: 0px -40px; }
-	.bengaluru_clubcitrus_women { background-position: 0px -80px; }
-
-	.BENGALURU_ENRICH { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_enrich_men { background-position: 0px 0px; }
-	.bengaluru_enrich_unisex { background-position: 0px -40px; }
-	.bengaluru_enrich_women { background-position: 0px -80px; }
-
-	.BENGALURU_GREENTRENDS { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_greentrends_men { background-position: 0px 0px; }
-	.bengaluru_greentrends_unisex { background-position: 0px -40px; }
-	.bengaluru_greentrends_women { background-position: 0px -80px; }
-
-	.BENGALURU_JAWEDHABIB { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_jawedhabib_men { background-position: 0px 0px; }
-	.bengaluru_jawedhabib_unisex { background-position: 0px -40px; }
-	.bengaluru_jawedhabib_women { background-position: 0px -80px; }
-
-	.BENGALURU_JEANCLAUDEBIGUINE { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_jeanclaudebiguine_men { background-position: 0px 0px; }
-	.bengaluru_jeanclaudebiguine_unisex { background-position: 0px -40px; }
-	.bengaluru_jeanclaudebiguine_women { background-position: 0px -80px; }
-
-	.BENGALURU_LAKME { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_lakme_men { background-position: 0px 0px; }
-	.bengaluru_lakme_unisex { background-position: 0px -40px; }
-	.bengaluru_lakme_women { background-position: 0px -80px; }
-
-	.BENGALURU_LIMELITE { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_limelite_men { background-position: 0px 0px; }
-	.bengaluru_limelite_unisex { background-position: 0px -40px; }
-	.bengaluru_limelite_women { background-position: 0px -80px; }
-
-	.BENGALURU_NATURALS { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_naturals_men { background-position: 0px 0px; }
-	.bengaluru_naturals_unisex { background-position: 0px -40px; }
-	.bengaluru_naturals_women { background-position: 0px -80px; }
-
-	.BENGALURU_OHWOW { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_ohwow_men { background-position: 0px 0px; }
-	.bengaluru_ohwow_unisex { background-position: 0px -40px; }
-	.bengaluru_ohwow_women { background-position: 0px -80px; }
-
-	.BENGALURU_PLAY { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_play_men { background-position: 0px 0px; }
-	.bengaluru_play_unisex { background-position: 0px -40px; }
-	.bengaluru_play_women { background-position: 0px -80px; }
-
-	.BENGALURU_ROSSANOFERRETTI { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_rossanoferretti_men { background-position: 0px 0px; }
-	.bengaluru_rossanoferretti_unisex { background-position: 0px -40px; }
-	.bengaluru_rossanoferretti_women { background-position: 0px -80px; }
-
-	.BENGALURU_TONIGUY { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_toniguy_men { background-position: 0px 0px; }
-	.bengaluru_toniguy_unisex { background-position: 0px -40px; }
-	.bengaluru_toniguy_women { background-position: 0px -80px; }
-
-	.BENGALURU_YLG { background-image: url('../../images/list/salon/bengaluru/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99;}
-	.bengaluru_ylg_men { background-position: 0px 0px; }
-	.bengaluru_ylg_unisex { background-position: 0px -40px; }
-	.bengaluru_ylg_women { background-position: 0px -80px; }
-	/************************************************Bangalore Salons END***************************************************/
-
-	/************************************************Chandigarh Salons BEGIN************************************************/
-	.CHANDIGARH_AFFINITY { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_affinity_men { background-position: 0px 0px; }
-	.chandigarh_affinity_unisex { background-position: 0px -40px; }
-	.chandigarh_affinity_women { background-position: 0px -80px; }
-
-	.CHANDIGARH_ATTITUDE { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_attitude_men { background-position: 0px 0px; }
-	.chandigarh_attitude_unisex { background-position: 0px -40px; }
-	.chandigarh_attitude_women { background-position: 0px -80px; }
-
-	.CHANDIGARH_FEMINAPLUS { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_feminaplus_men { background-position: 0px 0px; }
-	.chandigarh_feminaplus_unisex { background-position: 0px -40px; }
-	.chandigarh_feminaplus_women { background-position: 0px -80px; }
-
-	.CHANDIGARH_HAIRRAISERZ { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_hairraiserz_men { background-position: 0px 0px; }
-	.chandigarh_hairraiserz_unisex { background-position: 0px -40px; }
-	.chandigarh_hairraiserz_women { background-position: 0px -80px; }
-
-	.CHANDIGARH_HEADMASTERS { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_headmasters_men { background-position: 0px 0px; }
-	.chandigarh_headmasters_unisex { background-position: 0px -40px; }
-	.chandigarh_headmasters_women { background-position: 0px -80px; }
-
-	.CHANDIGARH_JAWEDHABIB { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_jawedhabib_men { background-position: 0px 0px; }
-	.chandigarh_jawedhabib_unisex { background-position: 0px -40px; }
-	.chandigarh_jawedhabib_women { background-position: 0px -80px; }
-
-	.CHANDIGARH_LAKME { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_lakme_men { background-position: 0px 0px; }
-	.chandigarh_lakme_unisex { background-position: 0px -40px; }
-	.chandigarh_lakme_women { background-position: 0px -80px; }
-
-	.CHANDIGARH_LOOKS { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_looks_men { background-position: 0px 0px; }
-	.chandigarh_looks_unisex { background-position: 0px -40px; }
-	.chandigarh_looks_women { background-position: 0px -80px; }
-
-	.CHANDIGARH_MATRIX { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_matrix_men { background-position: 0px 0px; }
-	.chandigarh_matrix_unisex { background-position: 0px -40px; }
-	.chandigarh_matrix_women { background-position: 0px -80px; }
-
-	.CHANDIGARH_STRANDS { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_strands_men { background-position: 0px 0px; }
-	.chandigarh_strands_unisex { background-position: 0px -40px; }
-	.chandigarh_strands_women { background-position: 0px -80px; }
-
-	.CHANDIGARH_TRESSLOUNGE { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_tresslounge_men { background-position: 0px 0px; }
-	.chandigarh_tresslounge_unisex { background-position: 0px -40px; }
-	.chandigarh_tresslounge_women { background-position: 0px -80px; }
-
-	.CHANDIGARH_VJOHN { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_vjohn_men { background-position: 0px 0px; }
-	.chandigarh_vjohn_unisex { background-position: 0px -40px; }
-	.chandigarh_vjohn_women { background-position: 0px -80px; }
-
-	.CHANDIGARH_WAVELENGTH { background-image: url('../../images/list/salon/chandigarh/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chandigarh_wavelength_men { background-position: 0px 0px; }
-	.chandigarh_wavelength_unisex { background-position: 0px -40px; }
-	.chandigarh_wavelength_women { background-position: 0px -80px; }
-	/************************************************Chandigarh Salons END************************************************/
-
-	/************************************************Chennai Salons BEGIN*************************************************/
-	.CHENNAI_BELLEZZA { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_bellezza_men { background-position: 0px 0px; }
-	.chennai_bellezza_unisex { background-position: 0px -40px; }
-	.chennai_bellezza_women { background-position: 0px -80px; }
-
-	.CHENNAI_BOUNCE { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_bounce_men { background-position: 0px 0px; }
-	.chennai_bounce_unisex { background-position: 0px -40px; }
-	.chennai_bounce_women { background-position: 0px -80px; }
-
-	.CHENNAI_CHILLBREEZE { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_chillbreeze_men { background-position: 0px 0px; }
-	.chennai_chillbreeze_unisex { background-position: 0px -40px; }
-	.chennai_chillbreeze_women { background-position: 0px -80px; }
-
-	.CHENNAI_EVERYOUTH { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_everyouth_men { background-position: 0px 0px; }
-	.chennai_everyouth_unisex { background-position: 0px -40px; }
-	.chennai_everyouth_women { background-position: 0px -80px; }
-
-	.CHENNAI_GREENTRENDS { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_greentrends_men { background-position: 0px 0px; }
-	.chennai_greentrends_unisex { background-position: 0px -40px; }
-	.chennai_greentrends_women { background-position: 0px -80px; }
-
-	.CHENNAI_JAWEDHABIB { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_jawedhabib_men { background-position: 0px 0px; }
-	.chennai_jawedhabib_unisex { background-position: 0px -40px; }
-	.chennai_jawedhabib_women { background-position: 0px -80px; }
-
-	.CHENNAI_LAREINA { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_lareina_men { background-position: 0px 0px; }
-	.chennai_lareina_unisex { background-position: 0px -40px; }
-	.chennai_lareina_women { background-position: 0px -80px; }
-
-	.CHENNAI_LAKME { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_lakme_men { background-position: 0px 0px; }
-	.chennai_lakme_unisex { background-position: 0px -40px; }
-	.chennai_lakme_women { background-position: 0px -80px; }
-
-	.CHENNAI_LIMELITE { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_limelite_men { background-position: 0px 0px; }
-	.chennai_limelite_unisex { background-position: 0px -40px; }
-	.chennai_limelite_women { background-position: 0px -80px; }
-
-	.CHENNAI_MAHA { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_maha_men { background-position: 0px 0px; }
-	.chennai_maha_unisex { background-position: 0px -40px; }
-	.chennai_maha_women { background-position: 0px -80px; }
-
-	.CHENNAI_NATURALS { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_naturals_men { background-position: 0px 0px; }
-	.chennai_naturals_unisex { background-position: 0px -40px; }
-	.chennai_naturals_women { background-position: 0px -80px; }
-
-	.CHENNAI_STUDIO44 { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_studio44_men { background-position: 0px 0px; }
-	.chennai_studio44_unisex { background-position: 0px -40px; }
-	.chennai_studio44_women { background-position: 0px -80px; }
-
-	.CHENNAI_STUDIOPROFILE { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_studioprofile_men { background-position: 0px 0px; }
-	.chennai_studioprofile_unisex { background-position: 0px -40px; }
-	.chennai_studioprofile_women { background-position: 0px -80px; }
-
-	.CHENNAI_TONIGUY { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_toniguy_men { background-position: 0px 0px; }
-	.chennai_toniguy_unisex { background-position: 0px -40px; }
-	.chennai_toniguy_women { background-position: 0px -80px; }
-
-	.CHENNAI_YLG { background-image: url('../../images/list/salon/chennai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.chennai_ylg_men { background-position: 0px 0px; }
-	.chennai_ylg_unisex { background-position: 0px -40px; }
-	.chennai_ylg_women { background-position: 0px -80px; }
-	/************************************************Chennai Salons END*************************************************/
-
-	/************************************************Delhi Salons BEGIN*************************************************/
-	.DELHI_AFFINITY { background-image: url('../../images/list/salon/delhi/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.delhi_affinity_men { background-position: 0px 0px; }
-	.delhi_affinity_unisex { background-position: 0px -40px; }
-	.delhi_affinity_women { background-position: 0px -80px; }
-
-	.DELHI_BBLUNT { background-image: url('../../images/list/salon/delhi/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.delhi_bblunt_men { background-position: 0px 0px; }
-	.delhi_bblunt_unisex { background-position: 0px -40px; }
-	.delhi_bblunt_women { background-position: 0px -80px; }
-
-	.DELHI_CREME { background-image: url('../../images/list/salon/delhi/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.delhi_creme_men { background-position: 0px 0px; }
-	.delhi_creme_unisex { background-position: 0px -40px; }
-	.delhi_creme_women { background-position: 0px -80px; }
-
-	.DELHI_GEETANJALI { background-image: url('../../images/list/salon/delhi/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.delhi_geetanjali_men { background-position: 0px 0px; }
-	.delhi_geetanjali_unisex { background-position: 0px -40px; }
-	.delhi_geetanjali_women { background-position: 0px -80px; }
-
-	.DELHI_GREENTRENDS { background-image: url('../../images/list/salon/delhi/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.delhi_greentrends_men { background-position: 0px 0px; }
-	.delhi_greentrends_unisex { background-position: 0px -40px; }
-	.delhi_greentrends_women { background-position: 0px -80px; }
-
-	.DELHI_JAWEDHABIB { background-image: url('../../images/list/salon/delhi/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.delhi_jawedhabib_men { background-position: 0px 0px; }
-	.delhi_jawedhabib_unisex { background-position: 0px -40px; }
-	.delhi_jawedhabib_women { background-position: 0px -80px; }
-
-	.DELHI_LAKME { background-image: url('../../images/list/salon/delhi/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.delhi_lakme_men { background-position: 0px 0px; }
-	.delhi_lakme_unisex { background-position: 0px -40px; }
-	.delhi_lakme_women { background-position: 0px -80px; }
-
-	.DELHI_LOOKS { background-image: url('../../images/list/salon/delhi/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.delhi_looks_men { background-position: 0px 0px; }
-	.delhi_looks_unisex { background-position: 0px -40px; }
-	.delhi_looks_women { background-position: 0px -80px; }
-
-	.DELHI_MONSOON { background-image: url('../../images/list/salon/delhi/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.delhi_monsoon_men { background-position: 0px 0px; }
-	.delhi_monsoon_unisex { background-position: 0px -40px; }
-	.delhi_monsoon_women { background-position: 0px -80px; }
-
-	.DELHI_NATURALS { background-image: url('../../images/list/salon/delhi/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.delhi_naturals_men { background-position: 0px 0px; }
-	.delhi_naturals_unisex { background-position: 0px -40px; }
-	.delhi_naturals_women { background-position: 0px -80px; }
-
-	.DELHI_STRANDS { background-image: url('../../images/list/salon/delhi/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.delhi_strands_men { background-position: 0px 0px; }
-	.delhi_strands_unisex { background-position: 0px -40px; }
-	.delhi_strands_women { background-position: 0px -80px; }
-
-	.DELHI_TONIGUY { background-image: url('../../images/list/salon/delhi/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.delhi_toniguy_men { background-position: 0px 0px; }
-	.delhi_toniguy_unisex { background-position: 0px -40px; }
-	.delhi_toniguy_women { background-position: 0px -80px; }
-	/************************************************Delhi Salons END*****************************************************/
-
-	/************************************************Gurgaon Salons BEGIN*************************************************/
-	.GURGAON_AFFINITY { background-image: url('../../images/list/salon/gurgaon/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.gurgaon_affinity_men { background-position: 0px 0px; }
-	.gurgaon_affinity_unisex { background-position: 0px -40px; }
-	.gurgaon_affinity_women { background-position: 0px -80px; }
-
-	.GURGAON_BBLUNT { background-image: url('../../images/list/salon/gurgaon/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.gurgaon_bblunt_men { background-position: 0px 0px; }
-	.gurgaon_bblunt_unisex { background-position: 0px -40px; }
-	.gurgaon_bblunt_women { background-position: 0px -80px; }
-
-	.GURGAON_ECSTASY { background-image: url('../../images/list/salon/gurgaon/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.gurgaon_ecstasy_men { background-position: 0px 0px; }
-	.gurgaon_ecstasy_unisex { background-position: 0px -40px; }
-	.gurgaon_ecstasy_women { background-position: 0px -80px; }
-
-	.GURGAON_GEETANJALI { background-image: url('../../images/list/salon/gurgaon/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.gurgaon_geetanjali_men { background-position: 0px 0px; }
-	.gurgaon_geetanjali_unisex { background-position: 0px -40px; }
-	.gurgaon_geetanjali_women { background-position: 0px -80px; }
-
-	.GURGAON_JAWEDHABIB { background-image: url('../../images/list/salon/gurgaon/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.gurgaon_jawedhabib_men { background-position: 0px 0px; }
-	.gurgaon_jawedhabib_unisex { background-position: 0px -40px; }
-	.gurgaon_jawedhabib_women { background-position: 0px -80px; }
-
-	.GURGAON_LAKME { background-image: url('../../images/list/salon/gurgaon/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.gurgaon_lakme_men { background-position: 0px 0px; }
-	.gurgaon_lakme_unisex { background-position: 0px -40px; }
-	.gurgaon_lakme_women { background-position: 0px -80px; }
-
-	.GURGAON_LOOKS { background-image: url('../../images/list/salon/gurgaon/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.gurgaon_looks_men { background-position: 0px 0px; }
-	.gurgaon_looks_unisex { background-position: 0px -40px; }
-	.gurgaon_looks_women { background-position: 0px -80px; }
-
-	.GURGAON_MONSOON { background-image: url('../../images/list/salon/gurgaon/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.gurgaon_monsoon_men { background-position: 0px 0px; }
-	.gurgaon_monsoon_unisex { background-position: 0px -40px; }
-	.gurgaon_monsoon_women { background-position: 0px -80px; }
-
-	.GURGAON_NATURALS { background-image: url('../../images/list/salon/gurgaon/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.gurgaon_naturals_men { background-position: 0px 0px; }
-	.gurgaon_naturals_unisex { background-position: 0px -40px; }
-	.gurgaon_naturals_women { background-position: 0px -80px; }
-
-	.GURGAON_ROSSANOFERRETTI { background-image: url('../../images/list/salon/gurgaon/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.gurgaon_rossanoferretti_men { background-position: 0px 0px; }
-	.gurgaon_rossanoferretti_unisex { background-position: 0px -40px; }
-	.gurgaon_rossanoferretti_women { background-position: 0px -80px; }
-
-	.GURGAON_TANGLES { background-image: url('../../images/list/salon/gurgaon/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.gurgaon_tangles_men { background-position: 0px 0px; }
-	.gurgaon_tangles_unisex { background-position: 0px -40px; }
-	.gurgaon_tangles_women { background-position: 0px -80px; }
-
-	.GURGAON_TONIGUY { background-image: url('../../images/list/salon/gurgaon/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.gurgaon_toniguy_men { background-position: 0px 0px; }
-	.gurgaon_toniguy_unisex { background-position: 0px -40px; }
-	.gurgaon_toniguy_women { background-position: 0px -80px; }
-	/************************************************Gurgaon Salons END*************************************************/
-
-	/************************************************Hyderabad Salons BEGIN*********************************************/
-	.HYDERABAD_BUBBLES { background-image: url('../../images/list/salon/hyderabad/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.hyderabad_bubbles_men { background-position: 0px 0px; }
-	.hyderabad_bubbles_unisex { background-position: 0px -40px; }
-	.hyderabad_bubbles_women { background-position: 0px -80px; }
-
-	.HYDERABAD_ENVI { background-image: url('../../images/list/salon/hyderabad/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.hyderabad_envi_men { background-position: 0px 0px; }
-	.hyderabad_envi_unisex { background-position: 0px -40px; }
-	.hyderabad_envi_women { background-position: 0px -80px; }
-
-	.HYDERABAD_GREENTRENDS { background-image: url('../../images/list/salon/hyderabad/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.hyderabad_greentrends_men { background-position: 0px 0px; }
-	.hyderabad_greentrends_unisex { background-position: 0px -40px; }
-	.hyderabad_greentrends_women { background-position: 0px -80px; }
-
-	.HYDERABAD_JAWEDHABIB { background-image: url('../../images/list/salon/hyderabad/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.hyderabad_jawedhabib_men { background-position: 0px 0px; }
-	.hyderabad_jawedhabib_unisex { background-position: 0px -40px; }
-	.hyderabad_jawedhabib_women { background-position: 0px -80px; }
-
-	.HYDERABAD_JUICE { background-image: url('../../images/list/salon/hyderabad/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.hyderabad_juice_men { background-position: 0px 0px; }
-	.hyderabad_juice_unisex { background-position: 0px -40px; }
-	.hyderabad_juice_women { background-position: 0px -80px; }
-
-	.HYDERABAD_LAKME { background-image: url('../../images/list/salon/hyderabad/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.hyderabad_lakme_men { background-position: 0px 0px; }
-	.hyderabad_lakme_unisex { background-position: 0px -40px; }
-	.hyderabad_lakme_women { background-position: 0px -80px; }
-
-	.HYDERABAD_MIRRORS { background-image: url('../../images/list/salon/hyderabad/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.hyderabad_mirrors_men { background-position: 0px 0px; }
-	.hyderabad_mirrors_unisex { background-position: 0px -40px; }
-	.hyderabad_mirrors_women { background-position: 0px -80px; }
-
-	.HYDERABAD_NATURALS { background-image: url('../../images/list/salon/hyderabad/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.hyderabad_naturals_men { background-position: 0px 0px; }
-	.hyderabad_naturals_unisex { background-position: 0px -40px; }
-	.hyderabad_naturals_women { background-position: 0px -80px; }
-
-	.HYDERABAD_PARISDESALON { background-image: url('../../images/list/salon/hyderabad/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.hyderabad_parisdesalon_men { background-position: 0px 0px; }
-	.hyderabad_parisdesalon_unisex { background-position: 0px -40px; }
-	.hyderabad_parisdesalon_women { background-position: 0px -80px; }
-
-	.HYDERABAD_TONIGUY { background-image: url('../../images/list/salon/hyderabad/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.hyderabad_toniguy_men { background-position: 0px 0px; }
-	.hyderabad_toniguy_unisex { background-position: 0px -40px; }
-	.hyderabad_toniguy_women { background-position: 0px -80px; }
-	/************************************************Hyderabad Salons END*********************************************/
-
-	/************************************************Kolkata Salons BEGIN*********************************************/
-	.KOLKATA_BEBONNIE { background-image: url('../../images/list/salon/kolkata/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.kolkata_bebonnie_men { background-position: 0px 0px; }
-	.kolkata_bebonnie_unisex { background-position: 0px -40px; }
-	.kolkata_bebonnie_women { background-position: 0px -80px; }
-
-	.KOLKATA_BESTYLISH { background-image: url('../../images/list/salon/kolkata/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.kolkata_bestylish_men { background-position: 0px 0px; }
-	.kolkata_bestylish_unisex { background-position: 0px -40px; }
-	.kolkata_bestylish_women { background-position: 0px -80px; }
-
-	.KOLKATA_COLORS { background-image: url('../../images/list/salon/kolkata/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.kolkata_colors_men { background-position: 0px 0px; }
-	.kolkata_colors_unisex { background-position: 0px -40px; }
-	.kolkata_colors_women { background-position: 0px -80px; }
-
-	.KOLKATA_EYECATCHERS { background-image: url('../../images/list/salon/kolkata/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.kolkata_eyecatchers_men { background-position: 0px 0px; }
-	.kolkata_eyecatchers_unisex { background-position: 0px -40px; }
-	.kolkata_eyecatchers_women { background-position: 0px -80px; }
-
-	.KOLKATA_GREENTRENDS { background-image: url('../../images/list/salon/kolkata/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.kolkata_greentrends_men { background-position: 0px 0px; }
-	.kolkata_greentrends_unisex { background-position: 0px -40px; }
-	.kolkata_greentrends_women { background-position: 0px -80px; }
-
-	.KOLKATA_HEADTURNERS { background-image: url('../../images/list/salon/kolkata/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.kolkata_headturners_men { background-position: 0px 0px; }
-	.kolkata_headturners_unisex { background-position: 0px -40px; }
-	.kolkata_headturners_women { background-position: 0px -80px; }
-
-	.KOLKATA_JAWEDHABIB { background-image: url('../../images/list/salon/kolkata/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.kolkata_jawedhabib_men { background-position: 0px 0px; }
-	.kolkata_jawedhabib_unisex { background-position: 0px -40px; }
-	.kolkata_jawedhabib_women { background-position: 0px -80px; }
-
-	.KOLKATA_JUICE { background-image: url('../../images/list/salon/kolkata/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.kolkata_juice_men { background-position: 0px 0px; }
-	.kolkata_juice_unisex { background-position: 0px -40px; }
-	.kolkata_juice_women { background-position: 0px -80px; }
-
-	.KOLKATA_JUNETOMKYNS { background-image: url('../../images/list/salon/kolkata/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.kolkata_junetomkyns_men { background-position: 0px 0px; }
-	.kolkata_junetomkyns_unisex { background-position: 0px -40px; }
-	.kolkata_junetomkyns_women { background-position: 0px -80px; }
-
-	.KOLKATA_LAKME { background-image: url('../../images/list/salon/kolkata/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.kolkata_lakme_men { background-position: 0px 0px; }
-	.kolkata_lakme_unisex { background-position: 0px -40px; }
-	.kolkata_lakme_women { background-position: 0px -80px; }
-
-	.KOLKATA_NATURALS { background-image: url('../../images/list/salon/kolkata/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.kolkata_naturals_men { background-position: 0px 0px; }
-	.kolkata_naturals_unisex { background-position: 0px -40px; }
-	.kolkata_naturals_women { background-position: 0px -80px; }
-
-	.KOLKATA_RIGHTANGLE { background-image: url('../../images/list/salon/kolkata/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.kolkata_rightangle_men { background-position: 0px 0px; }
-	.kolkata_rightangle_unisex { background-position: 0px -40px; }
-	.kolkata_rightangle_women { background-position: 0px -80px; }
-	/************************************************Kolkata Salons END*********************************************/
-
-	/************************************************Mumbai Salons BEGIN********************************************/
-	.MUMBAI_BBLUNT { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_bblunt_men { background-position: 0px 0px; }
-	.mumbai_bblunt_unisex { background-position: 0px -40px; }
-	.mumbai_bblunt_women { background-position: 0px -80px; }
-
-	.MUMBAI_CHRISTIAANGEORGIO { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_christiaangeorgio_men { background-position: 0px 0px; }
-	.mumbai_christiaangeorgio_unisex { background-position: 0px -40px; }
-	.mumbai_christiaangeorgio_women { background-position: 0px -80px; }
-
-	.MUMBAI_ENRICH { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_enrich_men { background-position: 0px 0px; }
-	.mumbai_enrich_unisex { background-position: 0px -40px; }
-	.mumbai_enrich_women { background-position: 0px -80px; }
-
-	.MUMBAI_ENVI { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_envi_men { background-position: 0px 0px; }
-	.mumbai_envi_unisex { background-position: 0px -40px; }
-	.mumbai_envi_women { background-position: 0px -80px; }
-
-	.MUMBAI_FAHRENHEIT { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_fahrenheit_men { background-position: 0px 0px; }
-	.mumbai_fahrenheit_unisex { background-position: 0px -40px; }
-	.mumbai_fahrenheit_women { background-position: 0px -80px; }
-
-	.MUMBAI_JAWEDHABIB { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_jawedhabib_men { background-position: 0px 0px; }
-	.mumbai_jawedhabib_unisex { background-position: 0px -40px; }
-	.mumbai_jawedhabib_women { background-position: 0px -80px; }
-
-	.MUMBAI_JAZZUP { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_jazzup_men { background-position: 0px 0px; }
-	.mumbai_jazzup_unisex { background-position: 0px -40px; }
-	.mumbai_jazzup_women { background-position: 0px -80px; }
-
-	.MUMBAI_JEANCLAUDEBIGUINE { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_jeanclaudebiguine_men { background-position: 0px 0px; }
-	.mumbai_jeanclaudebiguine_unisex { background-position: 0px -40px; }
-	.mumbai_jeanclaudebiguine_women { background-position: 0px -80px; }
-
-	.MUMBAI_JUICE { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_juice_men { background-position: 0px 0px; }
-	.mumbai_juice_unisex { background-position: 0px -40px; }
-	.mumbai_juice_women { background-position: 0px -80px; }
-
-	.MUMBAI_LAKME { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_lakme_men { background-position: 0px 0px; }
-	.mumbai_lakme_unisex { background-position: 0px -40px; }
-	.mumbai_lakme_women { background-position: 0px -80px; }
-
-	.MUMBAI_MADOWOT { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_madowot_men { background-position: 0px 0px; }
-	.mumbai_madowot_unisex { background-position: 0px -40px; }
-	.mumbai_madowot_women { background-position: 0px -80px; }
-
-	.MUMBAI_NATURALS { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_naturals_men { background-position: 0px 0px; }
-	.mumbai_naturals_unisex { background-position: 0px -40px; }
-	.mumbai_naturals_women { background-position: 0px -80px; }
-
-	.MUMBAI_ROSSANOFERRETTI { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_rossanoferretti_men { background-position: 0px 0px; }
-	.mumbai_rossanoferretti_unisex { background-position: 0px -40px; }
-	.mumbai_rossanoferretti_women { background-position: 0px -80px; }
-
-	.MUMBAI_SAKS { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_saks_men { background-position: 0px 0px; }
-	.mumbai_saks_unisex { background-position: 0px -40px; }
-	.mumbai_saks_women { background-position: 0px -80px; }
-
-	.MUMBAI_TONIGUY { background-image: url('../../images/list/salon/mumbai/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.mumbai_toniguy_men { background-position: 0px 0px; }
-	.mumbai_toniguy_unisex { background-position: 0px -40px; }
-	.mumbai_toniguy_women { background-position: 0px -80px; }
-	/************************************************Mumbai Salons END********************************************/
-
-	/************************************************Pune Salons BEGIN********************************************/
-	.PUNE_APPLE { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_apple_men { background-position: 0px 0px; }
-	.pune_apple_unisex { background-position: 0px -40px; }
-	.pune_apple_women { background-position: 0px -80px; }
-
-	.PUNE_BBLUNT { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_bblunt_men { background-position: 0px 0px; }
-	.pune_bblunt_unisex { background-position: 0px -40px; }
-	.pune_bblunt_women { background-position: 0px -80px; }
-
-	.PUNE_ENRICH { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_enrich_men { background-position: 0px 0px; }
-	.pune_enrich_unisex { background-position: 0px -40px; }
-	.pune_enrich_women { background-position: 0px -80px; }
-
-	.PUNE_ENVI { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_envi_men { background-position: 0px 0px; }
-	.pune_envi_unisex { background-position: 0px -40px; }
-	.pune_envi_women { background-position: 0px -80px; }
-
-	.PUNE_FAHRENHEIT { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_fahrenheit_men { background-position: 0px 0px; }
-	.pune_fahrenheit_unisex { background-position: 0px -40px; }
-	.pune_fahrenheit_women { background-position: 0px -80px; }
-
-	.PUNE_HAIR2ORDER { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_hair2order_men { background-position: 0px 0px; }
-	.pune_hair2order_unisex { background-position: 0px -40px; }
-	.pune_hair2order_women { background-position: 0px -80px; }
-
-	.PUNE_JAWEDHABIB { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_jawedhabib_men { background-position: 0px 0px; }
-	.pune_jawedhabib_unisex { background-position: 0px -40px; }
-	.pune_jawedhabib_women { background-position: 0px -80px; }
-
-	.PUNE_JAZZUP { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_jazzup_men { background-position: 0px 0px; }
-	.pune_jazzup_unisex { background-position: 0px -40px; }
-	.pune_jazzup_women { background-position: 0px -80px; }
-
-	.PUNE_JUICE { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_juice_men { background-position: 0px 0px; }
-	.pune_juice_unisex { background-position: 0px -40px; }
-	.pune_juice_women { background-position: 0px -80px; }
-
-	.PUNE_LAKME { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_lakme_men { background-position: 0px 0px; }
-	.pune_lakme_unisex { background-position: 0px -40px; }
-	.pune_lakme_women { background-position: 0px -80px; }
-
-	.PUNE_NATURALS { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_naturals_men { background-position: 0px 0px; }
-	.pune_naturals_unisex { background-position: 0px -40px; }
-	.pune_naturals_women { background-position: 0px -80px; }
-
-	.PUNE_THEGAZELLE { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_thegazelle_men { background-position: 0px 0px; }
-	.pune_thegazelle_unisex { background-position: 0px -40px; }
-	.pune_thegazelle_women { background-position: 0px -80px; }
-
-	.PUNE_VOGUE { background-image: url('../../images/list/salon/pune/sal_40.png'); background-color: transparent; background-repeat: no-repeat; width: 40px; height: 40px; position: relative; z-index: 99; }
-	.pune_vogue_men { background-position: 0px 0px; }
-	.pune_vogue_unisex { background-position: 0px -40px; }
-	.pune_vogue_women { background-position: 0px -80px; }
-	/************************************************Pune Salons END********************************************/
-}
-
-/* Apple iPhone 6 Plus - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 414px) {
-
-}
-
-/* Google Nexus 5X - Portrait, Google Nexus 6 - Portrait, Google Nexus 6P - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 412px) {
-
-}
-
-/* Samsung Galaxy Note - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 400px) {
-
-}
-
-/* BlackBerry Z10 - Portrait, Google Nexus 4 - Portrait, LG Optimus G - Portrait, LG Optimus L70 - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 384px) {
-
-}
-
-/* Apple iPhone 6 - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 375px) {
-
-}
-
-/* BlackBerry Z30 - Portrait, Google Nexus 5 - Portrait, Galaxy Note 3 - Portrait, Galaxy Note II - Portrait, Galaxy S III - Portrait, Galaxy S5 - Portrait, HTC One X - Portrait, EVO LTE - Portrait, HTC Sensation - Portrait, EVO 3D - Portrait, Nokia N9 - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 360px) {
-
-}
-
-/* Apple iPhone 3GS - Portrait, iPhone 4 - Portrait, iPhone 5 - Portrait/ Google Nexus S - Portrait/ HTC Evo - Portrait, Touch HD - Portrait, Desire HD - Portrait, Desire - Portrait/ LG Optimus 2X - Portrait, Optimus 3D - Portrait, Optimus Black - Portrait/  Motorola Defy - Portrait, Droid - Portrait, Droid X - Portrait, Milestone - Portrait/ Nokia Lumia 7X0 - Portrait, Lumia 8XX - Portrait, Lumia 900 - Portrait, N800 - Portrait, N810 - Portrait, N900 - Portrait, 520 - Portrait/ Samsung Galaxy S - Portrait, SII - Portrait, W/ - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 320px) {
-
-}
-
-/* LG Optimus One - Portrait */
-@media only screen and /*!YUI-Compressor */ (max-width: 213px) {
-	/************************************************Bangalore Salons BEGIN************************************************/
-	.BENGALURU_BBLUNT { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_bblunt_men { background-position: 0px 0px; }
-	.bengaluru_bblunt_unisex { background-position: 0px -30px; }
-	.bengaluru_bblunt_women { background-position: 0px -60px; }
-
-	.BENGALURU_BODYCRAFT { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_bodycraft_men { background-position: 0px 0px; }
-	.bengaluru_bodycraft_unisex { background-position: 0px -30px; }
-	.bengaluru_bodycraft_women { background-position: 0px -60px; }
-
-	.BENGALURU_CLUBCITRUS { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_clubcitrus_men { background-position: 0px 0px; }
-	.bengaluru_clubcitrus_unisex { background-position: 0px -30px; }
-	.bengaluru_clubcitrus_women { background-position: 0px -60px; }
-
-	.BENGALURU_ENRICH { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_enrich_men { background-position: 0px 0px; }
-	.bengaluru_enrich_unisex { background-position: 0px -30px; }
-	.bengaluru_enrich_women { background-position: 0px -60px; }
-
-	.BENGALURU_GREENTRENDS { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_greentrends_men { background-position: 0px 0px; }
-	.bengaluru_greentrends_unisex { background-position: 0px -30px; }
-	.bengaluru_greentrends_women { background-position: 0px -60px; }
-
-	.BENGALURU_JAWEDHABIB { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_jawedhabib_men { background-position: 0px 0px; }
-	.bengaluru_jawedhabib_unisex { background-position: 0px -30px; }
-	.bengaluru_jawedhabib_women { background-position: 0px -60px; }
-
-	.BENGALURU_JEANCLAUDEBIGUINE { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_jeanclaudebiguine_men { background-position: 0px 0px; }
-	.bengaluru_jeanclaudebiguine_unisex { background-position: 0px -30px; }
-	.bengaluru_jeanclaudebiguine_women { background-position: 0px -60px; }
-
-	.BENGALURU_LAKME { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_lakme_men { background-position: 0px 0px; }
-	.bengaluru_lakme_unisex { background-position: 0px -30px; }
-	.bengaluru_lakme_women { background-position: 0px -60px; }
-
-	.BENGALURU_LIMELITE { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_limelite_men { background-position: 0px 0px; }
-	.bengaluru_limelite_unisex { background-position: 0px -30px; }
-	.bengaluru_limelite_women { background-position: 0px -60px; }
-
-	.BENGALURU_NATURALS { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_naturals_men { background-position: 0px 0px; }
-	.bengaluru_naturals_unisex { background-position: 0px -30px; }
-	.bengaluru_naturals_women { background-position: 0px -60px; }
-
-	.BENGALURU_OHWOW { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_ohwow_men { background-position: 0px 0px; }
-	.bengaluru_ohwow_unisex { background-position: 0px -30px; }
-	.bengaluru_ohwow_women { background-position: 0px -60px; }
-
-	.BENGALURU_PLAY { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_play_men { background-position: 0px 0px; }
-	.bengaluru_play_unisex { background-position: 0px -30px; }
-	.bengaluru_play_women { background-position: 0px -60px; }
-
-	.BENGALURU_ROSSANOFERRETTI { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_rossanoferretti_men { background-position: 0px 0px; }
-	.bengaluru_rossanoferretti_unisex { background-position: 0px -30px; }
-	.bengaluru_rossanoferretti_women { background-position: 0px -60px; }
-
-	.BENGALURU_TONIGUY { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_toniguy_men { background-position: 0px 0px; }
-	.bengaluru_toniguy_unisex { background-position: 0px -30px; }
-	.bengaluru_toniguy_women { background-position: 0px -60px; }
-
-	.BENGALURU_YLG { background-image: url('../../images/list/salon/bengaluru/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99;}
-	.bengaluru_ylg_men { background-position: 0px 0px; }
-	.bengaluru_ylg_unisex { background-position: 0px -30px; }
-	.bengaluru_ylg_women { background-position: 0px -60px; }
-	/************************************************Bangalore Salons END***************************************************/
-
-	/************************************************Chandigarh Salons BEGIN************************************************/
-	.CHANDIGARH_AFFINITY { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_affinity_men { background-position: 0px 0px; }
-	.chandigarh_affinity_unisex { background-position: 0px -30px; }
-	.chandigarh_affinity_women { background-position: 0px -60px; }
-
-	.CHANDIGARH_ATTITUDE { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_attitude_men { background-position: 0px 0px; }
-	.chandigarh_attitude_unisex { background-position: 0px -30px; }
-	.chandigarh_attitude_women { background-position: 0px -60px; }
-
-	.CHANDIGARH_FEMINAPLUS { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_feminaplus_men { background-position: 0px 0px; }
-	.chandigarh_feminaplus_unisex { background-position: 0px -30px; }
-	.chandigarh_feminaplus_women { background-position: 0px -60px; }
-
-	.CHANDIGARH_HAIRRAISERZ { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_hairraiserz_men { background-position: 0px 0px; }
-	.chandigarh_hairraiserz_unisex { background-position: 0px -30px; }
-	.chandigarh_hairraiserz_women { background-position: 0px -60px; }
-
-	.CHANDIGARH_HEADMASTERS { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_headmasters_men { background-position: 0px 0px; }
-	.chandigarh_headmasters_unisex { background-position: 0px -30px; }
-	.chandigarh_headmasters_women { background-position: 0px -60px; }
-
-	.CHANDIGARH_JAWEDHABIB { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_jawedhabib_men { background-position: 0px 0px; }
-	.chandigarh_jawedhabib_unisex { background-position: 0px -30px; }
-	.chandigarh_jawedhabib_women { background-position: 0px -60px; }
-
-	.CHANDIGARH_LAKME { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_lakme_men { background-position: 0px 0px; }
-	.chandigarh_lakme_unisex { background-position: 0px -30px; }
-	.chandigarh_lakme_women { background-position: 0px -60px; }
-
-	.CHANDIGARH_LOOKS { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_looks_men { background-position: 0px 0px; }
-	.chandigarh_looks_unisex { background-position: 0px -30px; }
-	.chandigarh_looks_women { background-position: 0px -60px; }
-
-	.CHANDIGARH_MATRIX { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_matrix_men { background-position: 0px 0px; }
-	.chandigarh_matrix_unisex { background-position: 0px -30px; }
-	.chandigarh_matrix_women { background-position: 0px -60px; }
-
-	.CHANDIGARH_STRANDS { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_strands_men { background-position: 0px 0px; }
-	.chandigarh_strands_unisex { background-position: 0px -30px; }
-	.chandigarh_strands_women { background-position: 0px -60px; }
-
-	.CHANDIGARH_TRESSLOUNGE { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_tresslounge_men { background-position: 0px 0px; }
-	.chandigarh_tresslounge_unisex { background-position: 0px -30px; }
-	.chandigarh_tresslounge_women { background-position: 0px -60px; }
-
-	.CHANDIGARH_VJOHN { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_vjohn_men { background-position: 0px 0px; }
-	.chandigarh_vjohn_unisex { background-position: 0px -30px; }
-	.chandigarh_vjohn_women { background-position: 0px -60px; }
-
-	.CHANDIGARH_WAVELENGTH { background-image: url('../../images/list/salon/chandigarh/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chandigarh_wavelength_men { background-position: 0px 0px; }
-	.chandigarh_wavelength_unisex { background-position: 0px -30px; }
-	.chandigarh_wavelength_women { background-position: 0px -60px; }
-	/************************************************Chandigarh Salons END************************************************/
-
-	/************************************************Chennai Salons BEGIN*************************************************/
-	.CHENNAI_BELLEZZA { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_bellezza_men { background-position: 0px 0px; }
-	.chennai_bellezza_unisex { background-position: 0px -30px; }
-	.chennai_bellezza_women { background-position: 0px -60px; }
-
-	.CHENNAI_BOUNCE { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_bounce_men { background-position: 0px 0px; }
-	.chennai_bounce_unisex { background-position: 0px -30px; }
-	.chennai_bounce_women { background-position: 0px -60px; }
-
-	.CHENNAI_CHILLBREEZE { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_chillbreeze_men { background-position: 0px 0px; }
-	.chennai_chillbreeze_unisex { background-position: 0px -30px; }
-	.chennai_chillbreeze_women { background-position: 0px -60px; }
-
-	.CHENNAI_EVERYOUTH { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_everyouth_men { background-position: 0px 0px; }
-	.chennai_everyouth_unisex { background-position: 0px -30px; }
-	.chennai_everyouth_women { background-position: 0px -60px; }
-
-	.CHENNAI_GREENTRENDS { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_greentrends_men { background-position: 0px 0px; }
-	.chennai_greentrends_unisex { background-position: 0px -30px; }
-	.chennai_greentrends_women { background-position: 0px -60px; }
-
-	.CHENNAI_JAWEDHABIB { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_jawedhabib_men { background-position: 0px 0px; }
-	.chennai_jawedhabib_unisex { background-position: 0px -30px; }
-	.chennai_jawedhabib_women { background-position: 0px -60px; }
-
-	.CHENNAI_LAREINA { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_lareina_men { background-position: 0px 0px; }
-	.chennai_lareina_unisex { background-position: 0px -30px; }
-	.chennai_lareina_women { background-position: 0px -60px; }
-
-	.CHENNAI_LAKME { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_lakme_men { background-position: 0px 0px; }
-	.chennai_lakme_unisex { background-position: 0px -30px; }
-	.chennai_lakme_women { background-position: 0px -60px; }
-
-	.CHENNAI_LIMELITE { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_limelite_men { background-position: 0px 0px; }
-	.chennai_limelite_unisex { background-position: 0px -30px; }
-	.chennai_limelite_women { background-position: 0px -60px; }
-
-	.CHENNAI_MAHA { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_maha_men { background-position: 0px 0px; }
-	.chennai_maha_unisex { background-position: 0px -30px; }
-	.chennai_maha_women { background-position: 0px -60px; }
-
-	.CHENNAI_NATURALS { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_naturals_men { background-position: 0px 0px; }
-	.chennai_naturals_unisex { background-position: 0px -30px; }
-	.chennai_naturals_women { background-position: 0px -60px; }
-
-	.CHENNAI_STUDIO44 { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_studio44_men { background-position: 0px 0px; }
-	.chennai_studio44_unisex { background-position: 0px -30px; }
-	.chennai_studio44_women { background-position: 0px -60px; }
-
-	.CHENNAI_STUDIOPROFILE { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_studioprofile_men { background-position: 0px 0px; }
-	.chennai_studioprofile_unisex { background-position: 0px -30px; }
-	.chennai_studioprofile_women { background-position: 0px -60px; }
-
-	.CHENNAI_TONIGUY { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_toniguy_men { background-position: 0px 0px; }
-	.chennai_toniguy_unisex { background-position: 0px -30px; }
-	.chennai_toniguy_women { background-position: 0px -60px; }
-
-	.CHENNAI_YLG { background-image: url('../../images/list/salon/chennai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.chennai_ylg_men { background-position: 0px 0px; }
-	.chennai_ylg_unisex { background-position: 0px -30px; }
-	.chennai_ylg_women { background-position: 0px -60px; }
-	/************************************************Chennai Salons END*************************************************/
-
-	/************************************************Delhi Salons BEGIN*************************************************/
-	.DELHI_AFFINITY { background-image: url('../../images/list/salon/delhi/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.delhi_affinity_men { background-position: 0px 0px; }
-	.delhi_affinity_unisex { background-position: 0px -30px; }
-	.delhi_affinity_women { background-position: 0px -60px; }
-
-	.DELHI_BBLUNT { background-image: url('../../images/list/salon/delhi/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.delhi_bblunt_men { background-position: 0px 0px; }
-	.delhi_bblunt_unisex { background-position: 0px -30px; }
-	.delhi_bblunt_women { background-position: 0px -60px; }
-
-	.DELHI_CREME { background-image: url('../../images/list/salon/delhi/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.delhi_creme_men { background-position: 0px 0px; }
-	.delhi_creme_unisex { background-position: 0px -30px; }
-	.delhi_creme_women { background-position: 0px -60px; }
-
-	.DELHI_GEETANJALI { background-image: url('../../images/list/salon/delhi/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.delhi_geetanjali_men { background-position: 0px 0px; }
-	.delhi_geetanjali_unisex { background-position: 0px -30px; }
-	.delhi_geetanjali_women { background-position: 0px -60px; }
-
-	.DELHI_GREENTRENDS { background-image: url('../../images/list/salon/delhi/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.delhi_greentrends_men { background-position: 0px 0px; }
-	.delhi_greentrends_unisex { background-position: 0px -30px; }
-	.delhi_greentrends_women { background-position: 0px -60px; }
-
-	.DELHI_JAWEDHABIB { background-image: url('../../images/list/salon/delhi/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.delhi_jawedhabib_men { background-position: 0px 0px; }
-	.delhi_jawedhabib_unisex { background-position: 0px -30px; }
-	.delhi_jawedhabib_women { background-position: 0px -60px; }
-
-	.DELHI_LAKME { background-image: url('../../images/list/salon/delhi/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.delhi_lakme_men { background-position: 0px 0px; }
-	.delhi_lakme_unisex { background-position: 0px -30px; }
-	.delhi_lakme_women { background-position: 0px -60px; }
-
-	.DELHI_LOOKS { background-image: url('../../images/list/salon/delhi/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.delhi_looks_men { background-position: 0px 0px; }
-	.delhi_looks_unisex { background-position: 0px -30px; }
-	.delhi_looks_women { background-position: 0px -60px; }
-
-	.DELHI_MONSOON { background-image: url('../../images/list/salon/delhi/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.delhi_monsoon_men { background-position: 0px 0px; }
-	.delhi_monsoon_unisex { background-position: 0px -30px; }
-	.delhi_monsoon_women { background-position: 0px -60px; }
-
-	.DELHI_NATURALS { background-image: url('../../images/list/salon/delhi/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.delhi_naturals_men { background-position: 0px 0px; }
-	.delhi_naturals_unisex { background-position: 0px -30px; }
-	.delhi_naturals_women { background-position: 0px -60px; }
-
-	.DELHI_STRANDS { background-image: url('../../images/list/salon/delhi/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.delhi_strands_men { background-position: 0px 0px; }
-	.delhi_strands_unisex { background-position: 0px -30px; }
-	.delhi_strands_women { background-position: 0px -60px; }
-
-	.DELHI_TONIGUY { background-image: url('../../images/list/salon/delhi/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.delhi_toniguy_men { background-position: 0px 0px; }
-	.delhi_toniguy_unisex { background-position: 0px -30px; }
-	.delhi_toniguy_women { background-position: 0px -60px; }
-	/************************************************Delhi Salons END*****************************************************/
-
-	/************************************************Gurgaon Salons BEGIN*************************************************/
-	.GURGAON_AFFINITY { background-image: url('../../images/list/salon/gurgaon/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.gurgaon_affinity_men { background-position: 0px 0px; }
-	.gurgaon_affinity_unisex { background-position: 0px -30px; }
-	.gurgaon_affinity_women { background-position: 0px -60px; }
-
-	.GURGAON_BBLUNT { background-image: url('../../images/list/salon/gurgaon/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.gurgaon_bblunt_men { background-position: 0px 0px; }
-	.gurgaon_bblunt_unisex { background-position: 0px -30px; }
-	.gurgaon_bblunt_women { background-position: 0px -60px; }
-
-	.GURGAON_ECSTASY { background-image: url('../../images/list/salon/gurgaon/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.gurgaon_ecstasy_men { background-position: 0px 0px; }
-	.gurgaon_ecstasy_unisex { background-position: 0px -30px; }
-	.gurgaon_ecstasy_women { background-position: 0px -60px; }
-
-	.GURGAON_GEETANJALI { background-image: url('../../images/list/salon/gurgaon/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.gurgaon_geetanjali_men { background-position: 0px 0px; }
-	.gurgaon_geetanjali_unisex { background-position: 0px -30px; }
-	.gurgaon_geetanjali_women { background-position: 0px -60px; }
-
-	.GURGAON_JAWEDHABIB { background-image: url('../../images/list/salon/gurgaon/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.gurgaon_jawedhabib_men { background-position: 0px 0px; }
-	.gurgaon_jawedhabib_unisex { background-position: 0px -30px; }
-	.gurgaon_jawedhabib_women { background-position: 0px -60px; }
-
-	.GURGAON_LAKME { background-image: url('../../images/list/salon/gurgaon/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.gurgaon_lakme_men { background-position: 0px 0px; }
-	.gurgaon_lakme_unisex { background-position: 0px -30px; }
-	.gurgaon_lakme_women { background-position: 0px -60px; }
-
-	.GURGAON_LOOKS { background-image: url('../../images/list/salon/gurgaon/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.gurgaon_looks_men { background-position: 0px 0px; }
-	.gurgaon_looks_unisex { background-position: 0px -30px; }
-	.gurgaon_looks_women { background-position: 0px -60px; }
-
-	.GURGAON_MONSOON { background-image: url('../../images/list/salon/gurgaon/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.gurgaon_monsoon_men { background-position: 0px 0px; }
-	.gurgaon_monsoon_unisex { background-position: 0px -30px; }
-	.gurgaon_monsoon_women { background-position: 0px -60px; }
-
-	.GURGAON_NATURALS { background-image: url('../../images/list/salon/gurgaon/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.gurgaon_naturals_men { background-position: 0px 0px; }
-	.gurgaon_naturals_unisex { background-position: 0px -30px; }
-	.gurgaon_naturals_women { background-position: 0px -60px; }
-
-	.GURGAON_ROSSANOFERRETTI { background-image: url('../../images/list/salon/gurgaon/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.gurgaon_rossanoferretti_men { background-position: 0px 0px; }
-	.gurgaon_rossanoferretti_unisex { background-position: 0px -30px; }
-	.gurgaon_rossanoferretti_women { background-position: 0px -60px; }
-
-	.GURGAON_TANGLES { background-image: url('../../images/list/salon/gurgaon/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.gurgaon_tangles_men { background-position: 0px 0px; }
-	.gurgaon_tangles_unisex { background-position: 0px -30px; }
-	.gurgaon_tangles_women { background-position: 0px -60px; }
-
-	.GURGAON_TONIGUY { background-image: url('../../images/list/salon/gurgaon/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.gurgaon_toniguy_men { background-position: 0px 0px; }
-	.gurgaon_toniguy_unisex { background-position: 0px -30px; }
-	.gurgaon_toniguy_women { background-position: 0px -60px; }
-	/************************************************Gurgaon Salons END*************************************************/
-
-	/************************************************Hyderabad Salons BEGIN*********************************************/
-	.HYDERABAD_BUBBLES { background-image: url('../../images/list/salon/hyderabad/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.hyderabad_bubbles_men { background-position: 0px 0px; }
-	.hyderabad_bubbles_unisex { background-position: 0px -30px; }
-	.hyderabad_bubbles_women { background-position: 0px -60px; }
-
-	.HYDERABAD_ENVI { background-image: url('../../images/list/salon/hyderabad/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.hyderabad_envi_men { background-position: 0px 0px; }
-	.hyderabad_envi_unisex { background-position: 0px -30px; }
-	.hyderabad_envi_women { background-position: 0px -60px; }
-
-	.HYDERABAD_GREENTRENDS { background-image: url('../../images/list/salon/hyderabad/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.hyderabad_greentrends_men { background-position: 0px 0px; }
-	.hyderabad_greentrends_unisex { background-position: 0px -30px; }
-	.hyderabad_greentrends_women { background-position: 0px -60px; }
-
-	.HYDERABAD_JAWEDHABIB { background-image: url('../../images/list/salon/hyderabad/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.hyderabad_jawedhabib_men { background-position: 0px 0px; }
-	.hyderabad_jawedhabib_unisex { background-position: 0px -30px; }
-	.hyderabad_jawedhabib_women { background-position: 0px -60px; }
-
-	.HYDERABAD_JUICE { background-image: url('../../images/list/salon/hyderabad/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.hyderabad_juice_men { background-position: 0px 0px; }
-	.hyderabad_juice_unisex { background-position: 0px -30px; }
-	.hyderabad_juice_women { background-position: 0px -60px; }
-
-	.HYDERABAD_LAKME { background-image: url('../../images/list/salon/hyderabad/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.hyderabad_lakme_men { background-position: 0px 0px; }
-	.hyderabad_lakme_unisex { background-position: 0px -30px; }
-	.hyderabad_lakme_women { background-position: 0px -60px; }
-
-	.HYDERABAD_MIRRORS { background-image: url('../../images/list/salon/hyderabad/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.hyderabad_mirrors_men { background-position: 0px 0px; }
-	.hyderabad_mirrors_unisex { background-position: 0px -30px; }
-	.hyderabad_mirrors_women { background-position: 0px -60px; }
-
-	.HYDERABAD_NATURALS { background-image: url('../../images/list/salon/hyderabad/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.hyderabad_naturals_men { background-position: 0px 0px; }
-	.hyderabad_naturals_unisex { background-position: 0px -30px; }
-	.hyderabad_naturals_women { background-position: 0px -60px; }
-
-	.HYDERABAD_PARISDESALON { background-image: url('../../images/list/salon/hyderabad/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.hyderabad_parisdesalon_men { background-position: 0px 0px; }
-	.hyderabad_parisdesalon_unisex { background-position: 0px -30px; }
-	.hyderabad_parisdesalon_women { background-position: 0px -60px; }
-
-	.HYDERABAD_TONIGUY { background-image: url('../../images/list/salon/hyderabad/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.hyderabad_toniguy_men { background-position: 0px 0px; }
-	.hyderabad_toniguy_unisex { background-position: 0px -30px; }
-	.hyderabad_toniguy_women { background-position: 0px -60px; }
-	/************************************************Hyderabad Salons END*********************************************/
-
-	/************************************************Kolkata Salons BEGIN*********************************************/
-	.KOLKATA_BEBONNIE { background-image: url('../../images/list/salon/kolkata/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.kolkata_bebonnie_men { background-position: 0px 0px; }
-	.kolkata_bebonnie_unisex { background-position: 0px -30px; }
-	.kolkata_bebonnie_women { background-position: 0px -60px; }
-
-	.KOLKATA_BESTYLISH { background-image: url('../../images/list/salon/kolkata/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.kolkata_bestylish_men { background-position: 0px 0px; }
-	.kolkata_bestylish_unisex { background-position: 0px -30px; }
-	.kolkata_bestylish_women { background-position: 0px -60px; }
-
-	.KOLKATA_COLORS { background-image: url('../../images/list/salon/kolkata/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.kolkata_colors_men { background-position: 0px 0px; }
-	.kolkata_colors_unisex { background-position: 0px -30px; }
-	.kolkata_colors_women { background-position: 0px -60px; }
-
-	.KOLKATA_EYECATCHERS { background-image: url('../../images/list/salon/kolkata/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.kolkata_eyecatchers_men { background-position: 0px 0px; }
-	.kolkata_eyecatchers_unisex { background-position: 0px -30px; }
-	.kolkata_eyecatchers_women { background-position: 0px -60px; }
-
-	.KOLKATA_GREENTRENDS { background-image: url('../../images/list/salon/kolkata/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.kolkata_greentrends_men { background-position: 0px 0px; }
-	.kolkata_greentrends_unisex { background-position: 0px -30px; }
-	.kolkata_greentrends_women { background-position: 0px -60px; }
-
-	.KOLKATA_HEADTURNERS { background-image: url('../../images/list/salon/kolkata/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.kolkata_headturners_men { background-position: 0px 0px; }
-	.kolkata_headturners_unisex { background-position: 0px -30px; }
-	.kolkata_headturners_women { background-position: 0px -60px; }
-
-	.KOLKATA_JAWEDHABIB { background-image: url('../../images/list/salon/kolkata/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.kolkata_jawedhabib_men { background-position: 0px 0px; }
-	.kolkata_jawedhabib_unisex { background-position: 0px -30px; }
-	.kolkata_jawedhabib_women { background-position: 0px -60px; }
-
-	.KOLKATA_JUICE { background-image: url('../../images/list/salon/kolkata/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.kolkata_juice_men { background-position: 0px 0px; }
-	.kolkata_juice_unisex { background-position: 0px -30px; }
-	.kolkata_juice_women { background-position: 0px -60px; }
-
-	.KOLKATA_JUNETOMKYNS { background-image: url('../../images/list/salon/kolkata/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.kolkata_junetomkyns_men { background-position: 0px 0px; }
-	.kolkata_junetomkyns_unisex { background-position: 0px -30px; }
-	.kolkata_junetomkyns_women { background-position: 0px -60px; }
-
-	.KOLKATA_LAKME { background-image: url('../../images/list/salon/kolkata/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.kolkata_lakme_men { background-position: 0px 0px; }
-	.kolkata_lakme_unisex { background-position: 0px -30px; }
-	.kolkata_lakme_women { background-position: 0px -60px; }
-
-	.KOLKATA_NATURALS { background-image: url('../../images/list/salon/kolkata/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.kolkata_naturals_men { background-position: 0px 0px; }
-	.kolkata_naturals_unisex { background-position: 0px -30px; }
-	.kolkata_naturals_women { background-position: 0px -60px; }
-
-	.KOLKATA_RIGHTANGLE { background-image: url('../../images/list/salon/kolkata/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.kolkata_rightangle_men { background-position: 0px 0px; }
-	.kolkata_rightangle_unisex { background-position: 0px -30px; }
-	.kolkata_rightangle_women { background-position: 0px -60px; }
-	/************************************************Kolkata Salons END*********************************************/
-
-	/************************************************Mumbai Salons BEGIN********************************************/
-	.MUMBAI_BBLUNT { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_bblunt_men { background-position: 0px 0px; }
-	.mumbai_bblunt_unisex { background-position: 0px -30px; }
-	.mumbai_bblunt_women { background-position: 0px -60px; }
-
-	.MUMBAI_CHRISTIAANGEORGIO { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_christiaangeorgio_men { background-position: 0px 0px; }
-	.mumbai_christiaangeorgio_unisex { background-position: 0px -30px; }
-	.mumbai_christiaangeorgio_women { background-position: 0px -60px; }
-
-	.MUMBAI_ENRICH { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_enrich_men { background-position: 0px 0px; }
-	.mumbai_enrich_unisex { background-position: 0px -30px; }
-	.mumbai_enrich_women { background-position: 0px -60px; }
-
-	.MUMBAI_ENVI { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_envi_men { background-position: 0px 0px; }
-	.mumbai_envi_unisex { background-position: 0px -30px; }
-	.mumbai_envi_women { background-position: 0px -60px; }
-
-	.MUMBAI_FAHRENHEIT { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_fahrenheit_men { background-position: 0px 0px; }
-	.mumbai_fahrenheit_unisex { background-position: 0px -30px; }
-	.mumbai_fahrenheit_women { background-position: 0px -60px; }
-
-	.MUMBAI_JAWEDHABIB { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_jawedhabib_men { background-position: 0px 0px; }
-	.mumbai_jawedhabib_unisex { background-position: 0px -30px; }
-	.mumbai_jawedhabib_women { background-position: 0px -60px; }
-
-	.MUMBAI_JAZZUP { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_jazzup_men { background-position: 0px 0px; }
-	.mumbai_jazzup_unisex { background-position: 0px -30px; }
-	.mumbai_jazzup_women { background-position: 0px -60px; }
-
-	.MUMBAI_JEANCLAUDEBIGUINE { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_jeanclaudebiguine_men { background-position: 0px 0px; }
-	.mumbai_jeanclaudebiguine_unisex { background-position: 0px -30px; }
-	.mumbai_jeanclaudebiguine_women { background-position: 0px -60px; }
-
-	.MUMBAI_JUICE { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_juice_men { background-position: 0px 0px; }
-	.mumbai_juice_unisex { background-position: 0px -30px; }
-	.mumbai_juice_women { background-position: 0px -60px; }
-
-	.MUMBAI_LAKME { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_lakme_men { background-position: 0px 0px; }
-	.mumbai_lakme_unisex { background-position: 0px -30px; }
-	.mumbai_lakme_women { background-position: 0px -60px; }
-
-	.MUMBAI_MADOWOT { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_madowot_men { background-position: 0px 0px; }
-	.mumbai_madowot_unisex { background-position: 0px -30px; }
-	.mumbai_madowot_women { background-position: 0px -60px; }
-
-	.MUMBAI_NATURALS { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_naturals_men { background-position: 0px 0px; }
-	.mumbai_naturals_unisex { background-position: 0px -30px; }
-	.mumbai_naturals_women { background-position: 0px -60px; }
-
-	.MUMBAI_ROSSANOFERRETTI { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_rossanoferretti_men { background-position: 0px 0px; }
-	.mumbai_rossanoferretti_unisex { background-position: 0px -30px; }
-	.mumbai_rossanoferretti_women { background-position: 0px -60px; }
-
-	.MUMBAI_SAKS { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_saks_men { background-position: 0px 0px; }
-	.mumbai_saks_unisex { background-position: 0px -30px; }
-	.mumbai_saks_women { background-position: 0px -60px; }
-
-	.MUMBAI_TONIGUY { background-image: url('../../images/list/salon/mumbai/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.mumbai_toniguy_men { background-position: 0px 0px; }
-	.mumbai_toniguy_unisex { background-position: 0px -30px; }
-	.mumbai_toniguy_women { background-position: 0px -60px; }
-	/************************************************Mumbai Salons END********************************************/
-
-	/************************************************Pune Salons BEGIN********************************************/
-	.PUNE_APPLE { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_apple_men { background-position: 0px 0px; }
-	.pune_apple_unisex { background-position: 0px -30px; }
-	.pune_apple_women { background-position: 0px -60px; }
-
-	.PUNE_BBLUNT { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_bblunt_men { background-position: 0px 0px; }
-	.pune_bblunt_unisex { background-position: 0px -30px; }
-	.pune_bblunt_women { background-position: 0px -60px; }
-
-	.PUNE_ENRICH { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_enrich_men { background-position: 0px 0px; }
-	.pune_enrich_unisex { background-position: 0px -30px; }
-	.pune_enrich_women { background-position: 0px -60px; }
-
-	.PUNE_ENVI { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_envi_men { background-position: 0px 0px; }
-	.pune_envi_unisex { background-position: 0px -30px; }
-	.pune_envi_women { background-position: 0px -60px; }
-
-	.PUNE_FAHRENHEIT { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_fahrenheit_men { background-position: 0px 0px; }
-	.pune_fahrenheit_unisex { background-position: 0px -30px; }
-	.pune_fahrenheit_women { background-position: 0px -60px; }
-
-	.PUNE_HAIR2ORDER { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_hair2order_men { background-position: 0px 0px; }
-	.pune_hair2order_unisex { background-position: 0px -30px; }
-	.pune_hair2order_women { background-position: 0px -60px; }
-
-	.PUNE_JAWEDHABIB { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_jawedhabib_men { background-position: 0px 0px; }
-	.pune_jawedhabib_unisex { background-position: 0px -30px; }
-	.pune_jawedhabib_women { background-position: 0px -60px; }
-
-	.PUNE_JAZZUP { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_jazzup_men { background-position: 0px 0px; }
-	.pune_jazzup_unisex { background-position: 0px -30px; }
-	.pune_jazzup_women { background-position: 0px -60px; }
-
-	.PUNE_JUICE { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_juice_men { background-position: 0px 0px; }
-	.pune_juice_unisex { background-position: 0px -30px; }
-	.pune_juice_women { background-position: 0px -60px; }
-
-	.PUNE_LAKME { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_lakme_men { background-position: 0px 0px; }
-	.pune_lakme_unisex { background-position: 0px -30px; }
-	.pune_lakme_women { background-position: 0px -60px; }
-
-	.PUNE_NATURALS { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_naturals_men { background-position: 0px 0px; }
-	.pune_naturals_unisex { background-position: 0px -30px; }
-	.pune_naturals_women { background-position: 0px -60px; }
-
-	.PUNE_THEGAZELLE { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_thegazelle_men { background-position: 0px 0px; }
-	.pune_thegazelle_unisex { background-position: 0px -30px; }
-	.pune_thegazelle_women { background-position: 0px -60px; }
-
-	.PUNE_VOGUE { background-image: url('../../images/list/salon/pune/sal_30.png'); background-color: transparent; background-repeat: no-repeat; width: 30px; height: 30px; position: relative; z-index: 99; }
-	.pune_vogue_men { background-position: 0px 0px; }
-	.pune_vogue_unisex { background-position: 0px -30px; }
-	.pune_vogue_women { background-position: 0px -60px; }
-	/************************************************Pune Salons END********************************************/
-}
-/*************************************************************************@media query - end********************************************************/

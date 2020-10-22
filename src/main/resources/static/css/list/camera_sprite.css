@@ -1,40 +1,40 @@
-.CANON { background-image: url('../../images/list/camera/canon_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.CANON { background-image: url('../../images/list/camera/camera.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
 .canon_dc { background-position: 0px 0px; }
 .canon_dslr { background-position: 0px -60px; }
 
-.FUJIFILM { background-image: url('../../images/list/camera/fujiFilm_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.FUJIFILM { background-image: url('../../images/list/camera/camera.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
 .fujiFilm_dc { background-position: 0px 0px; }
 .fujiFilm_dslr { background-position: 0px -60px; }
 
-.KODAK { background-image: url('../../images/list/camera/kodak_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.KODAK { background-image: url('../../images/list/camera/camera.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
 .kodak_dc { background-position: 0px 0px; }
 .kodak_dslr { background-position: 0px -60px; }
 
-.NIKON { background-image: url('../../images/list/camera/nikon_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.NIKON { background-image: url('../../images/list/camera/camera.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
 .nikon_dc { background-position: 0px 0px; }
 .nikon_dslr { background-position: 0px -60px; }
 
-.OLYMPUS { background-image: url('../../images/list/camera/olympus_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.OLYMPUS { background-image: url('../../images/list/camera/camera.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
 .olympus_dc { background-position: 0px 0px; }
 .olympus_dslr { background-position: 0px -60px; }
 
-.PANASONIC { background-image: url('../../images/list/camera/panasonic_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.PANASONIC { background-image: url('../../images/list/camera/camera.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
 .panasonic_dc { background-position: 0px 0px; }
 .panasonic_dslr { background-position: 0px -60px; }
 
-.PENTAX { background-image: url('../../images/list/camera/pentax_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.PENTAX { background-image: url('../../images/list/camera/camera.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
 .pentax_dc { background-position: 0px 0px; }
 .pentax_dslr { background-position: 0px -60px; }
 
-.PHILIPS { background-image: url('../../images/list/camera/philips_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.PHILIPS { background-image: url('../../images/list/camera/camera.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
 .philips_dc { background-position: 0px 0px; }
 .philips_dslr { background-position: 0px -60px; }
 
-.SAMSUNG { background-image: url('../../images/list/camera/samsung_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.SAMSUNG { background-image: url('../../images/list/camera/camera.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
 .samsung_dc { background-position: 0px 0px; }
 .samsung_dslr { background-position: 0px -60px; }
 
-.SONY { background-image: url('../../images/list/camera/sony_60.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
+.SONY { background-image: url('../../images/list/camera/camera.png'); background-color: transparent; background-repeat: no-repeat; width: 60px; height: 60px; position: relative;}
 .sony_dc { background-position: 0px 0px; }
 .sony_dslr { background-position: 0px -60px; }
 /*************************************************************************@media query - begin******************************************************/
